@@ -1,0 +1,33 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "es2015",
+		"module": "amd",
+		"declaration": false,
+		"experimentalDecorators": true,
+		"removeComments": true,
+		"strict": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noLib": false,
+		"preserveConstEnums": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"diagnostics": true,
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"lib": ["dom", "dom.iterable", "es2015"],
+		"plugins": [
+			{
+				"name": "typescript-tslint-plugin",
+				"alwaysShowRuleFailuresAsWarnings": false,
+				"ignoreDefinitionFiles": true,
+				"configFile": "./tslint.json",
+				"suppressWhileTypeErrorsPresent": false,
+				"mockTypeScriptVersion": false
+			}
+		]
+	},
+	"files": [
+		"script.ts"
+	]
+}

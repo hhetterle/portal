@@ -1,0 +1,28 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch localhost with sourcemaps",
+			"type": "chrome",
+			"request": "launch",
+			"url": "http://localhost/bootmenu/",
+			"sourceMaps": true,
+			"webRoot": "${workspaceRoot}",
+			"runtimeArgs": [
+				"--incognito",
+				"--enable-precise-memory-info",
+				"--disable-web-security",
+				"--ignore-certificate-errors",
+				"--window-size=1600,900",
+				"--window-position=-6,0",
+				"--force-device-scale-factor=1",
+				"--mute-audio",
+				/*
+				 * workaround for error disable-web-security is not enough in Chrome v66 => might be fixed within v67
+				 * https://bugs.chromium.org/p/chromium/issues/detail?id=842040
+				*/
+				"--disable-features=CrossSiteDocumentBlockingIfIsolating,CrossSiteDocumentBlockingAlways"
+			]
+		}
+	]
+}

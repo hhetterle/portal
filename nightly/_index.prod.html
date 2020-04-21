@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body onload="startPortal();">
+
+	<object type='application/x-jszac' id='zacPluginObject'
+		style="height: 0; position: absolute; width: 0; visibility: hidden;"></object>
+
+	<script type="text/javascript">
+
+		function startPortal() {
+
+			// use property of zacPluginObject to force a connection to WPEPluginProcess
+			var objZacSystem = (document.getElementById("zacPluginObject") || {}).System;
+
+			if (objZacSystem) {
+
+				startUiPortal(objZacSystem.GetSystemInformation(), "normal");
+			}
+			else {
+
+				document.getElementById("zacPluginObject").remove();
+
+				setTimeout(() => {
+
+					const newElement = document.createElement("object");
+
+					newElement.setAttribute("type", "application/x-jszac");
+					newElement.setAttribute("id", "zacPluginObject");
+					newElement.setAttribute("style", "height: 0; position: absolute; width: 0; visibility: hidden;");
+
+					document.getElementsByTagName("body")[0].appendChild(newElement);
+
+					setTimeout(() => {
+
+						// use property of zacPluginObject to force a connection to WPEPluginProcess
+						const objZacSystem = (document.getElementById("zacPluginObject") || {}).System;
+
+						if (objZacSystem) {
+
+							startUiPortal(objZacSystem.GetSystemInformation(), "retry");
+						}
+						else {
+
+							startUiPortal({
+
+								SwProductVariant: "SwProductVariant Test"
+							}, "mock");
+						}
+
+					}, 100);
+
+				}, 1000);
+			}
+		}
+
+		function startUiPortal(objSysInfo, zacType) {
+
+			var stbType = "MR401";
+
+			if (objSysInfo.SwProductVariant) {
+
+				if (objSysInfo.SwProductVariant.indexOf("G4SAT") !== -1) {
+
+					stbType = "MRSAT";
+				}
+				else if (objSysInfo.SwProductVariant.indexOf("G5") !== -1) {
+
+					stbType = "MRG5";
+				}
+			}
+
+			var devPortal = "https://cto-tvd.github.io/portal/nightly/master/prod/";
+
+			var targetUrl = devPortal + stbType + "/index.html";
+
+			if (window.location.search) {
+
+				targetUrl += window.location.search + "&";
+			}
+			else {
+
+				targetUrl += "?";
+			}
+
+			targetUrl += "logging.loglevel=info&zacType="+zacType;
+
+			console.log("[startUiPortal] targetUrl: " + targetUrl);
+
+			window.location.replace(targetUrl);
+		}
+
+	</script>
+
+</body>
+
+</html>

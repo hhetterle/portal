@@ -1,0 +1,37 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        "node_modules": true,
+        "bower_components": true,
+        "**/bin": true,
+        "**/coverage": true,
+        "**/obj": true,
+        "**/compilerconfig.*": true,
+        "**/packages.config": true,
+        "**/*.csproj": true,
+        "**/*.user": true,
+        "**/*.css": {
+            "when": "$(basename).less"
+        },
+        "**/*.min.css": true,
+        "**/*.js": {
+            "when": "$(basename).ts"
+        },
+        "**/*?.js": {
+            "when": "$(basename).tsx"
+        },
+        "**/*.js.map": true
+    },
+    "todo-tree.excludeGlobs": [
+        "**/src-thirdparty/**",
+        "**/translation/strings.*"
+    ],
+    "todo-tree.showCountsInTree": true,
+    "todo-tree.statusBar": "tags",
+    "todo-tree.tags": [
+        "TODO",
+        "FIXME",
+        "WORKAROUND"
+    ],
+    "todo-tree.regexCaseSensitive": false
+}
