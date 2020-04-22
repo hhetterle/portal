@@ -14,10 +14,10 @@
   {"env":"t0","model":"mrsat","build":"vodpurchase","url":"https://cto-tvd.github.io/portal/nightly/dev_vodpurchase/tu/MRSAT/index.html"},
   {"env":"t0","model":"mrg5","build":"vodpurchase","url":"https://cto-tvd.github.io/portal/nightly/dev_vodpurchase/tu/MRG5/index.html"},
   
-  {"env":"t0","model":"mrentry","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrentry-tu-2.74.8956-new/index.html"},
-  {"env":"t0","model":"mr401","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mr401-tu-2.74.8956-new/index.html"},
-  {"env":"t0","model":"mrsat","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrsat-tu-2.74.8956-new/index.html"},
-  {"env":"t0","model":"mrg5","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrg5-tu-2.74.8956-new/index.html"},
+  {"env":"t0","model":"mrentry","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrentry-tu-2.76.9123-new/index.html"},
+  {"env":"t0","model":"mr401","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mr401-tu-2.76.9123-new/index.html"},
+  {"env":"t0","model":"mrsat","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrsat-tu-2.76.9123-new/index.html"},
+  {"env":"t0","model":"mrg5","build":"stable","url":"https://appepidat30004.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrg5-tu-2.76.9123-new/index.html"},
 
   {"env":"t0","model":"mrentry","build":"fallback","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MREntry/index.html"},
   {"env":"t0","model":"mr401","build":"fallback","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MR401/index.html"},
