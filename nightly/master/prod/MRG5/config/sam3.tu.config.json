@@ -48,7 +48,7 @@
         "avspin": "1818",
         "anid": "120049010000000001112411"
     },
-    "mock4": {
+    "mock3": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
         "username": "stb-kk001@vodas.de",
