@@ -1,0 +1,282 @@
+[
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "29e68161",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/04/200427_2015_sendung_fdw/2/200427_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "4fc6c926",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/04/200427_2015_sendung_fdw/2/200427_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "2af0b2e8",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/04/200427_2015_sendung_fdw/2/200427_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "2af0b2e8",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/04/200427_2015_sendung_fdw/2/200427_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "257e2141",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200225_2145_wir_machen_durch_bis_morgen_frueh_fis/2/200225_2145_wir_machen_durch_bis_morgen_frueh_fis_a1a2_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "8f8303c7",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200225_2145_wir_machen_durch_bis_morgen_frueh_fis/2/200225_2145_wir_machen_durch_bis_morgen_frueh_fis_a1a2_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "7086e087",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200225_2145_wir_machen_durch_bis_morgen_frueh_fis/2/200225_2145_wir_machen_durch_bis_morgen_frueh_fis_a1a2_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "7086e087",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200225_2145_wir_machen_durch_bis_morgen_frueh_fis/2/200225_2145_wir_machen_durch_bis_morgen_frueh_fis_a1a2_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "343a0687",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170115_sendung_sof/5/170115_sendung_sof_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "5c432f00",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170115_sendung_sof/5/170115_sendung_sof_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "4c9215ce",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170115_sendung_sof/5/170115_sendung_sof_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "4c9215ce",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170115_sendung_sof/5/170115_sendung_sof_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "5951a17",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200426_zum_verwechslen_aehnlich_spf/3/200426_zum_verwechslen_aehnlich_spf_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "eb5c9d30",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200426_zum_verwechslen_aehnlich_spf/3/200426_zum_verwechslen_aehnlich_spf_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "42ffe73e",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200426_zum_verwechslen_aehnlich_spf/3/200426_zum_verwechslen_aehnlich_spf_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "42ffe73e",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200426_zum_verwechslen_aehnlich_spf/3/200426_zum_verwechslen_aehnlich_spf_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "f166dad1",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/19/11/191104_timm_thaler_kfi/4/191104_timm_thaler_kfi_a1a2_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "5e53f497",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/19/11/191104_timm_thaler_kfi/4/191104_timm_thaler_kfi_a1a2_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "21057917",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/19/11/191104_timm_thaler_kfi/4/191104_timm_thaler_kfi_a1a2_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "21057917",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/19/11/191104_timm_thaler_kfi/4/191104_timm_thaler_kfi_a1a2_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "cd805294",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180703_2145_sendung_sof/5/180703_2145_sendung_sof_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "24942bd2",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180703_2145_sendung_sof/5/180703_2145_sendung_sof_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "25bdea72",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180703_2145_sendung_sof/5/180703_2145_sendung_sof_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "25bdea72",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180703_2145_sendung_sof/5/180703_2145_sendung_sof_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "dfd00cb7",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200419_die_schtis_in_paris_spf/3/200419_die_schtis_in_paris_spf_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "2c3a1650",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200419_die_schtis_in_paris_spf/3/200419_die_schtis_in_paris_spf_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "dfa9739e",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200419_die_schtis_in_paris_spf/3/200419_die_schtis_in_paris_spf_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "dfa9739e",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/04/200419_die_schtis_in_paris_spf/3/200419_die_schtis_in_paris_spf_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "16a1613b",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "9a6b1c9d",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_776k_p11v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "349c07bd",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "349c07bd",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_476k_p9v13.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "6ef2dc76",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200331_der_hypnotiseur_neo/5/200331_der_hypnotiseur_neo_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "4827aa11",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200331_der_hypnotiseur_neo/5/200331_der_hypnotiseur_neo_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "27cfabbf",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200331_der_hypnotiseur_neo/5/200331_der_hypnotiseur_neo_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "27cfabbf",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200331_der_hypnotiseur_neo/5/200331_der_hypnotiseur_neo_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "58525e33",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "4ff254af",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "e3966397",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_229k_p7v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "e3966397",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_229k_p7v13.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	}
+]

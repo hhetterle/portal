@@ -1,0 +1,25 @@
+{
+    "activeEndpoint": "aws",
+
+    "endpoints": {
+
+        "aws": {
+            "transformationRule": "aws",
+            "url": "https://t0.dcp.telekom-dienste.de/auth"
+        },
+
+        "aws_sandbox": {
+            "transformationRule": "aws",
+            "url": "https://dev.dcp.telekom-dienste.de/auth"
+        },
+
+        "dev": {
+            "transformationRule": "none",
+            "url": "ws://scrum999.ddnss.de:9001/mqtt"
+        }
+    },
+    "mock" :{
+        "deviceId" : "" // seems value must be here so it's getting copied to the target structure. Keep it as empty string to take a default value form the source code
+
+    }
+}

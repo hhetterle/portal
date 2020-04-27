@@ -1,0 +1,1722 @@
+[
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf81",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf82",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf83",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf84",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf85",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf86",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf87",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf88",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag"
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	}
+]

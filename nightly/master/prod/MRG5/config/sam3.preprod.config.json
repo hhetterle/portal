@@ -1,0 +1,44 @@
+{
+    "clients": {
+        "ngtvepg": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "dcp": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "sdpnf": {
+            "clientID": "10LIVESAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "default": {
+            "clientID": "10TVL1SAM30000004901NGTVZENTERIO00000000",
+            "clientSecret": ""
+        }
+    },
+    "mock": {
+        "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "550210006151",
+        "password": "37947304",
+        "pin": "",
+        "avspin": "",
+        "anid": "120049010000000000000000"
+    },
+    "mock1": {
+        "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "550214000946",
+        "password": "37947304",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000000000000"
+    },
+    "mock2": {
+        "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "550212009125",
+        "password": "37947304",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000000000000"
+    }
+}
