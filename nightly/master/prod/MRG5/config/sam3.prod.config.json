@@ -22,6 +22,7 @@
         }
     },
     "mock": {
+        "clientID": "10LIVESAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login.idm.telekom.com/oauth2/tokens",
         "username": "",
         "password": "",
