@@ -13905,12 +13905,6 @@
 				"url": "http://programm-manager.telekom.de/media/d4af42cd423f03dbfe9d512e5e8c3517993e1662.png",
 				"height": "48",
 				"width": "84"
-			},
-			{
-				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/633bcd2fe04bd3d65d6f903da43bb60ca01b35d5.jpeg",
-				"height": "1080",
-				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -13962,12 +13956,6 @@
 				"url": "http://programm-manager.telekom.de/media/ec14b417dee22f3af18935099cfc3a8a54b4c165.png",
 				"height": "48",
 				"width": "84"
-			},
-			{
-				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/633bcd2fe04bd3d65d6f903da43bb60ca01b35d5.jpeg",
-				"height": "1080",
-				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -16539,7 +16527,7 @@
 		"images": [
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/90be4a2bf29a406654db21c6197218f71547eeca.png",
+				"url": "http://programm-manager.telekom.de/media/572797147fee7e917ac44bb4875245aae3ea907c.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -16585,7 +16573,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "Sky Cinema Harry Potter",
+		"title": "Sky Cinema Special",
 		"zosaId": "375:3844",
 		"zosaType": "ChannelItem"
 	},
@@ -20001,13 +19989,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk20003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk20003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
