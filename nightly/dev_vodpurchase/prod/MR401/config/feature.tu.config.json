@@ -45,6 +45,14 @@
                     "expression": "IPTV_COAX",
                     "assignment": "coax"
                 }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "localhost",
+                    "assignment": "nightly_prod"
+                }
             }
         ],
 
@@ -69,7 +77,8 @@
                     "bluetooth": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["full"],
-                    "moreTvShowQrCodes" : ["full"],
+                    "moreTvShowQrCodes" : ["none"],
+                    "moreTvMagentaHaus" : ["full"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
@@ -80,7 +89,13 @@
                     "useshortcuts": ["full"],
                     "searchNetflix": ["full"],
                     "groupedSearch": ["full"],
-                    "pipInLane": ["full"]
+                    "pipInLane": ["full"],
+                    "netflixDet": ["none"],
+                    "vodDeleteLicence": ["full"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["full"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
               	"values": {
@@ -127,7 +142,8 @@
                     "bluetooth": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["full"],
-                    "moreTvShowQrCodes" : ["full"],
+                    "moreTvShowQrCodes" : ["none"],
+                    "moreTvMagentaHaus" : ["full"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": [],
@@ -138,7 +154,13 @@
                     "useshortcuts": ["full"],
                     "searchNetflix": ["full"],
                     "groupedSearch": ["full"],
-                    "pipInLane": ["full"]
+                    "pipInLane": ["full"],
+                    "netflixDet": ["none"],
+                    "vodDeleteLicence": ["full"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
                 "values": {
@@ -174,7 +196,8 @@
                     "usb": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["full"],
-                    "moreTvShowQrCodes" : ["full"],
+                    "moreTvShowQrCodes" : ["none"],
+                    "moreTvMagentaHaus" : ["full"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
@@ -186,7 +209,13 @@
                     "groupedSearch": ["full"],
                     "pipInLane": ["full"],
                     "extendedpowermanagement": ["none"],
-                    "fullremote": ["none"]
+                    "fullremote": ["none"],
+                    "netflixDet": ["none"],
+                    "vodDeleteLicence": ["full"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["full"],
+                    "voiceHistory": ["full"]
                 },
 
               	"values": {

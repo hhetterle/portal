@@ -385,7 +385,7 @@
                         "lvl2id": 1 // navigation
                 },
                 {
-                        "regex": "^(screensaver|screen-saver-component)",
+                        "regex": "^(screensaver|screen-saver-component|screen-saver2-component)",
                         "replace": "Screen Saver",
                         "lvl2id": 1 // navigation
                 },

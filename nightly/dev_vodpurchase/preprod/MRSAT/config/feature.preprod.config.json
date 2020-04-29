@@ -27,6 +27,14 @@
                     "expression": "SATHYBRID",
                     "assignment": "sathybrid"
                 }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "github.io",
+                    "assignment": "nightly_prod"
+                }
             }
         ],
         "definition": {
@@ -95,6 +103,21 @@
                     ],
                     "pipInLane": [
                         "full"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -118,6 +141,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
                                 "full"
                             ]
                         }
@@ -168,6 +198,21 @@
                     ],
                     "pipInLane": [
                         "full"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -191,6 +236,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellite": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
                                 "full"
                             ]
                         }
@@ -243,6 +295,21 @@
                     ],
                     "fullremote": [
                         "none"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -266,6 +333,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
                                 "full"
                             ]
                         }

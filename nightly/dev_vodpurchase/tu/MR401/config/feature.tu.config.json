@@ -43,6 +43,14 @@
                     "expression": "IPTV_COAX",
                     "assignment": "coax"
                 }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "localhost",
+                    "assignment": "nightly_prod"
+                }
             }
         ],
         "definition": {
@@ -83,6 +91,9 @@
                         "full"
                     ],
                     "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
                         "full"
                     ],
                     "avscontent": [
@@ -117,6 +128,24 @@
                     ],
                     "pipInLane": [
                         "full"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "full"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -178,6 +207,9 @@
                         "full"
                     ],
                     "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
                         "full"
                     ],
                     "avscontent": [
@@ -210,6 +242,24 @@
                     ],
                     "pipInLane": [
                         "full"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -254,6 +304,9 @@
                         "full"
                     ],
                     "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
                         "full"
                     ],
                     "avscontent": [
@@ -291,6 +344,24 @@
                     ],
                     "fullremote": [
                         "none"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "full"
+                    ],
+                    "voiceHistory": [
+                        "full"
                     ]
                 },
                 "values": {

@@ -29,6 +29,14 @@
                     "expression": "SATHYBRID",
                     "assignment": "sathybrid"
                 }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "github.io",
+                    "assignment": "nightly_prod"
+                }
             }
         ],
 
@@ -62,7 +70,13 @@
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
                     "groupedSearch": ["full"],
-                    "pipInLane": ["full"]
+                    "pipInLane": ["full"],
+                    "netflixDet": ["none"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
+
                 },
 
               	"values": {
@@ -85,6 +99,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellitesubscriber": ["full"]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
                         }
                     }
                 }
@@ -108,7 +129,12 @@
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
                     "groupedSearch": ["full"],
-                    "pipInLane": ["full"]
+                    "pipInLane": ["full"],
+                    "netflixDet": ["none"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
                 "values": {
@@ -132,6 +158,13 @@
                         "rights": {
                             "satellite": ["full"]
                         }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
+                        }
                     }
                 }
             },
@@ -154,7 +187,12 @@
                     "groupedSearch": ["full"],
                     "pipInLane": ["full"],
                     "extendedpowermanagement": ["none"],
-                    "fullremote": ["none"]
+                    "fullremote": ["none"],
+                    "netflixDet": ["none"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
               	"values": {
@@ -177,6 +215,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellitesubscriber": ["full"]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
                         }
                     }
                 }

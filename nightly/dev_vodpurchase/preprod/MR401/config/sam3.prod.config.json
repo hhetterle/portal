@@ -16,12 +16,17 @@
             "clientID": "10LIVESAM30000004901NGTV0000000000000000",
             "clientSecret": ""
         },
+        "sdpnf": {
+            "clientID": "10LIVESAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
         "default": {
             "clientID": "10LIVESAM30000004901NGTVZENTERIO00000000",
             "clientSecret": ""
         }
     },
     "mock": {
+        "clientID": "10LIVESAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login.idm.telekom.com/oauth2/tokens",
         "username": "",
         "password": "",

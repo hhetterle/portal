@@ -27,6 +27,14 @@
                     "expression": "SATHYBRID",
                     "assignment": "sathybrid"
                 }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "github.io",
+                    "assignment": "nightly_prod"
+                }
             }
         ],
         "definition": {
@@ -69,6 +77,9 @@
                     "moreTvShowQrCodes": [
                         "none"
                     ],
+                    "moreTvMagentaHaus": [
+                        "none"
+                    ],
                     "avscontent": [
                         "full"
                     ],
@@ -101,6 +112,24 @@
                     ],
                     "pipInLane": [
                         "full"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "none"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -127,6 +156,13 @@
                                 "full"
                             ]
                         }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
+                        }
                     }
                 }
             },
@@ -148,6 +184,9 @@
                         "none"
                     ],
                     "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
                         "none"
                     ],
                     "avscontent": [
@@ -180,6 +219,24 @@
                     ],
                     "pipInLane": [
                         "full"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "none"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -206,6 +263,13 @@
                                 "full"
                             ]
                         }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
+                        }
                     }
                 }
             },
@@ -224,6 +288,9 @@
                         "none"
                     ],
                     "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
                         "none"
                     ],
                     "avscontent": [
@@ -261,6 +328,24 @@
                     ],
                     "fullremote": [
                         "none"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "none"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "remotekeyPassForApp": [
+                        "none"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -284,6 +369,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
                                 "full"
                             ]
                         }

@@ -29,6 +29,14 @@
                     "expression": "SATHYBRID",
                     "assignment": "sathybrid"
                 }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "github.io",
+                    "assignment": "nightly_prod"
+                }
             }
         ],
 
@@ -54,6 +62,7 @@
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["none"],
                     "moreTvShowQrCodes" : ["none"],
+                    "moreTvMagentaHaus" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
@@ -64,7 +73,13 @@
                     "wholesale": ["none"],
                     "searchNetflix": ["none"],
                     "groupedSearch": ["full"],
-                    "pipInLane": ["full"]
+                    "pipInLane": ["full"],
+                    "netflixDet": ["none"],
+                    "vodDeleteLicence": ["none"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
               	"values": {
@@ -88,6 +103,13 @@
                         "rights": {
                             "satellitesubscriber": ["full"]
                         }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
+                        }
                     }
                 }
             },
@@ -102,6 +124,7 @@
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["none"],
                     "moreTvShowQrCodes" : ["none"],
+                    "moreTvMagentaHaus" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": [],
@@ -112,7 +135,13 @@
                     "wholesale": ["none"],
                     "searchNetflix": ["none"],
                     "groupedSearch": ["full"],
-                    "pipInLane": ["full"]
+                    "pipInLane": ["full"],
+                    "netflixDet": ["none"],
+                    "vodDeleteLicence": ["none"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
                 "values": {
@@ -136,6 +165,13 @@
                         "rights": {
                             "satellite": ["full"]
                         }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
+                        }
                     }
                 }
             },
@@ -149,6 +185,7 @@
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["none"],
                     "moreTvShowQrCodes" : ["none"],
+                    "moreTvMagentaHaus" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
@@ -160,7 +197,13 @@
                     "groupedSearch": ["full"],
                     "pipInLane": ["full"],
                     "extendedpowermanagement": ["none"],
-                    "fullremote": ["none"]
+                    "fullremote": ["none"],
+                    "netflixDet": ["none"],
+                    "vodDeleteLicence": ["none"],
+                    "netflixSearchDet": ["none"],
+                    "remotekeyPassForApp": ["none"],
+                    "voiceRCSKey": ["none"],
+                    "voiceHistory": ["none"]
                 },
 
               	"values": {
@@ -183,6 +226,13 @@
                     "sathybrid": {
                         "rights": {
                             "satellitesubscriber": ["full"]
+                        }
+                    },
+                    "nightly_prod": {
+                        "rights": {
+                            "demoarea": [
+                                "full"
+                            ]
                         }
                     }
                 }

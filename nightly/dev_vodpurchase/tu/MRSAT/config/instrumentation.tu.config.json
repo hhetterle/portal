@@ -17,5 +17,9 @@
             "transformationRule": "none",
             "url": "ws://scrum999.ddnss.de:9001/mqtt"
         }
+    },
+    "mock" :{
+        "deviceId" : "" // seems value must be here so it's getting copied to the target structure. Keep it as empty string to take a default value form the source code
+
     }
 }

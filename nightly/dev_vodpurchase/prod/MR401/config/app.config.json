@@ -1,5 +1,5 @@
 {
-    "version": "2.75.0",
+    "version": "2.77.0",
     "language": "de",
     "resolution": "720p",
     "appTargetResolution": 1080,
@@ -32,5 +32,6 @@
     "editorial": "import({ return './config/editorial.' + config.env + '.config.json'; })",
     "netflix": "import({ return './config/netflix.' + config.env + '.config.json'; })",
     "instrumentation": "import({ return './config/instrumentation.' + config.env + '.config.json'; })",
-    "fileblob": "import(./config/fileblob.config.json)"
+    "fileblob": "import(./config/fileblob.config.json)",
+    "voicehistory": "import({ return './config/voicehistory.' + config.env + '.config.json'; })"
 }
