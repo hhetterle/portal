@@ -1,0 +1,48 @@
+{
+    "clients": {
+        "ngtvepg": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "ngtvvod": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "payment": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "dcp": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "default": {
+            "clientID": "10TVL0SAM30000004901NGTVZENTERIO00000000",
+            "clientSecret": ""
+        }
+    },
+    "mock": {
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "RC-Twelve-Two-Peuch",
+        "password": "test",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000000696743"
+    },
+    "mock1": {
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "550214000946",
+        "password": "37947304",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000001134537"
+    },
+    "mock2": {
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "550212009125",
+        "password": "37947304",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000001112411"
+    }
+}

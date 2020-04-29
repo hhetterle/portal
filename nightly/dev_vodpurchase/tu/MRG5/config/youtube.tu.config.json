@@ -1,0 +1,6 @@
+{
+    "apiBaseUrl": "https://www.googleapis.com/youtube/v3/",
+    "apiKey": "",
+    "youtubeSearchAppId": "YouTubeZ",
+    "youtubeTvUrl": "https://www.youtube.com/tv"
+}

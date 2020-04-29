@@ -1,0 +1,282 @@
+[
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "d1b08cf7",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "c8f8d690",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "e8104d5e",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "e8104d5e",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "cc102813",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/12/191228_0110_sendung_fis/3/191228_0110_sendung_fis_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "b2675e55",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/12/191228_0110_sendung_fis/3/191228_0110_sendung_fis_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "adf4495",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/12/191228_0110_sendung_fis/3/191228_0110_sendung_fis_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "adf4495",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/12/191228_0110_sendung_fis/3/191228_0110_sendung_fis_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "80bde31d",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180404_2015_sendung_neu_nnm/8/180404_2015_sendung_neu_nnm_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "8238eb81",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180404_2015_sendung_neu_nnm/8/180404_2015_sendung_neu_nnm_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "ae3ae979",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180404_2015_sendung_neu_nnm/8/180404_2015_sendung_neu_nnm_229k_p7v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "ae3ae979",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180404_2015_sendung_neu_nnm/8/180404_2015_sendung_neu_nnm_229k_p7v13.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "6d21c0fc",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/03/200303_2145_sendung_kfg/4/200303_2145_sendung_kfg_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "9e3cf0db",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/03/200303_2145_sendung_kfg/4/200303_2145_sendung_kfg_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "60a235",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/03/200303_2145_sendung_kfg/4/200303_2145_sendung_kfg_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "60a235",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/03/200303_2145_sendung_kfg/4/200303_2145_sendung_kfg_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "25f375e8",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/16/02/160223_moerderisches_geschaeft_online/10/160223_moerderisches_geschaeft_online_1456k_p13v12.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "5547dbc",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/16/02/160223_moerderisches_geschaeft_online/10/160223_moerderisches_geschaeft_online_436k_p9v12.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "866e55a9",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/16/02/160223_moerderisches_geschaeft_online/10/160223_moerderisches_geschaeft_online_189k_p7v12.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "866e55a9",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/16/02/160223_moerderisches_geschaeft_online/10/160223_moerderisches_geschaeft_online_189k_p7v12.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "8f553d39",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/12/161215_kuba_trs/5/161215_kuba_trs_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "6e29a3a5",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/12/161215_kuba_trs/5/161215_kuba_trs_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "9f1cbb5d",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/12/161215_kuba_trs/5/161215_kuba_trs_229k_p7v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "9f1cbb5d",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/12/161215_kuba_trs/5/161215_kuba_trs_229k_p7v13.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "d1b08cf7",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "c8f8d690",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "e8104d5e",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "e8104d5e",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/03/200302_was_geschah_am_montag_mok/4/200302_was_geschah_am_montag_mok_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "edd46940",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/01/200127_die_kinder_von_windermere_mok/4/200127_die_kinder_von_windermere_mok_a1a2_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "233d69c6",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/01/200127_die_kinder_von_windermere_mok/4/200127_die_kinder_von_windermere_mok_a1a2_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "d7c5f226",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/01/200127_die_kinder_von_windermere_mok/4/200127_die_kinder_von_windermere_mok_a1a2_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "d7c5f226",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/01/200127_die_kinder_von_windermere_mok/4/200127_die_kinder_von_windermere_mok_a1a2_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "efb8f21c",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/07/190708_2015_sendung_dks/8/190708_2015_sendung_dks_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "8dc445da",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/07/190708_2015_sendung_dks/8/190708_2015_sendung_dks_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "da2bf2fa",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/07/190708_2015_sendung_dks/8/190708_2015_sendung_dks_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "da2bf2fa",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/07/190708_2015_sendung_dks/8/190708_2015_sendung_dks_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "72eed1ee",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/18/05/180520_hanni_nanni_1_kfi/4/180520_hanni_nanni_1_kfi_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "9eaa21f2",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/18/05/180520_hanni_nanni_1_kfi/4/180520_hanni_nanni_1_kfi_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "5224ed6a",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/18/05/180520_hanni_nanni_1_kfi/4/180520_hanni_nanni_1_kfi_229k_p7v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "5224ed6a",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/tivi/18/05/180520_hanni_nanni_1_kfi/4/180520_hanni_nanni_1_kfi_229k_p7v13.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	}
+]

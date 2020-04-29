@@ -1,0 +1,21 @@
+{
+    "activeEndpoint": "aws",
+
+    "endpoints": {
+
+        "aws": {
+            "transformationRule": "aws",
+            "url": "https://t0.dcp.telekom-dienste.de/auth"
+        },
+
+        "aws_sandbox": {
+            "transformationRule": "aws",
+            "url": "https://dev.dcp.telekom-dienste.de/auth"
+        },
+
+        "dev": {
+            "transformationRule": "none",
+            "url": "ws://scrum999.ddnss.de:9001/mqtt"
+        }
+    }
+}

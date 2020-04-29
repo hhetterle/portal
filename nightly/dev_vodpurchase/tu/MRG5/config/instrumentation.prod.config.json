@@ -1,0 +1,17 @@
+{
+    "activeEndpoint": "aws",
+
+    "endpoints": {
+
+        "aws": {
+            "transformationRule": "aws",
+            "url": ""
+        },
+
+        "dev": {
+            "transformationRule": "none",
+            "url": "ws://scrum999.ddnss.de:9001/mqtt"
+        }
+
+    }
+}

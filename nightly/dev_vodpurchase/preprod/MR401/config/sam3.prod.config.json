@@ -1,0 +1,30 @@
+{
+    "clients": {
+        "ngtvepg": {
+            "clientID": "10LIVESAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "ngtvvod": {
+            "clientID": "10LIVESAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "payment": {
+            "clientID": "10LIVESAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "dcp": {
+            "clientID": "10LIVESAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "default": {
+            "clientID": "10LIVESAM30000004901NGTVZENTERIO00000000",
+            "clientSecret": ""
+        }
+    },
+    "mock": {
+        "endpoint": "https://accounts.login.idm.telekom.com/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "anid": "120049010000000000000000"
+    }
+}

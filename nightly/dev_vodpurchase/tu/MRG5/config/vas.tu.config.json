@@ -1,0 +1,28 @@
+{
+    "attachDialEventHandlerDelay": 2000,
+    "internalApps": {
+        "urlPattern": "^.*Internal:",
+        "localChannelUrlPattern": "^http(s)*://Internal:LocalChannel$",
+        "webRadioUrlPattern": "^http(s)*:\/\/Internal:WebRadio$",
+        "whiteLabelUrlPattern": "^http(s)*:\/\/Internal:WhiteLableAPP",
+        "moreTvUrl": "^http(s)*:\/\/Internal:MehrTvAPP"
+    },
+    "cmsIds": {
+        "Megathek": "APP00231-EntertainTVSerien",
+        "Videoload": "Videoload",
+        "TelekomSport": "TelekomSport",
+        "Netflix": "Netflix",
+        "Amazon": "amazon",
+        "YouTube": "YouTubeZ",
+        "Maxdome": "maxdome",
+        "Sky": "Sky",
+        "ARDMediathek": "ARDMediathek",
+        "ZDFMediathek": "ZDFMediathek",
+        "TvNow": "tv-now",
+        "SevenTV": "7TV",
+        "Arte7": "arte7"
+    },
+    "continueWatchingLaneAppBlackList": [
+        "app10"
+    ]
+}
