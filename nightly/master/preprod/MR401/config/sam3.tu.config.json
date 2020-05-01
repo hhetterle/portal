@@ -16,6 +16,10 @@
             "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
             "clientSecret": ""
         },
+        "smarthub": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
         "default": {
             "clientID": "10TVL0SAM30000004901NGTVZENTERIO00000000",
             "clientSecret": ""
