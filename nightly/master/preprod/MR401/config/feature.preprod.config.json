@@ -118,6 +118,9 @@
                     ],
                     "voiceHistory": [
                         "none"
+                    ],
+                    "voiceKeySupport": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -212,6 +215,9 @@
                         "none"
                     ],
                     "voiceHistory": [
+                        "none"
+                    ],
+                    "voiceKeySupport": [
                         "none"
                     ]
                 },
@@ -309,6 +315,9 @@
                         "none"
                     ],
                     "voiceHistory": [
+                        "none"
+                    ],
+                    "voiceKeySupport": [
                         "none"
                     ]
                 },

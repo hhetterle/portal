@@ -79,7 +79,8 @@
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["none"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"]
+                    "voiceHistory": ["none"],
+                    "voiceKeySupport": ["none"]
                 },
 
               	"values": {
@@ -141,7 +142,8 @@
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["none"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"]
+                    "voiceHistory": ["none"],
+                    "voiceKeySupport": ["none"]
                 },
 
                 "values": {
@@ -203,7 +205,8 @@
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["none"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"]
+                    "voiceHistory": ["none"],
+                    "voiceKeySupport": ["none"]
                 },
 
               	"values": {
