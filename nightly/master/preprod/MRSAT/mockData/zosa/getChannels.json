@@ -14535,7 +14535,7 @@
 		"images": [
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/fad9406f48b9f2b8dd25d98c07e0049c4e224111.png",
+				"url": "http://programm-manager.telekom.de/media/0e896a05732816967829bad2d557b73acfc250cd.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -14581,7 +14581,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "sky comedy",
+		"title": "Sky Serien & Shows",
 		"zosaId": "408:3756",
 		"zosaType": "ChannelItem"
 	},
@@ -19989,13 +19989,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10009.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk20005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10009.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk20005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
