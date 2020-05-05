@@ -3,5 +3,5 @@
     "apiBaseUrl": "https://staging.smartvoicehub.de/history/app/api/v2/conversations/",
 
     // api key to access voicehistory interface
-    "apiKey": "voice_history_api_key"
+    "apiKey": "c443db29-499f-4710-b2ed-395ffbf403ce"
 }
