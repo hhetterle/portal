@@ -2,6 +2,9 @@
     // api url for voicehistory
     "apiBaseUrl": "https://api.voiceui.telekom.net/history/app/api/v2/conversations/",
 
+    // login url
+    "loginUrl" : "https://api.voiceui.telekom.net/user/api/v1/login/",
+
     // api key to access voicehistory interface
     "apiKey": "voice_history_api_key"
 }
