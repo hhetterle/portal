@@ -2,6 +2,34 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "250f0fae",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/05/190505_2015_sendung_sof/6/190505_2015_sendung_sof_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "28c43e69",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/05/190505_2015_sendung_sof/6/190505_2015_sendung_sof_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "c2644147",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/05/190505_2015_sendung_sof/6/190505_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "c2644147",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/05/190505_2015_sendung_sof/6/190505_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "efb6d22d",
 				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -170,34 +198,6 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "c94cdad8",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "7d17b77f",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "d60ea011",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "d60ea011",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
 				"id": "7414d1f6",
 				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200503_1445_sendung_fis/3/200503_1445_sendung_fis_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -254,27 +254,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "16a1613b",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_1496k_p13v13.mp4",
+				"id": "efb6d22d",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "9a6b1c9d",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_776k_p11v13.mp4",
+				"id": "479b0e6a",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "349c07bd",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_476k_p9v13.mp4",
+				"id": "5a8e41a4",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "349c07bd",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_476k_p9v13.mp4",
+			"id": "5a8e41a4",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
