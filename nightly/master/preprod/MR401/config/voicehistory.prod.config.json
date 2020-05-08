@@ -6,5 +6,8 @@
     "loginUrl" : "https://api.voiceui.telekom.net/user/api/v1/login/",
 
     // api key to access voicehistory interface
-    "apiKey": "voice_history_api_key"
+    "apiKey": "voice_history_api_key",
+
+    // value for filtering conversations
+    "maxConversationAgeDays" : 90
 }

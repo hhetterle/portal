@@ -6,5 +6,8 @@
     "loginUrl" : "https://staging.smartvoicehub.de/user/api/v1/login/",
 
     // api key to access voicehistory interface
-    "apiKey": "c443db29-499f-4710-b2ed-395ffbf403ce"
+    "apiKey": "c443db29-499f-4710-b2ed-395ffbf403ce",
+
+    // value for filtering conversations
+    "maxConversationAgeDays" : 90
 }
