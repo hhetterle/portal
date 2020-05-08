@@ -68,11 +68,11 @@
         },
         "vote": "NONE",
         "request": {
-            "text": "Ist heute Thursday, May 7, 2020 5:12:05 PM ?",
+            "text": "Was sind Sackratten?",
             "skillId": null
         },
         "response": {
-            "text": "",
+            "text": "Der Begriff Sackratte bezeichnet: eine umgangssprachliche, vulgäre Bezeichnung für die Filzlaus. eine historische Bezeichnung der Flachland-Taschenratten. den Kurzfilm Sackratten von Aleksandar Jovanovic.",
             "errorCode": "COULDNT_RESOLVE_INTENT",
             "card": null
         },
