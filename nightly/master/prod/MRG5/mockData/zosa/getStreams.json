@@ -2,6 +2,62 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "bf6bbdcf",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/04/190407_2015_sendung_sof/6/190407_2015_sendung_sof_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "919990c8",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/04/190407_2015_sendung_sof/6/190407_2015_sendung_sof_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "8530686",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/04/190407_2015_sendung_sof/6/190407_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "8530686",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/04/190407_2015_sendung_sof/6/190407_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "e3256054",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200509_momente_spielfilm/2/200509_momente_spielfilm_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "c9457932",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200509_momente_spielfilm/2/200509_momente_spielfilm_776k_p11v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "9a62acf2",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200509_momente_spielfilm/2/200509_momente_spielfilm_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "9a62acf2",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200509_momente_spielfilm/2/200509_momente_spielfilm_476k_p9v13.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "917da940",
 				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200509_2015_sendung_str/2/200509_2015_sendung_str_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -107,62 +163,6 @@
 		"pipStream": {
 			"id": "543bb6e6",
 			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/10/181003_2300_sendung_fdw/6/181003_2300_sendung_fdw_a1a2_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "ceeac994",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200508_der_hauptmann_spielfilm/2/200508_der_hauptmann_spielfilm_1496k_p13v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "91a3e2f2",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200508_der_hauptmann_spielfilm/2/200508_der_hauptmann_spielfilm_776k_p11v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "d8c07bb2",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200508_der_hauptmann_spielfilm/2/200508_der_hauptmann_spielfilm_476k_p9v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "d8c07bb2",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/05/200508_der_hauptmann_spielfilm/2/200508_der_hauptmann_spielfilm_476k_p9v13.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "abaf65f",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200508_2015_sendung_fis/1/200508_2015_sendung_fis_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "efce88f8",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200508_2015_sendung_fis/1/200508_2015_sendung_fis_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "222f1d76",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200508_2015_sendung_fis/1/200508_2015_sendung_fis_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "222f1d76",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200508_2015_sendung_fis/1/200508_2015_sendung_fis_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
