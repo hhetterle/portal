@@ -130,7 +130,7 @@
                         "full"
                     ],
                     "netflixDet": [
-                        "none"
+                        "full"
                     ],
                     "vodDeleteLicence": [
                         "full"
@@ -247,7 +247,7 @@
                         "full"
                     ],
                     "netflixDet": [
-                        "none"
+                        "full"
                     ],
                     "vodDeleteLicence": [
                         "full"
@@ -256,7 +256,7 @@
                         "none"
                     ],
                     "remotekeyPassForApp": [
-                        "none"
+                        "full"
                     ],
                     "voiceRCSKey": [
                         "none"
