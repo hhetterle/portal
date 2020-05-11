@@ -2,6 +2,62 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "c533f486",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200511_2015_sendung_fdw/4/200511_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "43211301",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200511_2015_sendung_fdw/4/200511_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "9fc920af",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200511_2015_sendung_fdw/4/200511_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "9fc920af",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200511_2015_sendung_fdw/4/200511_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "f9827d36",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/10/191003_300wortedeutsch_fis/4/191003_300wortedeutsch_fis_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "c4c607f0",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/10/191003_300wortedeutsch_fis/4/191003_300wortedeutsch_fis_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "fe175390",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/10/191003_300wortedeutsch_fis/4/191003_300wortedeutsch_fis_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "fe175390",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/19/10/191003_300wortedeutsch_fis/4/191003_300wortedeutsch_fis_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "bf6bbdcf",
 				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/04/190407_2015_sendung_sof/6/190407_2015_sendung_sof_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -23,6 +79,34 @@
 		"pipStream": {
 			"id": "8530686",
 			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/04/190407_2015_sendung_sof/6/190407_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "18f3733c",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200510_1505_sendung_fis/2/200510_1505_sendung_fis_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "24c41e1b",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200510_1505_sendung_fis/2/200510_1505_sendung_fis_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "7f8aee75",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200510_1505_sendung_fis/2/200510_1505_sendung_fis_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "7f8aee75",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200510_1505_sendung_fis/2/200510_1505_sendung_fis_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -86,62 +170,6 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "c6e93afd",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170617_1440_sendung_sof/5/170617_1440_sendung_sof_1496k_p13v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "96a9a161",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170617_1440_sendung_sof/5/170617_1440_sendung_sof_476k_p9v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "58e14699",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170617_1440_sendung_sof/5/170617_1440_sendung_sof_229k_p7v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "58e14699",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170617_1440_sendung_sof/5/170617_1440_sendung_sof_229k_p7v13.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "829389d",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200212_271219_0500_sendung_fis/4/200212_271219_0500_sendung_fis_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "9cea93a",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200212_271219_0500_sendung_fis/4/200212_271219_0500_sendung_fis_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "dc815e74",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200212_271219_0500_sendung_fis/4/200212_271219_0500_sendung_fis_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "dc815e74",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/02/200212_271219_0500_sendung_fis/4/200212_271219_0500_sendung_fis_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
 				"id": "3cefd2f",
 				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/10/181003_2300_sendung_fdw/6/181003_2300_sendung_fdw_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -163,62 +191,6 @@
 		"pipStream": {
 			"id": "543bb6e6",
 			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/10/181003_2300_sendung_fdw/6/181003_2300_sendung_fdw_a1a2_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "c94cdad8",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "7d17b77f",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "d60ea011",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "d60ea011",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200503_170219_0055_sendung_fis/2/200503_170219_0055_sendung_fis_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "7414d1f6",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200503_1445_sendung_fis/3/200503_1445_sendung_fis_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "4cbc31d1",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200503_1445_sendung_fis/3/200503_1445_sendung_fis_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "35387cff",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200503_1445_sendung_fis/3/200503_1445_sendung_fis_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "35387cff",
-			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200503_1445_sendung_fis/3/200503_1445_sendung_fis_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -275,6 +247,34 @@
 		"pipStream": {
 			"id": "5a8e41a4",
 			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "16a1613b",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_1496k_p13v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "9a6b1c9d",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_776k_p11v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "349c07bd",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_476k_p9v13.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "349c07bd",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/19/06/190613_yves_saint_laurent_spielfilm/4/190613_yves_saint_laurent_spielfilm_476k_p9v13.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
