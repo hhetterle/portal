@@ -74,7 +74,7 @@
                     "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["none"],
-                    "voiceRCSKey": ["none"],
+                    "voiceRCSKey": ["full"],
                     "voiceHistory": ["none"],
                     "voiceKeySupport": ["none"]
 
