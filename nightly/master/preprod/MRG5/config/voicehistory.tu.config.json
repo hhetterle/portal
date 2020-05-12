@@ -9,5 +9,5 @@
     "apiKey": "c443db29-499f-4710-b2ed-395ffbf403ce",
 
     // value for filtering conversations
-    "maxConversationAgeDays" : 90
+    "maxConversationAgeDays" : 3
 }

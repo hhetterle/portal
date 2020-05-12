@@ -95,7 +95,7 @@
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"],
+                    "voiceHistory": ["full"],
                     "voiceKeySupport": ["none"]
                 },
 
