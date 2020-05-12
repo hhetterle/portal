@@ -1,10 +1,10 @@
 {
     "buildAgent": "githubActions",
-    "buildDate": "2020-05-12T07:37:24.482Z",
-    "buildVersion": "9225",
+    "buildDate": "2020-05-12T12:42:24.892Z",
+    "buildVersion": "9231",
     "buildIsNightly": true,
     "branch": "dev_vodpurchase",
-    "commit": "e3c0109a3524e3585c53d236b1cb8cabbef5693b",
+    "commit": "fb43f5243cbf535a6dd60e92ad4e3d729b2aa868",
     "majorVersion": "2.77",
     "packageDate": "1970-01-01T00:00:00.000Z"
 }

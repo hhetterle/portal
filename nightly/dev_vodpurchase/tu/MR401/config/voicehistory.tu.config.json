@@ -1,7 +1,4 @@
 {
-    // api url for voicehistory
     "apiBaseUrl": "https://environment/history/app/api/v2/conversations/",
-
-    // api key to access voicehistory interface
-    "apiKey": "voice_history_api_key"
+    "apiKey": ""
 }
