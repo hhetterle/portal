@@ -1,13 +1,6 @@
 {
-    // api url for voicehistory
     "apiBaseUrl": "https://staging.smartvoicehub.de/history/app/api/v2/conversations/",
-
-    // login url
-    "loginUrl" : "https://staging.smartvoicehub.de/user/api/v1/login/",
-
-    // api key to access voicehistory interface
-    "apiKey": "voice_history_api_key",
-    
-    // value for filtering conversations
-    "maxConversationAgeDays" : 90
+    "loginUrl": "https://staging.smartvoicehub.de/user/api/v1/login/",
+    "apiKey": "",
+    "maxConversationAgeDays": 90
 }
