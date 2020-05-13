@@ -1,4 +1,6 @@
 {
-    "apiBaseUrl": "https://environment/history/app/api/v2/conversations/",
-    "apiKey": ""
+    "apiBaseUrl": "https://staging.smartvoicehub.de/history/app/api/v2/conversations/",
+    "loginUrl": "https://staging.smartvoicehub.de/user/api/v1/login/",
+    "apiKey": "",
+    "maxConversationAgeDays": 90
 }

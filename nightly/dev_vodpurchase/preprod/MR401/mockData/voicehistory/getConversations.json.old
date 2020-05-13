@@ -1,0 +1,1722 @@
+[
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf81",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-04T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Der Waschbär (Procyon lotor), auch als Nordamerikanischer Waschbär, früher auch als Schupp bezeichnet, ist ein in Nordamerika heimisches mittelgroßes Säugetier. Seit Mitte des 20. Jahrhunderts ist er als Neozoon auch auf dem europäischen Festland, im Kaukasus und in Japan vertreten, nachdem er dort aus Gehegen entkommen ist oder ausgesetzt wurde. Waschbären sind überwiegend nachtaktive Raubtiere und leben bevorzugt in gewässerreichen Laub- und Mischwäldern. Aufgrund ihrer Anpassungsfähigkeit leben sie zunehmend auch in Bergwäldern, Salzwiesen und urbanen Gebieten.",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf82",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-05T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Nasensekret (derb „Rotz“ oder „Schnodder“ genannt) ist ein schleimartiges Sekret, das im Inneren der Nase von Menschen und Tieren mit Hilfe spezieller Drüsen in der Schleimhaut gebildet wird.",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Freitag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf83",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-06T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Mit der Saugglocke wird abwechselnd ein Unter- und Überdruck im Abfluss erzeugt, um festhängendes Material zu lösen und fortzuspülen.",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Samstag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf84",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-07T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Sonntag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf85",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-08T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Montag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf86",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-09T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Dienstag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf87",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-10T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Mittwoch. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	},
+	{
+		"id": "dbb17999-257b-43dd-9ab3-4c951f89bf88",
+		"type": "CONVERSATION",
+		"userInfo": {
+			"tenantId": "smarthub_nuance",
+			"userId": "dhu",
+			"profileId": "Default",
+			"tncs": {
+				"listenVoice": false,
+				"dataPrivacy": true,
+				"tracking": true,
+				"push": true,
+				"impressum": true
+			},
+			"allowVoiceProcessing": false
+		},
+		"deviceInfo": null,
+		"metaData": {
+			"created": "2019-04-11T07:01:12.644Z",
+			"lastChanged": "2019-04-20T07:11:55.678Z",
+			"testing": true,
+			"schemaVersion": 1,
+			"deleted": false
+		},
+		"userInfoExtra": {
+			"locale": "de",
+			"timezoneId": "Europe/Berlin",
+			"conversationVote": "NONE",
+			"userTrackingId": "f6afe36cedfa48742bfe6a80072baa91e7d45561205a544a65b516440f73c0da"
+		},
+		"processingData": {
+			"stt": {
+				"selectedStt": {
+					"text": "Welcher Tag ist heute",
+					"confidence": 849
+				},
+				"sttCandidates": [
+					{
+						"text": "Welcher Tag ist heute",
+						"confidence": 849
+					}
+				],
+				"usedSttEngine": "nuance",
+				"sttSessionId": "d26a5bc3-816c-49f2-b6b7-e858bd8ead4a",
+				"vadInfo": {
+					"noBeginOfSpeechDetected": false,
+					"endOfSpeechDetected": null,
+					"unmatchedWakeUpPhrase": null,
+					"beginOfSpeechDetected": null,
+					"globalCommandDetected": false,
+					"detectedGlobalCommand": null,
+					"wakeUpPhraseValidation": {
+						"clientWakeUpPhrase": "Hallo Magenta",
+						"enabled": true,
+						"input": [
+							"hallo magenta stopp"
+						],
+						"result": "WUP_MATCH"
+					}
+				}
+			},
+			"nlu": {
+				"selectedSkill": {
+					"name": "skill-clock",
+					"spiVersion": "0.7.6",
+					"skillVersion": "1"
+				},
+				"attributes": [
+					{
+						"name": "date",
+						"values": [
+							"2019-04-04"
+						]
+					},
+					{
+						"name": "timezone",
+						"values": [
+							"Europe/Berlin"
+						]
+					}
+				],
+				"selectedIntent": {
+					"name": "CALENDAR__WEEKDAY",
+					"confidence": 0.8814913,
+					"entities": [
+						{
+							"id": "date",
+							"values": [
+								{
+									"value": "2019-04-04",
+									"literal": "heute"
+								}
+							]
+						}
+					]
+				},
+				"contextTrail": [
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__DISPATCHER__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR",
+							"confidence": 0.995355248,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR",
+								"confidence": 0.995355248,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"agentId": "dispatcher",
+						"modelId": "SVH_PRODUCTION__CALENDAR__B",
+						"modelVersion": 7,
+						"usedNluEngine": "luis",
+						"nluSessionId": null,
+						"intent": {
+							"name": "CALENDAR__WEEKDAY",
+							"confidence": 0.8814913,
+							"entities": [
+								{
+									"id": "date",
+									"values": [
+										{
+											"value": "2019-04-04",
+											"literal": "heute"
+										}
+									]
+								}
+							]
+						},
+						"intentCandidates": [
+							{
+								"name": "CALENDAR__WEEKDAY",
+								"confidence": 0.8814913,
+								"entities": [
+									{
+										"id": "date",
+										"values": [
+											{
+												"value": "2019-04-04",
+												"literal": "heute"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"invoke": {
+				"skill": {
+					"facets": [
+						{
+							"type": "plain",
+							"text": "Heute ist Donnerstag. Heute ist ein guter Tag um glücklich zu sein. Steht das Glück vor der Tür, dann lass ich es rein. Guten Tag liebes Glück, schön dich zu sehen. Kaffe oder Tee? Du willst doch nicht gleich wieder gehen."
+						}
+					],
+					"data": {
+						"key": "CURRENT_WEEKDAY",
+						"value": "Heute ist {day_of_week}",
+						"args": [],
+						"kwargs": {
+							"day_of_week": "Donnerstag"
+						}
+					},
+					"local": true
+				},
+				"reprompt": null
+			},
+			"tts": null
+		},
+		"metaDataExtra": {
+			"invocationType": "AUDIO_JSON",
+			"inputAudioName": "e60d9072-da67-4f3c-ad8a-b59aff3e8fb8",
+			"processingSession": {
+				"id": "oejnRGvJcMdITwzPNKWHkowH",
+				"finished": true
+			},
+			"responseStatus": {
+				"type": "SKILL_TELL",
+				"errorCode": null
+			},
+			"traceId": "dccd6c3d15d0dd6274896bf0cac556ad",
+			"environment": "staging",
+			"duration": "PT1.336S"
+		}
+	}
+]

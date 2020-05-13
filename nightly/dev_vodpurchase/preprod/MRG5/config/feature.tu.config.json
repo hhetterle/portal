@@ -90,12 +90,13 @@
                     "searchNetflix": ["full"],
                     "groupedSearch": ["full"],
                     "pipInLane": ["full"],
-                    "netflixDet": ["none"],
+                    "netflixDet": ["full"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"]
+                    "voiceHistory": ["full"],
+                    "voiceKeySupport": ["none"]
                 },
 
               	"values": {
@@ -155,12 +156,13 @@
                     "searchNetflix": ["full"],
                     "groupedSearch": ["full"],
                     "pipInLane": ["full"],
-                    "netflixDet": ["none"],
+                    "netflixDet": ["full"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
-                    "remotekeyPassForApp": ["none"],
+                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"]
+                    "voiceHistory": ["none"],
+                    "voiceKeySupport": ["none"]
                 },
 
                 "values": {
@@ -215,7 +217,8 @@
                     "netflixSearchDet": ["none"],
                     "remotekeyPassForApp": ["none"],
                     "voiceRCSKey": ["full"],
-                    "voiceHistory": ["full"]
+                    "voiceHistory": ["full"],
+                    "voiceKeySupport": ["full"]
                 },
 
               	"values": {

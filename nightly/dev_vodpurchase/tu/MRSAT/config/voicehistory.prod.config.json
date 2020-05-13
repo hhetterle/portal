@@ -1,4 +1,6 @@
 {
-    "apiBaseUrl": "https://environment/history/app/api/v2/conversations/",
-    "apiKey": ""
+    "apiBaseUrl": "https://api.voiceui.telekom.net/history/app/api/v2/conversations/",
+    "loginUrl": "https://api.voiceui.telekom.net/user/api/v1/login/",
+    "apiKey": "",
+    "maxConversationAgeDays": 90
 }

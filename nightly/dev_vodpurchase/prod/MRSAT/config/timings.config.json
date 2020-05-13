@@ -8,7 +8,7 @@
   "autoCloseWaitingMs": 2000,
   "autoClose1KeyMs": 300000,
   "autoClose2KeyMs": 15000,
-  "startScreenSaverMs": 300000,
+  "startScreenSaverMs": 600000,
   "toolTipOpenMs": 3000,
   "toolTipCloseMs": 7000,
   "diagnosticNotificationTimeout": 10000,
