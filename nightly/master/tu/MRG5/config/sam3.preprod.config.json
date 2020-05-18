@@ -16,6 +16,10 @@
             "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
             "clientSecret": ""
         },
+        "rtl_hd": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
         "default": {
             "clientID": "10TVL1SAM30000004901NGTVZENTERIO00000000",
             "clientSecret": ""

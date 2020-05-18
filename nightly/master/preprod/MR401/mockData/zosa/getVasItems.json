@@ -875,6 +875,10 @@
 			{
 				"key": "TURN_VIDEO_OFF",
 				"value": "true"
+			},
+			{
+				"key": "token",
+				"value": "123fighsdgfsudghfsudghfsdiughfsdighfdsighfsudighfsdghufsdughfsdighfsdiugifhud456"
 			}
 		],
 		"shortDescription": "RTL-Mediathek",
