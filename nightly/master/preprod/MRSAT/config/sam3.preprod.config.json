@@ -34,7 +34,7 @@
         "avspin": "",
         "anid": "120049010000000000000000",
         "code": "",
-        "redirectUri": "https://ngtv.telekom.de/authn/idm"
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
     },
     "mock1": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
@@ -45,7 +45,7 @@
         "avspin": "1818",
         "anid": "120049010000000000000000",
         "code": "",
-        "redirectUri": "https://ngtv.telekom.de/authn/idm"
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
     },
     "mock2": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
@@ -56,6 +56,6 @@
         "avspin": "1818",
         "anid": "120049010000000000000000",
         "code": "",
-        "redirectUri": "https://ngtv.telekom.de/authn/idm"
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
     }
 }
