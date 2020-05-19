@@ -34,6 +34,8 @@
         "endpoint": "https://accounts.login.idm.telekom.com/oauth2/tokens",
         "username": "",
         "password": "",
-        "anid": "120049010000000000000000"
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://ngtv.telekom.de/authn/idm"
     }
 }
