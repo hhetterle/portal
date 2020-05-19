@@ -6,7 +6,31 @@
     <title>Target page for TU after successful SAM login</title>
 </head>
 
-<body>
+<body onload="onLoad(location.search);">
+
+    <script type="text/javascript">
+
+        function onLoad(query) {
+
+            if (query == '') return;
+
+            var pairs = query.slice(1).split("&");
+
+            var pair, name, value;
+            for (var i = 0; i < pairs.length; i++) {
+
+                pair = pairs[i].split("=");
+
+                name = unescape(pair[0]).replace("+", " ");
+                value = unescape(pair[1]).replace("+", " ");
+
+                this["__" + name] = value;
+            }
+
+            window.location.replace(this.__state + "&code=" + this.__code);
+        }
+
+    </script>
 
 </body>
 
