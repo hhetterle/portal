@@ -36,7 +36,9 @@
         "password": "test",
         "pin": "1111",
         "avspin": "1818",
-        "anid": "120049010000000000696743"
+        "anid": "120049010000000000696743",
+        "code": "",
+        "redirectUri": "https://ngtv.telekom.de/authn/idm"
     },
     "mock1": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
@@ -45,7 +47,9 @@
         "password": "37947304",
         "pin": "1111",
         "avspin": "1818",
-        "anid": "120049010000000001134537"
+        "anid": "120049010000000001134537",
+        "code": "",
+        "redirectUri": "https://ngtv.telekom.de/authn/idm"
     },
     "mock2": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
@@ -54,7 +58,9 @@
         "password": "37947304",
         "pin": "1111",
         "avspin": "1818",
-        "anid": "120049010000000001112411"
+        "anid": "120049010000000001112411",
+        "code": "",
+        "redirectUri": "https://ngtv.telekom.de/authn/idm"
     },
     "mock3": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
@@ -63,6 +69,8 @@
         "password": "Test1234!",
         "pin": "1111",
         "avspin": "1818",
-        "anid": "120049010000000005358255"
+        "anid": "120049010000000005358255",
+        "code": "",
+        "redirectUri": "https://ngtv.telekom.de/authn/idm"
     }
 }
