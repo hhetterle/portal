@@ -32,7 +32,7 @@
     "mock": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username1": "RC-Twelve-Two-Peuch",
+        "username": "RC-Twelve-Two-Peuch",
         "password": "test",
         "pin": "1111",
         "avspin": "1818",
