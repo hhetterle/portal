@@ -877,8 +877,8 @@
 				"value": "true"
 			},
 			{
-				"key": "token",
-				"value": "123fighsdgfsudghfsudghfsdiughfsdighfdsighfsudighfsdghufsdughfsdighfsdiugifhud456"
+				"key": "TOKEN_IDENTIFIER",
+				"value": "rtl_hd"
 			}
 		],
 		"shortDescription": "RTL-Mediathek",
