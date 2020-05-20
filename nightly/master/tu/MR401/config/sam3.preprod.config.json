@@ -28,8 +28,8 @@
     "mock": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "550210006151",
-        "password": "37947304",
+        "username": "",
+        "password": "",
         "pin": "",
         "avspin": "",
         "anid": "120049010000000000000000",
@@ -39,8 +39,8 @@
     "mock1": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "550214000946",
-        "password": "37947304",
+        "username": "",
+        "password": "",
         "pin": "1111",
         "avspin": "1818",
         "anid": "120049010000000000000000",
@@ -50,8 +50,8 @@
     "mock2": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "550212009125",
-        "password": "37947304",
+        "username": "",
+        "password": "",
         "pin": "1111",
         "avspin": "1818",
         "anid": "120049010000000000000000",
