@@ -2,6 +2,90 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "d0de4d8a",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200521_2015_sendung_fis/3/200521_2015_sendung_fis_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "54de3b0d",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200521_2015_sendung_fis/3/200521_2015_sendung_fis_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "8d8b86a3",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200521_2015_sendung_fis/3/200521_2015_sendung_fis_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "8d8b86a3",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200521_2015_sendung_fis/3/200521_2015_sendung_fis_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "e7008a31",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/02/190217_dietotenvonhameln_fdw/4/190217_dietotenvonhameln_fdw_1496k_p13v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "8746a4f7",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/02/190217_dietotenvonhameln_fdw/4/190217_dietotenvonhameln_fdw_776k_p11v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "5c672eb7",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/02/190217_dietotenvonhameln_fdw/4/190217_dietotenvonhameln_fdw_476k_p9v14.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "5c672eb7",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/02/190217_dietotenvonhameln_fdw/4/190217_dietotenvonhameln_fdw_476k_p9v14.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "36f289bc",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200521_2015_sendung_fdw/2/200521_2015_sendung_fdw_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "4aae079b",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200521_2015_sendung_fdw/2/200521_2015_sendung_fdw_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "9d0703f5",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200521_2015_sendung_fdw/2/200521_2015_sendung_fdw_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "9d0703f5",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200521_2015_sendung_fdw/2/200521_2015_sendung_fdw_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "928c8c7a",
 				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200521_1525_sendung_kff/4/200521_1525_sendung_kff_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -58,111 +142,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "43f89295",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190106_nebenderspuradrenalin_fdw/3/190106_nebenderspuradrenalin_fdw_1496k_p13v14.mp4",
+				"id": "b761be73",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/09/150909_heiratenistnichtsfuerfeiglinge_akj_dof/8/150909_heiratenistnichtsfuerfeiglinge_akj_dof_1456k_p13v11.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "18c0b4d3",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190106_nebenderspuradrenalin_fdw/3/190106_nebenderspuradrenalin_fdw_776k_p11v14.mp4",
+				"id": "1a67f767",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/09/150909_heiratenistnichtsfuerfeiglinge_akj_dof/8/150909_heiratenistnichtsfuerfeiglinge_akj_dof_436k_p9v11.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "4446f0d3",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190106_nebenderspuradrenalin_fdw/3/190106_nebenderspuradrenalin_fdw_476k_p9v14.mp4",
+				"id": "7a55de12",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/09/150909_heiratenistnichtsfuerfeiglinge_akj_dof/8/150909_heiratenistnichtsfuerfeiglinge_akj_dof_189k_p7v11.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "4446f0d3",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190106_nebenderspuradrenalin_fdw/3/190106_nebenderspuradrenalin_fdw_476k_p9v14.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "d1e43830",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190126_2015_sendung_str/6/190126_2015_sendung_str_1496k_p13v14.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "cad1b976",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190126_2015_sendung_str/6/190126_2015_sendung_str_776k_p11v14.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "3488be56",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190126_2015_sendung_str/6/190126_2015_sendung_str_476k_p9v14.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "3488be56",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/01/190126_2015_sendung_str/6/190126_2015_sendung_str_476k_p9v14.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "97373a18",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "645a823f",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "a1b059d1",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "a1b059d1",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "c5d1fee1",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200518_2015_sendung_fdw/3/200518_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "3bc3aba6",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200518_2015_sendung_fdw/3/200518_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "206be968",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200518_2015_sendung_fdw/3/200518_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "206be968",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200518_2015_sendung_fdw/3/200518_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"id": "7a55de12",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/09/150909_heiratenistnichtsfuerfeiglinge_akj_dof/8/150909_heiratenistnichtsfuerfeiglinge_akj_dof_189k_p7v11.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
