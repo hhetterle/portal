@@ -138,6 +138,9 @@
                     "netflixSearchDet": [
                         "none"
                     ],
+                    "demoArea": [
+                        "full"
+                    ],
                     "remotekeyPassForApp": [
                         "full"
                     ],
@@ -255,6 +258,9 @@
                     "netflixSearchDet": [
                         "none"
                     ],
+                    "demoArea": [
+                        "full"
+                    ],
                     "remotekeyPassForApp": [
                         "full"
                     ],
@@ -359,6 +365,9 @@
                     ],
                     "netflixSearchDet": [
                         "none"
+                    ],
+                    "demoArea": [
+                        "full"
                     ],
                     "remotekeyPassForApp": [
                         "full"
