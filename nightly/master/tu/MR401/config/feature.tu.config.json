@@ -361,7 +361,7 @@
                         "none"
                     ],
                     "remotekeyPassForApp": [
-                        "none"
+                        "full"
                     ],
                     "voiceRCSKey": [
                         "full"

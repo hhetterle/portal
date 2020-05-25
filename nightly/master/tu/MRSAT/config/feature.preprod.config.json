@@ -73,7 +73,7 @@
                     "pipInLane": ["full"],
                     "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
-                    "remotekeyPassForApp": ["none"],
+                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["full"],
                     "voiceHistory": ["none"],
                     "voiceKeySupport": ["none"]
@@ -133,7 +133,7 @@
                     "pipInLane": ["full"],
                     "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
-                    "remotekeyPassForApp": ["none"],
+                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
                     "voiceHistory": ["none"],
                     "voiceKeySupport": ["none"]
@@ -192,7 +192,7 @@
                     "fullremote": ["none"],
                     "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
-                    "remotekeyPassForApp": ["none"],
+                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
                     "voiceHistory": ["none"],
                     "voiceKeySupport": ["none"]

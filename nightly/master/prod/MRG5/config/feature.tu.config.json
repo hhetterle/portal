@@ -215,7 +215,7 @@
                     "netflixDet": ["none"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
-                    "remotekeyPassForApp": ["none"],
+                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["full"],
                     "voiceHistory": ["full"],
                     "voiceKeySupport": ["full"]
