@@ -369,6 +369,9 @@
                     "demoarea": [
                         "full"
                     ],
+                    "remotekeyPassForApp": [
+                        "full"
+                    ],
                     "voiceRCSKey": [
                         "full"
                     ],
