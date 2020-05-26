@@ -218,7 +218,6 @@
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
                     "demoArea": ["full"],
-                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["full"],
                     "voiceHistory": ["full"],
                     "voiceKeySupport": ["full"]

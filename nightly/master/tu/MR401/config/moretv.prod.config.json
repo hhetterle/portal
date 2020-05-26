@@ -1,6 +1,6 @@
 ﻿{
-  //"serviceUrl": "https://ng-moretv.sfm.t-online.de/server/api",
-  "serviceUrl": "https://ng-moretv.sfm.t-online.de/ServerQA/api/",  //For testing prod / nightly build
+  "serviceUrl": "https://ng-moretv.sfm.t-online.de/server/api",
+  //"serviceUrl": "https://ng-moretv.sfm.t-online.de/ServerQA/api/",  //For testing prod / nightly build
 
-  "MagentaHausAppId": ""
+  "MagentaHausAppId": "magentahaus"
 }
