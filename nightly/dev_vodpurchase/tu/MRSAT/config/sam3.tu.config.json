@@ -32,8 +32,8 @@
     "mock": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "RC-Twelve-Two-Peuch",
-        "password": "test",
+        "username": "",
+        "password": "",
         "pin": "1111",
         "avspin": "1818",
         "anid": "120049010000000000696743"
@@ -41,8 +41,8 @@
     "mock1": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "550214000946",
-        "password": "37947304",
+        "username": "",
+        "password": "",
         "pin": "1111",
         "avspin": "1818",
         "anid": "120049010000000001134537"
@@ -50,8 +50,8 @@
     "mock2": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "550212009125",
-        "password": "37947304",
+        "username": "",
+        "password": "",
         "pin": "1111",
         "avspin": "1818",
         "anid": "120049010000000001112411"
@@ -59,8 +59,8 @@
     "mock3": {
         "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
         "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
-        "username": "stb-kk001@vodas.de",
-        "password": "Test1234!",
+        "username": "",
+        "password": "",
         "pin": "1111",
         "avspin": "1818",
         "anid": "120049010000000005358255"
