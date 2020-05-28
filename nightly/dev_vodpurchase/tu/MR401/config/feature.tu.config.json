@@ -138,6 +138,9 @@
                     "netflixSearchDet": [
                         "none"
                     ],
+                    "demoarea": [
+                        "full"
+                    ],
                     "remotekeyPassForApp": [
                         "full"
                     ],
@@ -145,7 +148,7 @@
                         "none"
                     ],
                     "voiceHistory": [
-                        "full"
+                        "none"
                     ],
                     "voiceKeySupport": [
                         "none"
@@ -255,6 +258,9 @@
                     "netflixSearchDet": [
                         "none"
                     ],
+                    "demoarea": [
+                        "full"
+                    ],
                     "remotekeyPassForApp": [
                         "full"
                     ],
@@ -360,8 +366,11 @@
                     "netflixSearchDet": [
                         "none"
                     ],
+                    "demoarea": [
+                        "full"
+                    ],
                     "remotekeyPassForApp": [
-                        "none"
+                        "full"
                     ],
                     "voiceRCSKey": [
                         "full"

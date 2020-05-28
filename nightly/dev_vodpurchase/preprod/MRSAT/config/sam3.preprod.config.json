@@ -20,6 +20,10 @@
             "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
             "clientSecret": ""
         },
+        "rtl_hd": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
         "default": {
             "clientID": "10TVL1SAM30000004901NGTVZENTERIO00000000",
             "clientSecret": ""
@@ -32,7 +36,9 @@
         "password": "",
         "pin": "",
         "avspin": "",
-        "anid": "120049010000000000000000"
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
     },
     "mock1": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
@@ -41,7 +47,9 @@
         "password": "",
         "pin": "1111",
         "avspin": "1818",
-        "anid": "120049010000000000000000"
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
     },
     "mock2": {
         "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
@@ -50,6 +58,8 @@
         "password": "",
         "pin": "1111",
         "avspin": "1818",
-        "anid": "120049010000000000000000"
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
     }
 }

@@ -875,6 +875,10 @@
 			{
 				"key": "TURN_VIDEO_OFF",
 				"value": "true"
+			},
+			{
+				"key": "TOKEN_IDENTIFIER",
+				"value": "rtl_hd"
 			}
 		],
 		"shortDescription": "RTL-Mediathek",

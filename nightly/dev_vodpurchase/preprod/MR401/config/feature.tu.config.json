@@ -93,9 +93,10 @@
                     "netflixDet": ["full"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
+                    "demoarea": ["full"],
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["full"],
+                    "voiceHistory": ["none"],
                     "voiceKeySupport": ["none"]
                 },
 
@@ -159,6 +160,7 @@
                     "netflixDet": ["full"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
+                    "demoarea": ["full"],
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
                     "voiceHistory": ["none"],
@@ -215,7 +217,8 @@
                     "netflixDet": ["none"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
-                    "remotekeyPassForApp": ["none"],
+                    "demoarea": ["full"],
+                    "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["full"],
                     "voiceHistory": ["full"],
                     "voiceKeySupport": ["full"]
