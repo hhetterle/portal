@@ -129,7 +129,7 @@
                         "none"
                     ],
                     "voiceHistory": [
-                        "none"
+                        "full"
                     ],
                     "voiceKeySupport": [
                         "none"
@@ -239,7 +239,7 @@
                         "none"
                     ],
                     "voiceHistory": [
-                        "none"
+                        "full"
                     ],
                     "voiceKeySupport": [
                         "none"
@@ -348,13 +348,13 @@
                         "full"
                     ],
                     "voiceRCSKey": [
-                        "none"
+                        "full"
                     ],
                     "voiceHistory": [
-                        "none"
+                        "full"
                     ],
                     "voiceKeySupport": [
-                        "none"
+                        "full"
                     ]
                 },
                 "values": {
