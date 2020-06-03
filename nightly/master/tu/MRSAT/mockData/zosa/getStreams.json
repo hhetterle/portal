@@ -2,6 +2,34 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "aab22304",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/07/160704_mordsfreunde_ps_fdw/10/160704_mordsfreunde_ps_fdw_1456k_p13v12.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "ed693e50",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/07/160704_mordsfreunde_ps_fdw/10/160704_mordsfreunde_ps_fdw_436k_p9v12.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "9516a725",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/07/160704_mordsfreunde_ps_fdw/10/160704_mordsfreunde_ps_fdw_189k_p7v12.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "9516a725",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/07/160704_mordsfreunde_ps_fdw/10/160704_mordsfreunde_ps_fdw_189k_p7v12.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "917da940",
 				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200509_2015_sendung_str/2/200509_2015_sendung_str_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -142,27 +170,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "37131f40",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200530_2015_sendung_dkm/2/200530_2015_sendung_dkm_a1a2_1628k_p13v15.mp4",
+				"id": "56ebb936",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "294c6847",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200530_2015_sendung_dkm/2/200530_2015_sendung_dkm_a1a2_808k_p11v15.mp4",
+				"id": "ca7c4191",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "8594d2a9",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200530_2015_sendung_dkm/2/200530_2015_sendung_dkm_a1a2_508k_p9v15.mp4",
+				"id": "56db423f",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "8594d2a9",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200530_2015_sendung_dkm/2/200530_2015_sendung_dkm_a1a2_508k_p9v15.mp4",
+			"id": "56db423f",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -247,34 +275,6 @@
 		"pipStream": {
 			"id": "5a8e41a4",
 			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "56ebb936",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "ca7c4191",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "56db423f",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "56db423f",
-			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
