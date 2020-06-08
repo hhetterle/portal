@@ -10,6 +10,53 @@
         }
     }
 
+    // https://tc39.es/ecma402/#sec-issanctionedsimpleunitidentifier
+    var SANCTIONED_UNITS = [
+        'angle-degree',
+        'area-acre',
+        'area-hectare',
+        'concentr-percent',
+        'digital-bit',
+        'digital-byte',
+        'digital-gigabit',
+        'digital-gigabyte',
+        'digital-kilobit',
+        'digital-kilobyte',
+        'digital-megabit',
+        'digital-megabyte',
+        'digital-petabyte',
+        'digital-terabit',
+        'digital-terabyte',
+        'duration-day',
+        'duration-hour',
+        'duration-millisecond',
+        'duration-minute',
+        'duration-month',
+        'duration-second',
+        'duration-week',
+        'duration-year',
+        'length-centimeter',
+        'length-foot',
+        'length-inch',
+        'length-kilometer',
+        'length-meter',
+        'length-mile-scandinavian',
+        'length-mile',
+        'length-millimeter',
+        'length-yard',
+        'mass-gram',
+        'mass-kilogram',
+        'mass-ounce',
+        'mass-pound',
+        'mass-stone',
+        'temperature-celsius',
+        'temperature-fahrenheit',
+        'volume-fluid-ounce',
+        'volume-gallon',
+        'volume-liter',
+        'volume-milliliter',
+    ];
+
     /**
      * https://tc39.es/ecma262/#sec-toobject
      * @param arg
@@ -113,59 +160,41 @@
     }
     /**
      * https://tc39.es/ecma402/#sec-setnfdigitoptions
-     * https://tc39.es/proposal-unified-intl-numberformat/section11/numberformat_diff_out.html#sec-setnfdigitoptions
-     * @param intlObj
-     * @param opts
-     * @param mnfdDefault
-     * @param mxfdDefault
      */
-    function setNumberFormatDigitOptions(internalSlotMap, intlObj, opts, mnfdDefault, mxfdDefault) {
+    function setNumberFormatDigitOptions(internalSlots, opts, mnfdDefault, mxfdDefault, notation) {
         var mnid = getNumberOption(opts, 'minimumIntegerDigits', 1, 21, 1);
         var mnfd = opts.minimumFractionDigits;
         var mxfd = opts.maximumFractionDigits;
         var mnsd = opts.minimumSignificantDigits;
         var mxsd = opts.maximumSignificantDigits;
-        setInternalSlot(internalSlotMap, intlObj, 'minimumIntegerDigits', mnid);
+        internalSlots.minimumIntegerDigits = mnid;
         if (mnsd !== undefined || mxsd !== undefined) {
-            setInternalSlot(internalSlotMap, intlObj, 'roundingType', 'significantDigits');
+            internalSlots.roundingType = 'significantDigits';
             mnsd = defaultNumberOption(mnsd, 1, 21, 1);
             mxsd = defaultNumberOption(mxsd, mnsd, 21, 21);
-            setInternalSlot(internalSlotMap, intlObj, 'minimumSignificantDigits', mnsd);
-            setInternalSlot(internalSlotMap, intlObj, 'maximumSignificantDigits', mxsd);
+            internalSlots.minimumSignificantDigits = mnsd;
+            internalSlots.maximumSignificantDigits = mxsd;
         }
         else if (mnfd !== undefined || mxfd !== undefined) {
-            setInternalSlot(internalSlotMap, intlObj, 'roundingType', 'fractionDigits');
+            internalSlots.roundingType = 'fractionDigits';
             mnfd = defaultNumberOption(mnfd, 0, 20, mnfdDefault);
             var mxfdActualDefault = Math.max(mnfd, mxfdDefault);
             mxfd = defaultNumberOption(mxfd, mnfd, 20, mxfdActualDefault);
-            setInternalSlot(internalSlotMap, intlObj, 'minimumFractionDigits', mnfd);
-            setInternalSlot(internalSlotMap, intlObj, 'maximumFractionDigits', mxfd);
+            internalSlots.minimumFractionDigits = mnfd;
+            internalSlots.maximumFractionDigits = mxfd;
         }
-        else if (getInternalSlot(internalSlotMap, intlObj, 'notation') === 'compact') {
-            setInternalSlot(internalSlotMap, intlObj, 'roundingType', 'compactRounding');
+        else if (notation === 'compact') {
+            internalSlots.roundingType = 'compactRounding';
         }
         else {
-            setInternalSlot(internalSlotMap, intlObj, 'roundingType', 'fractionDigits');
-            setInternalSlot(internalSlotMap, intlObj, 'minimumFractionDigits', mnfdDefault);
-            setInternalSlot(internalSlotMap, intlObj, 'maximumFractionDigits', mxfdDefault);
+            internalSlots.roundingType = 'fractionDigits';
+            internalSlots.minimumFractionDigits = mnfdDefault;
+            internalSlots.maximumFractionDigits = mxfdDefault;
         }
     }
-
-    /**
-     * IE11-safe version of getCanonicalLocales since it's ES2016
-     * @param locales locales
-     */
-    function getCanonicalLocales(locales) {
-        // IE11
-        var getCanonicalLocales = Intl.getCanonicalLocales;
-        if (typeof getCanonicalLocales === 'function') {
-            return getCanonicalLocales(locales);
-        }
-        // NOTE: we must NOT call `supportedLocalesOf` of a formatjs polyfill, or their implementation
-        // will even eventually call this method recursively. Here we use `Intl.DateTimeFormat` since it
-        // is not polyfilled by `@formatjs`.
-        return Intl.DateTimeFormat.supportedLocalesOf(locales || '');
-    }
+    var SHORTENED_SACTION_UNITS = SANCTIONED_UNITS.map(function (unit) {
+        return unit.replace(/^(.*?)-/, '');
+    });
 
     var __extends = (undefined && undefined.__extends) || (function () {
         var extendStatics = function (d, b) {
@@ -258,7 +287,7 @@
                     var postExtension = foundLocale.slice(privateIndex, foundLocale.length);
                     foundLocale = preExtension + supportedExtension + postExtension;
                 }
-                foundLocale = getCanonicalLocales(foundLocale)[0];
+                foundLocale = Intl.getCanonicalLocales(foundLocale)[0];
             }
             result.locale = foundLocale;
             return result;
@@ -372,16 +401,8 @@
             return result;
         };
     }
-    function getLocaleHierarchy(locale, aliases, parentLocales) {
+    function getLocaleHierarchy(locale) {
         var results = [locale];
-        if (aliases[locale]) {
-            locale = aliases[locale];
-            results.push(locale);
-        }
-        var parentLocale = parentLocales[locale];
-        if (parentLocale) {
-            results.push(parentLocale);
-        }
         var localeParts = locale.split('-');
         for (var i = localeParts.length; i > 1; i--) {
             results.push(localeParts.slice(0, i - 1).join('-'));
@@ -427,7 +448,7 @@
     /** By default shallow merge the dictionaries. */
     reducer) {
         if (reducer === void 0) { reducer = function (all, d) { return (__assign(__assign({}, all), d)); }; }
-        var localeHierarchy = getLocaleHierarchy(locale, localeData.aliases, localeData.parentLocales);
+        var localeHierarchy = getLocaleHierarchy(locale);
         var dataToMerge = localeHierarchy
             .map(function (l) { return localeData.data[l]; })
             .filter(Boolean);
@@ -513,14 +534,15 @@
             if (!newTarget) {
                 throw new TypeError("Intl.PluralRules must be called with 'new'");
             }
-            var requestedLocales = getCanonicalLocales(locales);
+            var requestedLocales = Intl
+                .getCanonicalLocales(locales);
             var opt = Object.create(null);
             var opts = options === undefined ? Object.create(null) : toObject(options);
             setInternalSlot(PluralRules.__INTERNAL_SLOT_MAP__, this, 'initializedPluralRules', true);
             var matcher = getOption(opts, 'localeMatcher', 'string', ['best fit', 'lookup'], 'best fit');
             opt.localeMatcher = matcher;
             setInternalSlot(PluralRules.__INTERNAL_SLOT_MAP__, this, 'type', getOption(opts, 'type', 'string', ['cardinal', 'ordinal'], 'cardinal'));
-            setNumberFormatDigitOptions(PluralRules.__INTERNAL_SLOT_MAP__, this, opts, 0, 3);
+            setNumberFormatDigitOptions(PluralRules.__INTERNAL_SLOT_MAP__.get(this), opts, 0, 3, 'standard');
             var r = createResolveLocale(PluralRules.getDefaultLocale)(PluralRules.availableLocales, requestedLocales, opt, PluralRules.relevantExtensionKeys, PluralRules.localeData);
             setInternalSlot(PluralRules.__INTERNAL_SLOT_MAP__, this, 'locale', r.locale);
         }
@@ -555,7 +577,7 @@
             return '[object Intl.PluralRules]';
         };
         PluralRules.supportedLocalesOf = function (locales, options) {
-            return supportedLocales(PluralRules.availableLocales, getCanonicalLocales(locales), options);
+            return supportedLocales(PluralRules.availableLocales, Intl.getCanonicalLocales(locales), options);
         };
         PluralRules.__addLocaleData = function () {
             var data = [];
@@ -563,10 +585,7 @@
                 data[_i] = arguments[_i];
             }
             var _loop_1 = function (datum) {
-                var availableLocales = Object.keys(__spreadArrays(datum.availableLocales, Object.keys(datum.aliases), Object.keys(datum.parentLocales)).reduce(function (all, k) {
-                    all[k] = true;
-                    return all;
-                }, {}));
+                var availableLocales = datum.availableLocales;
                 availableLocales.forEach(function (locale) {
                     try {
                         PluralRules.localeData[locale] = unpackData(locale, datum);

@@ -2,27 +2,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "71a3d039",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170219_dorf_neo/5/170219_dorf_neo_1496k_p13v13.mp4",
+				"id": "bfbba4a9",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/03/180325_2015_sendung_sof/6/180325_2015_sendung_sof_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "b83d18a5",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170219_dorf_neo/5/170219_dorf_neo_476k_p9v13.mp4",
+				"id": "2b86ea6e",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/03/180325_2015_sendung_sof/6/180325_2015_sendung_sof_a1a2_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "59fd615d",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170219_dorf_neo/5/170219_dorf_neo_229k_p7v13.mp4",
+				"id": "966b2720",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/03/180325_2015_sendung_sof/6/180325_2015_sendung_sof_a1a2_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "59fd615d",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170219_dorf_neo/5/170219_dorf_neo_229k_p7v13.mp4",
+			"id": "966b2720",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/03/180325_2015_sendung_sof/6/180325_2015_sendung_sof_a1a2_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -30,27 +30,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "6a14d9ae",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/11/191123_2015_sendung_neu_str/5/191123_2015_sendung_neu_str_a1a2_1496k_p13v14.mp4",
+				"id": "87cdacb0",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/16/07/160723_2210_sendung_fis/2/160723_2210_sendung_fis_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "cbff69a8",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/11/191123_2015_sendung_neu_str/5/191123_2015_sendung_neu_str_a1a2_776k_p11v14.mp4",
+				"id": "d3250b17",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/16/07/160723_2210_sendung_fis/2/160723_2210_sendung_fis_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "579ad808",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/11/191123_2015_sendung_neu_str/5/191123_2015_sendung_neu_str_a1a2_476k_p9v14.mp4",
+				"id": "ee5ac579",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/16/07/160723_2210_sendung_fis/2/160723_2210_sendung_fis_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "579ad808",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/11/191123_2015_sendung_neu_str/5/191123_2015_sendung_neu_str_a1a2_476k_p9v14.mp4",
+			"id": "ee5ac579",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/16/07/160723_2210_sendung_fis/2/160723_2210_sendung_fis_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -58,27 +58,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "1761d5f6",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200526_0005_sendung_dks/3/200526_0005_sendung_dks_1628k_p13v15.mp4",
+				"id": "a4151b7",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200606_mein_ein_mein_alles_spielfilm/2/200606_mein_ein_mein_alles_spielfilm_1496k_p13v13.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "e04950d1",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200526_0005_sendung_dks/3/200526_0005_sendung_dks_808k_p11v15.mp4",
+				"id": "a2462e91",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200606_mein_ein_mein_alles_spielfilm/2/200606_mein_ein_mein_alles_spielfilm_776k_p11v13.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "5f72deff",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200526_0005_sendung_dks/3/200526_0005_sendung_dks_508k_p9v15.mp4",
+				"id": "7378ccb1",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200606_mein_ein_mein_alles_spielfilm/2/200606_mein_ein_mein_alles_spielfilm_476k_p9v13.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "5f72deff",
-			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200526_0005_sendung_dks/3/200526_0005_sendung_dks_508k_p9v15.mp4",
+			"id": "7378ccb1",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200606_mein_ein_mein_alles_spielfilm/2/200606_mein_ein_mein_alles_spielfilm_476k_p9v13.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -86,27 +86,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "b24c3dc0",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200525_2015_sendung_fdw/2/200525_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
+				"id": "32678437",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/08/150809_2015_sendung_ils/2/150809_2015_sendung_ils_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "69370d47",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200525_2015_sendung_fdw/2/200525_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
+				"id": "dee26290",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/08/150809_2015_sendung_ils/2/150809_2015_sendung_ils_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "61f67729",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200525_2015_sendung_fdw/2/200525_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+				"id": "3ddfd5e",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/08/150809_2015_sendung_ils/2/150809_2015_sendung_ils_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "61f67729",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200525_2015_sendung_fdw/2/200525_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"id": "3ddfd5e",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/15/08/150809_2015_sendung_ils/2/150809_2015_sendung_ils_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -114,27 +114,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "94ab03cd",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/12/191216_2015_sendung_fdw/5/191216_2015_sendung_fdw_a1a2_1496k_p13v14.mp4",
+				"id": "2c0a0296",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/12/181221_2320_sendung_fdw/7/181221_2320_sendung_fdw_1496k_p13v14.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "d2823a4b",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/12/191216_2015_sendung_fdw/5/191216_2015_sendung_fdw_a1a2_776k_p11v14.mp4",
+				"id": "5a3f58d0",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/12/181221_2320_sendung_fdw/7/181221_2320_sendung_fdw_776k_p11v14.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "385c398b",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/12/191216_2015_sendung_fdw/5/191216_2015_sendung_fdw_a1a2_476k_p9v14.mp4",
+				"id": "7ccf5930",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/12/181221_2320_sendung_fdw/7/181221_2320_sendung_fdw_476k_p9v14.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "385c398b",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/19/12/191216_2015_sendung_fdw/5/191216_2015_sendung_fdw_a1a2_476k_p9v14.mp4",
+			"id": "7ccf5930",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/12/181221_2320_sendung_fdw/7/181221_2320_sendung_fdw_476k_p9v14.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -142,27 +142,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "26e881eb",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180121_2015_sendung_sof/6/180121_2015_sendung_sof_a1a2_1628k_p13v15.mp4",
+				"id": "917da940",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200509_2015_sendung_str/2/200509_2015_sendung_str_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "455ac2c",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180121_2015_sendung_sof/6/180121_2015_sendung_sof_a1a2_808k_p11v15.mp4",
+				"id": "72afe2c7",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200509_2015_sendung_str/2/200509_2015_sendung_str_a1a2_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "7cf0a2",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180121_2015_sendung_sof/6/180121_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+				"id": "320700a9",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200509_2015_sendung_str/2/200509_2015_sendung_str_a1a2_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "7cf0a2",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180121_2015_sendung_sof/6/180121_2015_sendung_sof_a1a2_508k_p9v15.mp4",
+			"id": "320700a9",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/05/200509_2015_sendung_str/2/200509_2015_sendung_str_a1a2_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -170,27 +170,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "ac4f2df0",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/19/09/190908_love_is_all_you_need_spf/5/190908_love_is_all_you_need_spf_1496k_p13v14.mp4",
+				"id": "56ebb936",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "24cf3d36",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/19/09/190908_love_is_all_you_need_spf/5/190908_love_is_all_you_need_spf_776k_p11v14.mp4",
+				"id": "ca7c4191",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "90679496",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/19/09/190908_love_is_all_you_need_spf/5/190908_love_is_all_you_need_spf_476k_p9v14.mp4",
+				"id": "56db423f",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "90679496",
-			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/19/09/190908_love_is_all_you_need_spf/5/190908_love_is_all_you_need_spf_476k_p9v14.mp4",
+			"id": "56db423f",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200531_es_ist_kompliziert_spf/3/200531_es_ist_kompliziert_spf_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -226,27 +226,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "58525e33",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_1496k_p13v13.mp4",
+				"id": "e63afa57",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200508_steig_nicht_aus_pp_mok/2/200508_steig_nicht_aus_pp_mok_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "4ff254af",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_476k_p9v13.mp4",
+				"id": "e972b770",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200508_steig_nicht_aus_pp_mok/2/200508_steig_nicht_aus_pp_mok_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "e3966397",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_229k_p7v13.mp4",
+				"id": "143cae7e",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200508_steig_nicht_aus_pp_mok/2/200508_steig_nicht_aus_pp_mok_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "e3966397",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/16/10/161031_schweigeminute_ps_fdw/9/161031_schweigeminute_ps_fdw_229k_p7v13.mp4",
+			"id": "143cae7e",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200508_steig_nicht_aus_pp_mok/2/200508_steig_nicht_aus_pp_mok_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
@@ -254,27 +254,27 @@
 	{
 		"channelStreams": {
 			"uhd": {
-				"id": "efb6d22d",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_1628k_p13v15.mp4",
+				"id": "97373a18",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_1628k_p13v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 3
 			},
 			"hd": {
-				"id": "479b0e6a",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_808k_p11v15.mp4",
+				"id": "645a823f",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_808k_p11v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 2
 			},
 			"sd": {
-				"id": "5a8e41a4",
-				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_508k_p9v15.mp4",
+				"id": "a1b059d1",
+				"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_508k_p9v15.mp4",
 				"video3dFormat": 0,
 				"videoDefinition": 1
 			}
 		},
 		"pipStream": {
-			"id": "5a8e41a4",
-			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/20/05/200504_ein_leichtes_maedchen_mok/4/200504_ein_leichtes_maedchen_mok_a1a2_508k_p9v15.mp4",
+			"id": "a1b059d1",
+			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/05/200519_0025_sendung_dks/2/200519_0025_sendung_dks_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}

@@ -10,6 +10,53 @@
         }
     }
 
+    // https://tc39.es/ecma402/#sec-issanctionedsimpleunitidentifier
+    var SANCTIONED_UNITS = [
+        'angle-degree',
+        'area-acre',
+        'area-hectare',
+        'concentr-percent',
+        'digital-bit',
+        'digital-byte',
+        'digital-gigabit',
+        'digital-gigabyte',
+        'digital-kilobit',
+        'digital-kilobyte',
+        'digital-megabit',
+        'digital-megabyte',
+        'digital-petabyte',
+        'digital-terabit',
+        'digital-terabyte',
+        'duration-day',
+        'duration-hour',
+        'duration-millisecond',
+        'duration-minute',
+        'duration-month',
+        'duration-second',
+        'duration-week',
+        'duration-year',
+        'length-centimeter',
+        'length-foot',
+        'length-inch',
+        'length-kilometer',
+        'length-meter',
+        'length-mile-scandinavian',
+        'length-mile',
+        'length-millimeter',
+        'length-yard',
+        'mass-gram',
+        'mass-kilogram',
+        'mass-ounce',
+        'mass-pound',
+        'mass-stone',
+        'temperature-celsius',
+        'temperature-fahrenheit',
+        'volume-fluid-ounce',
+        'volume-gallon',
+        'volume-liter',
+        'volume-milliliter',
+    ];
+
     /**
      * https://tc39.es/ecma262/#sec-toobject
      * @param arg
@@ -115,22 +162,9 @@
         }
         return result;
     }
-
-    /**
-     * IE11-safe version of getCanonicalLocales since it's ES2016
-     * @param locales locales
-     */
-    function getCanonicalLocales(locales) {
-        // IE11
-        var getCanonicalLocales = Intl.getCanonicalLocales;
-        if (typeof getCanonicalLocales === 'function') {
-            return getCanonicalLocales(locales);
-        }
-        // NOTE: we must NOT call `supportedLocalesOf` of a formatjs polyfill, or their implementation
-        // will even eventually call this method recursively. Here we use `Intl.DateTimeFormat` since it
-        // is not polyfilled by `@formatjs`.
-        return Intl.DateTimeFormat.supportedLocalesOf(locales || '');
-    }
+    var SHORTENED_SACTION_UNITS = SANCTIONED_UNITS.map(function (unit) {
+        return unit.replace(/^(.*?)-/, '');
+    });
 
     var __extends = (undefined && undefined.__extends) || (function () {
         var extendStatics = function (d, b) {
@@ -223,7 +257,7 @@
                     var postExtension = foundLocale.slice(privateIndex, foundLocale.length);
                     foundLocale = preExtension + supportedExtension + postExtension;
                 }
-                foundLocale = getCanonicalLocales(foundLocale)[0];
+                foundLocale = Intl.getCanonicalLocales(foundLocale)[0];
             }
             result.locale = foundLocale;
             return result;
@@ -337,16 +371,8 @@
             return result;
         };
     }
-    function getLocaleHierarchy(locale, aliases, parentLocales) {
+    function getLocaleHierarchy(locale) {
         var results = [locale];
-        if (aliases[locale]) {
-            locale = aliases[locale];
-            results.push(locale);
-        }
-        var parentLocale = parentLocales[locale];
-        if (parentLocale) {
-            results.push(parentLocale);
-        }
         var localeParts = locale.split('-');
         for (var i = localeParts.length; i > 1; i--) {
             results.push(localeParts.slice(0, i - 1).join('-'));
@@ -385,18 +411,24 @@
         }
         return MissingLocaleDataError;
     }(Error));
+    function isMissingLocaleDataError(e) {
+        return e.type === 'MISSING_LOCALE_DATA';
+    }
+    function unpackData(locale, localeData, 
+    /** By default shallow merge the dictionaries. */
+    reducer) {
+        if (reducer === void 0) { reducer = function (all, d) { return (__assign(__assign({}, all), d)); }; }
+        var localeHierarchy = getLocaleHierarchy(locale);
+        var dataToMerge = localeHierarchy
+            .map(function (l) { return localeData.data[l]; })
+            .filter(Boolean);
+        if (!dataToMerge.length) {
+            throw new MissingLocaleDataError("Missing locale data for \"" + locale + "\", lookup hierarchy: " + localeHierarchy.join(', '));
+        }
+        dataToMerge.reverse();
+        return dataToMerge.reduce(reducer, {});
+    }
 
-    var __assign$1 = (undefined && undefined.__assign) || function () {
-        __assign$1 = Object.assign || function(t) {
-            for (var s, i = 1, n = arguments.length; i < n; i++) {
-                s = arguments[i];
-                for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
-                    t[p] = s[p];
-            }
-            return t;
-        };
-        return __assign$1.apply(this, arguments);
-    };
     var __values = (undefined && undefined.__values) || function(o) {
         var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
         if (m) return m.call(o);
@@ -408,37 +440,6 @@
         };
         throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
     };
-    var __read = (undefined && undefined.__read) || function (o, n) {
-        var m = typeof Symbol === "function" && o[Symbol.iterator];
-        if (!m) return o;
-        var i = m.call(o), r, ar = [], e;
-        try {
-            while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
-        }
-        catch (error) { e = { error: error }; }
-        finally {
-            try {
-                if (r && !r.done && (m = i["return"])) m.call(i);
-            }
-            finally { if (e) throw e.error; }
-        }
-        return ar;
-    };
-    var __spread = (undefined && undefined.__spread) || function () {
-        for (var ar = [], i = 0; i < arguments.length; i++) ar = ar.concat(__read(arguments[i]));
-        return ar;
-    };
-    function unpackData(locale, localeData) {
-        var localeHierarchy = getLocaleHierarchy(locale, localeData.aliases, localeData.parentLocales);
-        var dataToMerge = localeHierarchy
-            .map(function (l) { return localeData.data[l]; })
-            .filter(Boolean);
-        if (!dataToMerge.length) {
-            throw new Error("Missing locale data for \"" + locale + "\", lookup hierarchy: " + localeHierarchy.join(', '));
-        }
-        dataToMerge.reverse();
-        return dataToMerge.reduce(function (all, d) { return (__assign$1(__assign$1({}, all), d)); }, { nu: [] });
-    }
     /**
      * https://tc39.es/proposal-intl-relative-time/#sec-singularrelativetimeunit
      * @param unit
@@ -608,7 +609,8 @@
                 throw new TypeError("Intl.RelativeTimeFormat must be called with 'new'");
             }
             setInternalSlot(RelativeTimeFormat.__INTERNAL_SLOT_MAP__, this, 'initializedRelativeTimeFormat', true);
-            var requestedLocales = getCanonicalLocales(locales);
+            var requestedLocales = Intl
+                .getCanonicalLocales(locales);
             var opt = Object.create(null);
             var opts = options === undefined ? Object.create(null) : toObject(options);
             var matcher = getOption(opts, 'localeMatcher', 'string', ['best fit', 'lookup'], 'best fit');
@@ -666,7 +668,7 @@
             };
         };
         RelativeTimeFormat.supportedLocalesOf = function (locales, options) {
-            return supportedLocales(RelativeTimeFormat.availableLocales, getCanonicalLocales(locales), options);
+            return supportedLocales(RelativeTimeFormat.availableLocales, Intl.getCanonicalLocales(locales), options);
         };
         RelativeTimeFormat.__addLocaleData = function () {
             var e_3, _a;
@@ -675,16 +677,17 @@
                 data[_i] = arguments[_i];
             }
             var _loop_1 = function (datum) {
-                var availableLocales = Object.keys(__spread(datum.availableLocales, Object.keys(datum.aliases), Object.keys(datum.parentLocales)).reduce(function (all, k) {
-                    all[k] = true;
-                    return all;
-                }, {}));
+                var availableLocales = datum.availableLocales;
                 availableLocales.forEach(function (locale) {
                     try {
                         RelativeTimeFormat.localeData[locale] = unpackData(locale, datum);
                     }
                     catch (e) {
-                        // If we can't unpack this data, ignore the locale
+                        if (isMissingLocaleDataError(e)) {
+                            // If we just don't have data for certain locale, that's ok
+                            return;
+                        }
+                        throw e;
                     }
                 });
             };

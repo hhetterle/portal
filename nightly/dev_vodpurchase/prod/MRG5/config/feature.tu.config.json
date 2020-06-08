@@ -96,7 +96,7 @@
                     "demoarea": ["full"],
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"],
+                    "voiceHistory": ["full"],
                     "voiceKeySupport": ["none"]
                 },
 
@@ -163,7 +163,7 @@
                     "demoarea": ["full"],
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
-                    "voiceHistory": ["none"],
+                    "voiceHistory": ["full"],
                     "voiceKeySupport": ["none"]
                 },
 

@@ -3412,6 +3412,12 @@
 				"url": "http://programm-manager.telekom.de/media/d0065176c764db3232772145bd76748d4bbb0433.png",
 				"height": "48",
 				"width": "89"
+			},
+			{
+				"serviceProviderImageType": "99",
+				"url": "http://programm-manager.telekom.de/media/eba1dd8e1d86b8115d3b6d23d1692b5e0b73406b.jpeg",
+				"height": "1080",
+				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -19989,13 +19995,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10008.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10009.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10008.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10009.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},

@@ -1,5 +1,5 @@
 {
-    "version": "2.78.0",
+    "version": "2.79.0",
     "language": "de",
     "resolution": "720p",
     "appTargetResolution": 1080,
@@ -23,6 +23,7 @@
     "buildinfo": "import(./config/build.info.json)",
     "imagescale": "import({ return './config/imagescale.' + config.env + '.config.json'; })",
     "sam3": "import({ return './config/sam3.' + config.env + '.config.json'; })",
+    "gcp": "import({ return './config/gcp.' + config.env + '.config.json'; })",
     "swupdateinfo": "import({ return './config/swupdate.' + config.env + '.config.json'; })",
     "keymap": "auto",
     "vas": "import({ return './config/vas.' + config.env + '.config.json'; })",
