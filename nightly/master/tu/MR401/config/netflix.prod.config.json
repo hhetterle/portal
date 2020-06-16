@@ -9,10 +9,10 @@
     "detEndpoint": "https://deutsche-telekom-1.prod.partner.netflix.net/preapp/tiles",
 
     // Endpoint for Netflix Silent SignIn (SSI)
-    "storeEsnEndpoint" : "http://netflix.preview1.sdp.telekom.net/v1/NGTVSTBS",
+    "storeEsnEndpoint" : "https://stb.sdp.telekom.net/v1/NGTVSTBS",
 
     // Endpoint for Netflix Silent SignIn (SSI)
-    "getEsnInfoEndpoint" : "http://netflix.preview1.sdp.telekom.net/v1/getEsn",
+    "getEsnInfoEndpoint" : "https://stb.sdp.telekom.net/v1/NGTVSTBS/v1/getEsn",
 
     // After this interval is reached the bundle request will be send again
     "esnBundleRequestRepeatIntervalDays" : 180,
