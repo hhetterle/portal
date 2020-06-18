@@ -19,7 +19,7 @@ interface IConfiguration {
 
 type EnvironmentType = "t0" | "preprod" | "prod";
 type ReceiverType = "mrentry" | "mr401" | "mrsat" | "mrg5";
-type BuildType = "nightly" | "stable" | "fallback" | "es2015" | "vodpurchase";
+type BuildType = "nightly" | "stable" | "fallback" | "es2015" | "vodpurchase" | "stable1";
 type MqttType = "aws_t0" | "aws_sandbox" | "dev";
 type ColumnNameType = keyof IConfiguration;
 
