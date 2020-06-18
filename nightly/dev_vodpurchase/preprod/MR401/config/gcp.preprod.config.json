@@ -1,5 +1,9 @@
 ﻿{
     "mock": {
-        "endpoint": "https://global.telekom.com/gcp-web-api/oauth"
+        "endpoint": "https://global.telekom.com/gcp-web-api/oauth",
+        //tbd
+        "basisAuth": "SXFpd09PbTUwVjpNMkUyTkRRM09EVTVZV0ZpTUdRek4=",
+        //tbd
+        "scope": "T00X7T70"
     }
 }
