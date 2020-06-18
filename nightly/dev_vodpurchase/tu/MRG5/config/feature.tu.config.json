@@ -32,7 +32,7 @@
                 "type": "urlSource",
                 "query": "subscriber_type",
                 "rule": {
-                    "expression": "GUEST",
+                    "expression": "GUESTIPTV_DT",
                     "assignment": "guest"
                 }
             },
