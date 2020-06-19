@@ -153,6 +153,9 @@
                     ],
                     "voiceKeySupport": [
                         "none"
+                    ],
+                    "remoteMessageGroupSearch": [
+                        "none"
                     ]
                 },
                 "values": {

@@ -81,7 +81,8 @@
                     "remotekeyPassForApp": ["full"],
                     "voiceRCSKey": ["none"],
                     "voiceHistory": ["full"],
-                    "voiceKeySupport": ["none"]
+                    "voiceKeySupport": ["none"],
+                    "remoteMessageGroupSearch": ["none"]
                 },
 
               	"values": {
