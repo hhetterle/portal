@@ -66,6 +66,7 @@
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
+                    "satellitesubscriber": [],
                     "netpvr": ["none"],
                     "extendedui": ["none"],
                     "longpress": ["none"],
@@ -128,7 +129,8 @@
                     "moreTvMagentaHaus" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
-                    "satellite": [],
+                    "satellite": ["full"],
+                    "satellitesubscriber": [],
                     "netpvr": ["none"],
                     "extendedui": ["none"],
                     "longpress": ["none"],
@@ -165,7 +167,7 @@
                 "assignment": {
                     "sathybrid": {
                         "rights": {
-                            "satellite": ["full"]
+                            "satellitesubscriber": ["full"]
                         }
                     },
                     "nightly_prod": {
@@ -191,6 +193,7 @@
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
+                    "satellitesubscriber": [],
                     "netpvr": ["none"],
                     "extendedui": ["none"],
                     "useshortcuts": ["full"],

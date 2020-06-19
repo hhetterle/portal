@@ -80,6 +80,7 @@
                     "satellite": [
                         "none"
                     ],
+                    "satellitesubscriber": [],
                     "netpvr": [
                         "none"
                     ],
@@ -177,7 +178,10 @@
                     "startuppage": [
                         "none"
                     ],
-                    "satellite": [],
+                    "satellite": [
+                        "full"
+                    ],
+                    "satellitesubscriber": [],
                     "netpvr": [
                         "none"
                     ],
@@ -241,7 +245,7 @@
                 "assignment": {
                     "sathybrid": {
                         "rights": {
-                            "satellite": [
+                            "satellitesubscriber": [
                                 "full"
                             ]
                         }
@@ -275,6 +279,7 @@
                     "satellite": [
                         "none"
                     ],
+                    "satellitesubscriber": [],
                     "netpvr": [
                         "none"
                     ],
