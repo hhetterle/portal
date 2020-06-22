@@ -1,0 +1,422 @@
+{
+    "assignment": [
+        "mrg5"
+    ],
+    "featureStructure": {
+        "assignmentSource": [
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "BASISTV",
+                    "assignment": "basistv"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "IPTV",
+                    "assignment": "iptv"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "SATHYBRID",
+                    "assignment": "sathybrid"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "GUESTIPTV_DT",
+                    "assignment": "guest"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "IPTV_COAX",
+                    "assignment": "coax"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "hostname",
+                "rule": {
+                    "expression": "localhost",
+                    "assignment": "nightly_prod"
+                }
+            }
+        ],
+        "definition": {
+            "rights": {
+                "full": [
+                    "viewItems",
+                    "addItems",
+                    "deleteItems",
+                    "editItems"
+                ],
+                "read": [
+                    "viewItems"
+                ],
+                "edit": [
+                    "viewItems",
+                    "addItems",
+                    "deleteItems",
+                    "editItems"
+                ]
+            }
+        },
+        "assignment": {
+            "mr401": {
+                "rights": {
+                    "app": [
+                        "full"
+                    ],
+                    "usb": [
+                        "none"
+                    ],
+                    "bluetooth": [
+                        "none"
+                    ],
+                    "moreTvMySubscriptionsPackages": [
+                        "none"
+                    ],
+                    "moreTvDebugNotification": [
+                        "full"
+                    ],
+                    "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
+                        "full"
+                    ],
+                    "avscontent": [
+                        "full"
+                    ],
+                    "startuppage": [
+                        "none"
+                    ],
+                    "satellite": [
+                        "none"
+                    ],
+                    "satellitesubscriber": [],
+                    "netpvr": [
+                        "none"
+                    ],
+                    "extendedui": [
+                        "full"
+                    ],
+                    "wholesale": [
+                        "none"
+                    ],
+                    "longpress": [
+                        "none"
+                    ],
+                    "useshortcuts": [
+                        "full"
+                    ],
+                    "searchNetflix": [
+                        "full"
+                    ],
+                    "groupedSearch": [
+                        "full"
+                    ],
+                    "pipInLane": [
+                        "full"
+                    ],
+                    "netflixDet": [
+                        "full"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "demoarea": [
+                        "full"
+                    ],
+                    "remotekeyPassForApp": [
+                        "full"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "full"
+                    ],
+                    "voiceKeySupport": [
+                        "none"
+                    ],
+                    "remoteMessageGroupSearch": [
+                        "none"
+                    ]
+                },
+                "values": {
+                    "partnerMapId": {
+                        "value": "entertaintvA"
+                    },
+                    "appMapId": {
+                        "value": "APPS_ZENTERIO"
+                    },
+                    "mainMenuId": {
+                        "value": 33764
+                    },
+                    "appname720": {
+                        "value": "ui20"
+                    },
+                    "appname1080": {
+                        "value": "ui20"
+                    }
+                },
+                "assignment": {
+                    "sathybrid": {
+                        "rights": {
+                            "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "guest": {
+                        "rights": {
+                            "userLogin": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "coax": {
+                        "rights": {
+                            "userLogout": [
+                                "full"
+                            ]
+                        }
+                    }
+                }
+            },
+            "mrsat": {
+                "rights": {
+                    "app": [
+                        "full"
+                    ],
+                    "usb": [
+                        "none"
+                    ],
+                    "bluetooth": [
+                        "none"
+                    ],
+                    "moreTvMySubscriptionsPackages": [
+                        "none"
+                    ],
+                    "moreTvDebugNotification": [
+                        "full"
+                    ],
+                    "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
+                        "full"
+                    ],
+                    "avscontent": [
+                        "full"
+                    ],
+                    "startuppage": [
+                        "none"
+                    ],
+                    "satellite": [
+                        "full"
+                    ],
+                    "satellitesubscriber": [],
+                    "netpvr": [
+                        "none"
+                    ],
+                    "extendedui": [
+                        "full"
+                    ],
+                    "wholesale": [
+                        "none"
+                    ],
+                    "longpress": [
+                        "none"
+                    ],
+                    "useshortcuts": [
+                        "full"
+                    ],
+                    "searchNetflix": [
+                        "full"
+                    ],
+                    "groupedSearch": [
+                        "full"
+                    ],
+                    "pipInLane": [
+                        "full"
+                    ],
+                    "netflixDet": [
+                        "full"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "demoarea": [
+                        "full"
+                    ],
+                    "remotekeyPassForApp": [
+                        "full"
+                    ],
+                    "voiceRCSKey": [
+                        "none"
+                    ],
+                    "voiceHistory": [
+                        "full"
+                    ],
+                    "voiceKeySupport": [
+                        "none"
+                    ]
+                },
+                "values": {
+                    "partnerMapId": {
+                        "value": "entertaintvA"
+                    },
+                    "appMapId": {
+                        "value": "APPS_ZENTERIO"
+                    },
+                    "mainMenuId": {
+                        "value": 34857
+                    },
+                    "appname720": {
+                        "value": "ui20"
+                    },
+                    "appname1080": {
+                        "value": "ui20"
+                    }
+                },
+                "assignment": {
+                    "sathybrid": {
+                        "rights": {
+                            "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    }
+                }
+            },
+            "mrg5": {
+                "rights": {
+                    "app": [
+                        "full"
+                    ],
+                    "usb": [
+                        "none"
+                    ],
+                    "moreTvMySubscriptionsPackages": [
+                        "none"
+                    ],
+                    "moreTvDebugNotification": [
+                        "full"
+                    ],
+                    "moreTvShowQrCodes": [
+                        "none"
+                    ],
+                    "moreTvMagentaHaus": [
+                        "full"
+                    ],
+                    "avscontent": [
+                        "full"
+                    ],
+                    "startuppage": [
+                        "none"
+                    ],
+                    "satellite": [
+                        "none"
+                    ],
+                    "satellitesubscriber": [],
+                    "netpvr": [
+                        "none"
+                    ],
+                    "extendedui": [
+                        "full"
+                    ],
+                    "wholesale": [
+                        "none"
+                    ],
+                    "useshortcuts": [
+                        "full"
+                    ],
+                    "searchNetflix": [
+                        "full"
+                    ],
+                    "groupedSearch": [
+                        "full"
+                    ],
+                    "pipInLane": [
+                        "full"
+                    ],
+                    "extendedpowermanagement": [
+                        "none"
+                    ],
+                    "fullremote": [
+                        "none"
+                    ],
+                    "netflixDet": [
+                        "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "netflixSearchDet": [
+                        "none"
+                    ],
+                    "demoarea": [
+                        "full"
+                    ],
+                    "remotekeyPassForApp": [
+                        "full"
+                    ],
+                    "voiceRCSKey": [
+                        "full"
+                    ],
+                    "voiceHistory": [
+                        "full"
+                    ],
+                    "voiceKeySupport": [
+                        "full"
+                    ]
+                },
+                "values": {
+                    "partnerMapId": {
+                        "value": "entertaintvA"
+                    },
+                    "appMapId": {
+                        "value": "APPS_ZENTERIO"
+                    },
+                    "mainMenuId": {
+                        "value": 33764
+                    },
+                    "appname720": {
+                        "value": "ui20"
+                    },
+                    "appname1080": {
+                        "value": "ui20"
+                    }
+                },
+                "assignment": {
+                    "sathybrid": {
+                        "rights": {
+                            "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

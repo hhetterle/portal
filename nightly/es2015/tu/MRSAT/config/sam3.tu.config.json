@@ -1,0 +1,76 @@
+{
+    "clients": {
+        "ngtvepg": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "ngtvvod": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "dcp": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "sdpnf": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "smarthub": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "rtl_hd": {
+            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "default": {
+            "clientID": "10TVL0SAM30000004901NGTVZENTERIO00000000",
+            "clientSecret": ""
+        }
+    },
+    "mock": {
+        "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000000696743",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.tu.html"
+    },
+    "mock1": {
+        "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000001134537",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.tu.html"
+    },
+    "mock2": {
+        "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000001112411",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.tu.html"
+    },
+    "mock3": {
+        "clientID": "10TVL0SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login00.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000005358255",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.tu.html"
+    }
+}

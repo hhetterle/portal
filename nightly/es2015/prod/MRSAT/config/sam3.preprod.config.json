@@ -1,0 +1,61 @@
+{
+    "clients": {
+        "ngtvepg": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "dcp": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "sdpnf": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "smarthub": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "rtl_hd": {
+            "clientID": "10TVL1SAM30000004901NGTV0000000000000000",
+            "clientSecret": ""
+        },
+        "default": {
+            "clientID": "10TVL1SAM30000004901NGTVZENTERIO00000000",
+            "clientSecret": ""
+        }
+    },
+    "mock": {
+        "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "",
+        "avspin": "",
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
+    },
+    "mock1": {
+        "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
+    },
+    "mock2": {
+        "clientID": "10TVL1SAM30000004901NGTVUIDEMO0000000000",
+        "endpoint": "https://accounts.login10.idm.ver.sul.t-online.de/oauth2/tokens",
+        "username": "",
+        "password": "",
+        "pin": "1111",
+        "avspin": "1818",
+        "anid": "120049010000000000000000",
+        "code": "",
+        "redirectUri": "https://cto-tvd.github.io/portal/nightly/redirect.preprod.html"
+    }
+}

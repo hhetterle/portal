@@ -1,0 +1,68 @@
+{
+    "$type": "articlepage",
+    "telemetry": {
+        "version": "0.0.1",
+        "flexId": 98766,
+        "documentGroup": "TVHS_DG_test_articlePage"
+    },
+    "menu": {
+        "href": "https://x1wcss.t-online.de/tvhs/v2/iptv2015/DocumentGroupRedirect/TVHS_DG_MainMenu"
+    },
+    "content": {
+        "title": "ArticlePage button demo",
+        "backgroundImage": {
+            "href": "mockData/articlepage/background.image.jpg"
+        },
+        "pages": [
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x8.5_BU.html"
+                },
+                "pageHeight": 204,
+                "actionButtons": [
+                    {
+                        "id": 12345,
+                        "title": "navigate.epg",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "back",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "back"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "home",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "home"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "navigate.licences",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.licences"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "article page",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "https://x3tvhubs.t-online.de/v2/iptv2015/ArticlePage/37265"
+                        }
+                    }
+                ],
+                "trailers": {}
+            }
+        ]
+    }
+}
