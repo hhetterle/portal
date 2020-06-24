@@ -2,6 +2,62 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "f14e9c52",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171002_171002_2015_sendung_fdw/11/171002_171002_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "4b44ad35",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171002_171002_2015_sendung_fdw/11/171002_171002_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "7e6386db",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171002_171002_2015_sendung_fdw/11/171002_171002_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "7e6386db",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171002_171002_2015_sendung_fdw/11/171002_171002_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
+				"id": "1ec5f359",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/17/05/170501_2015_sendung_fdw/15/170501_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "ac81df7e",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/17/05/170501_2015_sendung_fdw/15/170501_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "b9147ef0",
+				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/17/05/170501_2015_sendung_fdw/15/170501_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "b9147ef0",
+			"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/17/05/170501_2015_sendung_fdw/15/170501_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "a083925a",
 				"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/19/03/190319_0015_sendung_dks/3/190319_0015_sendung_dks_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -107,62 +163,6 @@
 		"pipStream": {
 			"id": "e36714ef",
 			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/01/160110_2015_sendung_rop/5/160110_2015_sendung_rop_a1a2_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "9ea9142b",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171104_2015_sendung_neu_str/8/171104_2015_sendung_neu_str_a1a2_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "8290e9ec",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171104_2015_sendung_neu_str/8/171104_2015_sendung_neu_str_a1a2_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "527ea062",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171104_2015_sendung_neu_str/8/171104_2015_sendung_neu_str_a1a2_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "527ea062",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171104_2015_sendung_neu_str/8/171104_2015_sendung_neu_str_a1a2_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "851a5877",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200620_lotta_und_die_frohe_zukunft_fernsehfilm/2/200620_lotta_und_die_frohe_zukunft_fernsehfilm_1496k_p13v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "fece77d1",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200620_lotta_und_die_frohe_zukunft_fernsehfilm/2/200620_lotta_und_die_frohe_zukunft_fernsehfilm_776k_p11v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "25abccf1",
-				"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200620_lotta_und_die_frohe_zukunft_fernsehfilm/2/200620_lotta_und_die_frohe_zukunft_fernsehfilm_476k_p9v13.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "25abccf1",
-			"url": "https://nrodlzdf-a.akamaihd.net/dach/3sat/20/06/200620_lotta_und_die_frohe_zukunft_fernsehfilm/2/200620_lotta_und_die_frohe_zukunft_fernsehfilm_476k_p9v13.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
