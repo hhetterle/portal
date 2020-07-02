@@ -218,7 +218,7 @@
                     "pipInLane": ["full"],
                     "extendedpowermanagement": ["none"],
                     "fullremote": ["none"],
-                    "netflixDet": ["none"],
+                    "netflixDet": ["full"],
                     "vodDeleteLicence": ["full"],
                     "netflixSearchDet": ["none"],
                     "demoarea": ["full"],
