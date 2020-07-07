@@ -37,21 +37,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3482",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -64,6 +49,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3479",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3482",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -109,21 +109,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3734",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -136,6 +121,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3733",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3734",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -187,21 +187,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3679",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -214,6 +199,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3682",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3679",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -265,21 +265,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3683",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -292,6 +277,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3686",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3683",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -343,21 +343,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3665",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -370,6 +355,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3649",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3665",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -415,21 +415,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3634",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -442,6 +427,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3647",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3634",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -487,21 +487,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3630",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -514,6 +499,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3624",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3630",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -559,21 +559,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3684",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -586,6 +571,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3687",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3684",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -769,21 +769,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1217",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -796,6 +781,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1221",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1217",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -835,21 +835,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3474",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -862,6 +847,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3485",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3474",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -907,21 +907,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3639",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -934,6 +919,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3629",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3639",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -979,21 +979,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3650",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -1006,6 +991,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3635",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3650",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1045,21 +1045,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3656",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -1072,6 +1057,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3638",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3656",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1183,21 +1183,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3698",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -1210,6 +1195,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3713",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3698",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1249,21 +1249,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "18198",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -1276,6 +1261,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "18195",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "18198",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1433,21 +1433,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3481",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1460,6 +1445,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3487",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3481",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1499,21 +1499,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3490",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1526,6 +1511,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3473",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3490",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1565,21 +1565,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3626",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1592,6 +1577,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3631",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3626",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1631,21 +1631,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3632",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1658,6 +1643,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3643",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3632",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1697,21 +1697,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "16365",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1724,6 +1709,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3641",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "16365",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1763,21 +1763,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3666",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1790,6 +1775,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3653",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3666",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1895,21 +1895,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3691",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1922,6 +1907,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3705",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3691",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1961,21 +1961,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3712",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1988,6 +1973,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3696",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3712",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2027,21 +2027,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3633",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2054,6 +2039,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3652",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3633",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2099,21 +2099,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "9411",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2126,6 +2111,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3468",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "9411",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2171,21 +2171,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3690",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2198,6 +2183,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3704",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3690",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2237,21 +2237,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2619",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2264,6 +2249,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2627",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2619",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2303,21 +2303,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3488",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2330,6 +2315,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3469",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3488",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2369,21 +2369,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3493",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2396,6 +2381,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3475",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3493",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2492,21 +2492,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1111",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2519,6 +2504,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1121",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1111",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2810,21 +2810,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3645",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2837,6 +2822,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3659",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3645",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2948,21 +2948,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17512",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2975,6 +2960,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7005",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17512",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3086,21 +3086,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17791",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3113,6 +3098,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1286",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17791",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3158,21 +3158,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3685",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3185,6 +3170,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3688",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3685",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3230,21 +3230,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3715",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3257,6 +3242,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3699",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3715",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3296,21 +3296,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17513",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3324,6 +3309,21 @@
 				"videoDefinition": 1,
 				"zosaId": "7907",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17513",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "TOGGO plus",
@@ -3336,16 +3336,16 @@
 		"cmsId": "KID00880-VOXup",
 		"images": [
 			{
-				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/eece51e7d023df59eaba2d666bd7e7ea93ede81d.jpeg",
-				"height": "1080",
-				"width": "1920"
-			},
-			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7475b5f5fce6df60756901f94904c42d2675c6d9.png",
 				"height": "48",
 				"width": "120"
+			},
+			{
+				"serviceProviderImageType": "99",
+				"url": "http://programm-manager.telekom.de/media/eece51e7d023df59eaba2d666bd7e7ea93ede81d.jpeg",
+				"height": "1080",
+				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -3368,21 +3368,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17509",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3395,6 +3380,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "17510",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17509",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3434,21 +3434,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "16364",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3461,6 +3446,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "5456",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "16364",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3710,21 +3710,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "7414",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3737,6 +3722,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "7604",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "7414",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3776,21 +3776,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "16445",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3803,6 +3788,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7216",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "16445",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3842,21 +3842,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "6702",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3869,6 +3854,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "6705",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "6702",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3959,21 +3959,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3695",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3986,6 +3971,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3710",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3695",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -4031,21 +4031,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1117",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4058,6 +4043,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1102",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1117",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -4103,21 +4103,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "9302",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4130,6 +4115,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1203",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "9302",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -4379,21 +4379,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3472",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4406,6 +4391,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3484",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3472",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -4799,21 +4799,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2683",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4826,6 +4811,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2680",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2683",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -4871,21 +4871,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1616",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4898,6 +4883,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1620",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1616",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -4943,21 +4943,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "7405",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4970,6 +4955,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7406",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "7405",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5015,21 +5015,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1720",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5042,6 +5027,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1722",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1720",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5144,21 +5144,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2902",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5171,6 +5156,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2910",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2902",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5216,21 +5216,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2532",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5243,6 +5228,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2543",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2532",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5288,21 +5288,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1681",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5315,6 +5300,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1683",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1681",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5360,21 +5360,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2657",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5387,6 +5372,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2648",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2657",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5504,21 +5504,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1335",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5531,6 +5516,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1339",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1335",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5576,21 +5576,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2667",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5603,6 +5588,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2671",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2667",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5705,21 +5705,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1651",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5732,6 +5717,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1648",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1651",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5777,21 +5777,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1657",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5804,6 +5789,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1655",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1657",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5978,21 +5978,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1650",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6005,6 +5990,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1647",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1650",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6050,21 +6050,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1182",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6077,6 +6062,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "5452",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1182",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6230,21 +6230,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2397",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6257,6 +6242,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2380",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2397",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6302,21 +6302,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2912",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6329,6 +6314,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2907",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2912",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6374,21 +6374,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2547",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6401,6 +6386,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2533",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2547",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6446,21 +6446,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2540",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6473,6 +6458,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2526",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2540",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6518,21 +6518,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2620",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6545,6 +6530,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2628",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2620",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6647,21 +6647,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1607",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6674,6 +6659,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1608",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1607",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6719,21 +6719,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1602",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6746,6 +6731,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1603",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1602",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6791,21 +6791,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1123",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6818,6 +6803,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1115",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1123",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6863,21 +6863,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1700",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6890,6 +6875,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1697",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1700",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6935,21 +6935,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1710",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6962,6 +6947,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1707",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1710",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7007,21 +7007,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1215",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7034,6 +7019,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1220",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1215",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7079,21 +7079,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "7408",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7106,6 +7091,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7409",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "7408",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7151,21 +7151,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1236",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7178,6 +7163,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1235",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1236",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7223,21 +7223,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "18402",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7250,6 +7235,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "18404",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "18402",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7295,21 +7295,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2631",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7322,6 +7307,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2623",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2631",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7367,21 +7367,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1615",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7394,6 +7379,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1614",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1615",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7439,21 +7439,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "9410",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7466,6 +7451,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1151",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "9410",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7625,21 +7625,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1301",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7652,6 +7637,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1304",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1301",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7697,21 +7697,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2626",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7724,6 +7709,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2633",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2626",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7883,21 +7883,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1199",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7910,6 +7895,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1206",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1199",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7955,21 +7955,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2512",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7982,6 +7967,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2513",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2512",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -10312,21 +10312,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "18209",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -10339,6 +10324,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "17134",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "18209",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -10384,21 +10384,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "5305",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -10411,6 +10396,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "5310",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "5305",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -13539,63 +13539,6 @@
 		"zosaType": "ChannelItem"
 	},
 	{
-		"channelNumber": 506,
-		"channelType": 0,
-		"cmsId": "KID00779-DRF1",
-		"images": [
-			{
-				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/6ad8ce166f874e77dc66b44ab4b1921c0bf6b944.png",
-				"height": "48",
-				"width": "120"
-			},
-			{
-				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/e85550597deb8b4faf8b781986c450eb7c41eeda.jpeg",
-				"height": "1080",
-				"width": "1920"
-			}
-		],
-		"isFavorited": true,
-		"isHidden": false,
-		"parentalRating": "-1",
-		"pipStream": {
-			"bitrate": "350",
-			"clientPvrAllowed": true,
-			"clientPvrSupported": false,
-			"hasAlternativeStream": false,
-			"instantRestartAllowed": true,
-			"instantRestartSupported": true,
-			"livePlayAllowed": true,
-			"livePlaySupported": true,
-			"transmissionType": 12,
-			"video3dFormat": 0,
-			"videoDefinition": 1,
-			"zosaId": "7423",
-			"zosaType": "StreamItem"
-		},
-		"streams": [
-			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "7422",
-				"zosaType": "StreamItem"
-			}
-		],
-		"title": "DRF1",
-		"zosaId": "404:575",
-		"zosaType": "ChannelItem"
-	},
-	{
 		"channelNumber": 512,
 		"channelType": 0,
 		"cmsId": "KID00851-OK4",
@@ -13643,7 +13586,7 @@
 			}
 		],
 		"title": "OK4",
-		"zosaId": "381:3045",
+		"zosaId": "404:3045",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -13694,7 +13637,7 @@
 			}
 		],
 		"title": "OK54 Trier",
-		"zosaId": "374:663",
+		"zosaId": "381:663",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -13745,7 +13688,7 @@
 			}
 		],
 		"title": "OK Weinstraße",
-		"zosaId": "385:3042",
+		"zosaId": "374:3042",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -13796,7 +13739,7 @@
 			}
 		],
 		"title": "OK-TV Ludwigshafen",
-		"zosaId": "405:662",
+		"zosaId": "385:662",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -13847,7 +13790,7 @@
 			}
 		],
 		"title": "OK:TV Mainz",
-		"zosaId": "382:3044",
+		"zosaId": "405:3044",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -13898,7 +13841,7 @@
 			}
 		],
 		"title": "SAT.1 RhlPf Hessen",
-		"zosaId": "403:145",
+		"zosaId": "382:145",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -13949,7 +13892,7 @@
 			}
 		],
 		"title": "TV Mittelrhein",
-		"zosaId": "387:581",
+		"zosaId": "403:581",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14000,7 +13943,7 @@
 			}
 		],
 		"title": "WWTV",
-		"zosaId": "54:580",
+		"zosaId": "387:580",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14051,7 +13994,7 @@
 			}
 		],
 		"title": "Chemnitz Fernsehen",
-		"zosaId": "392:2612",
+		"zosaId": "54:2612",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14102,7 +14045,7 @@
 			}
 		],
 		"title": "Dresden Fernsehen",
-		"zosaId": "375:2611",
+		"zosaId": "392:2611",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14153,7 +14096,7 @@
 			}
 		],
 		"title": "Leipzig Fernsehen",
-		"zosaId": "376:3179",
+		"zosaId": "375:3179",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14204,7 +14147,7 @@
 			}
 		],
 		"title": "TV Westsachsen",
-		"zosaId": "371:2610",
+		"zosaId": "376:2610",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14255,7 +14198,7 @@
 			}
 		],
 		"title": "MDR Sachsen-Anhalt",
-		"zosaId": "48:147",
+		"zosaId": "371:147",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14306,7 +14249,7 @@
 			}
 		],
 		"title": "altenburg.tv",
-		"zosaId": "391:3660",
+		"zosaId": "48:3660",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14357,7 +14300,7 @@
 			}
 		],
 		"title": "MDR Thüringen",
-		"zosaId": "4375:252",
+		"zosaId": "391:252",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14408,7 +14351,7 @@
 			}
 		],
 		"title": "Rennsteig.TV",
-		"zosaId": "4358:2609",
+		"zosaId": "4375:2609",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14459,7 +14402,7 @@
 			}
 		],
 		"title": "salve.tv",
-		"zosaId": "407:3073",
+		"zosaId": "4358:3073",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14531,7 +14474,7 @@
 			}
 		],
 		"title": "Sky One",
-		"zosaId": "373:576",
+		"zosaId": "407:576",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14588,7 +14531,7 @@
 			}
 		],
 		"title": "Sky Serien & Shows",
-		"zosaId": "408:3756",
+		"zosaId": "373:3756",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14660,7 +14603,7 @@
 			}
 		],
 		"title": "SkyAtlantic",
-		"zosaId": "404:264",
+		"zosaId": "408:264",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14732,7 +14675,7 @@
 			}
 		],
 		"title": "Fox (Sky)",
-		"zosaId": "381:128",
+		"zosaId": "404:128",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14804,7 +14747,7 @@
 			}
 		],
 		"title": "TNT Serie (Sky)",
-		"zosaId": "374:458",
+		"zosaId": "381:458",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14861,7 +14804,7 @@
 			}
 		],
 		"title": "TNT Comedy (Sky)",
-		"zosaId": "385:461",
+		"zosaId": "374:461",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -14933,7 +14876,7 @@
 			}
 		],
 		"title": "Syfy (Sky)",
-		"zosaId": "405:465",
+		"zosaId": "385:465",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15005,7 +14948,7 @@
 			}
 		],
 		"title": "13TH STREET (Sky)",
-		"zosaId": "382:471",
+		"zosaId": "405:471",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15062,7 +15005,7 @@
 			}
 		],
 		"title": "Universal TV (Sky)",
-		"zosaId": "403:462",
+		"zosaId": "382:462",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15119,7 +15062,7 @@
 			}
 		],
 		"title": "E! Entertainment (Sky)",
-		"zosaId": "387:466",
+		"zosaId": "403:466",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15176,7 +15119,7 @@
 			}
 		],
 		"title": "Nick Jr. (Sky)",
-		"zosaId": "54:4379",
+		"zosaId": "387:4379",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15233,7 +15176,7 @@
 			}
 		],
 		"title": "Nicktoons (Sky)",
-		"zosaId": "392:4405",
+		"zosaId": "54:4405",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15305,7 +15248,7 @@
 			}
 		],
 		"title": "Discovery (Sky)",
-		"zosaId": "375:468",
+		"zosaId": "392:468",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15377,7 +15320,7 @@
 			}
 		],
 		"title": "National Geographic (Sky)",
-		"zosaId": "376:464",
+		"zosaId": "375:464",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15449,7 +15392,7 @@
 			}
 		],
 		"title": "National Geographic WILD (Sky)",
-		"zosaId": "371:233",
+		"zosaId": "376:233",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15521,7 +15464,7 @@
 			}
 		],
 		"title": "Spiegel Geschichte (Sky)",
-		"zosaId": "48:183",
+		"zosaId": "371:183",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15578,7 +15521,7 @@
 			}
 		],
 		"title": "Spiegel TV Wissen (Sky)",
-		"zosaId": "391:2860",
+		"zosaId": "48:2860",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15635,7 +15578,7 @@
 			}
 		],
 		"title": "HISTORY (Sky)",
-		"zosaId": "4375:467",
+		"zosaId": "391:467",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15692,7 +15635,7 @@
 			}
 		],
 		"title": "SkyKrimi",
-		"zosaId": "4358:201",
+		"zosaId": "4375:201",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15764,7 +15707,7 @@
 			}
 		],
 		"title": "Beate-Uhse.TV (Sky)",
-		"zosaId": "407:107",
+		"zosaId": "4358:107",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15821,7 +15764,7 @@
 			}
 		],
 		"title": "Heimatkanal (Sky)",
-		"zosaId": "373:134",
+		"zosaId": "407:134",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15878,7 +15821,7 @@
 			}
 		],
 		"title": "Romance TV (Sky)",
-		"zosaId": "408:658",
+		"zosaId": "373:658",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15935,7 +15878,7 @@
 			}
 		],
 		"title": "Classica (Sky)",
-		"zosaId": "404:118",
+		"zosaId": "408:118",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -15992,7 +15935,7 @@
 			}
 		],
 		"title": "Jukebox (Sky)",
-		"zosaId": "381:132",
+		"zosaId": "404:132",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16049,7 +15992,7 @@
 			}
 		],
 		"title": "Boomerang (Sky)",
-		"zosaId": "374:3843",
+		"zosaId": "381:3843",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16106,7 +16049,7 @@
 			}
 		],
 		"title": "Junior (Sky)",
-		"zosaId": "385:138",
+		"zosaId": "374:138",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16163,7 +16106,7 @@
 			}
 		],
 		"title": "Cartoon Network (Sky)",
-		"zosaId": "405:4512",
+		"zosaId": "385:4512",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16235,7 +16178,7 @@
 			}
 		],
 		"title": "Sky Cinema Premieren",
-		"zosaId": "382:195",
+		"zosaId": "405:195",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16307,7 +16250,7 @@
 			}
 		],
 		"title": "Sky Cinema Premieren +24",
-		"zosaId": "403:202",
+		"zosaId": "382:202",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16379,7 +16322,7 @@
 			}
 		],
 		"title": "Sky Cinema Best of",
-		"zosaId": "387:263",
+		"zosaId": "403:263",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16436,7 +16379,7 @@
 			}
 		],
 		"title": "Sky Cinema Thriller",
-		"zosaId": "54:4356",
+		"zosaId": "387:4356",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16508,7 +16451,7 @@
 			}
 		],
 		"title": "Sky Cinema Action",
-		"zosaId": "392:40",
+		"zosaId": "54:40",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16580,7 +16523,7 @@
 			}
 		],
 		"title": "Sky Cinema Family",
-		"zosaId": "375:572",
+		"zosaId": "392:572",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16637,7 +16580,7 @@
 			}
 		],
 		"title": "Sky Cinema Special",
-		"zosaId": "376:3844",
+		"zosaId": "375:3844",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16694,7 +16637,7 @@
 			}
 		],
 		"title": "Sky Cinema Fun",
-		"zosaId": "371:235",
+		"zosaId": "376:235",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16751,7 +16694,7 @@
 			}
 		],
 		"title": "Sky Cinema Classics",
-		"zosaId": "48:200",
+		"zosaId": "371:200",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16823,7 +16766,7 @@
 			}
 		],
 		"title": "TNT Film (Sky)",
-		"zosaId": "391:540",
+		"zosaId": "48:540",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16880,7 +16823,7 @@
 			}
 		],
 		"title": "Kinowelt TV (Sky)",
-		"zosaId": "4375:539",
+		"zosaId": "391:539",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -16952,7 +16895,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 1",
-		"zosaId": "4358:42",
+		"zosaId": "4375:42",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17024,7 +16967,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 2",
-		"zosaId": "407:206",
+		"zosaId": "4358:206",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17096,7 +17039,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 3",
-		"zosaId": "373:211",
+		"zosaId": "407:211",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17168,7 +17111,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 4",
-		"zosaId": "408:199",
+		"zosaId": "373:199",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17240,7 +17183,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 5",
-		"zosaId": "404:232",
+		"zosaId": "408:232",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17312,7 +17255,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 6",
-		"zosaId": "381:234",
+		"zosaId": "404:234",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17384,7 +17327,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 7",
-		"zosaId": "374:231",
+		"zosaId": "381:231",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17456,7 +17399,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 8",
-		"zosaId": "385:258",
+		"zosaId": "374:258",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17528,7 +17471,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 9",
-		"zosaId": "405:219",
+		"zosaId": "385:219",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17600,7 +17543,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga 10",
-		"zosaId": "382:237",
+		"zosaId": "405:237",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17657,7 +17600,7 @@
 			}
 		],
 		"title": "Sky Sport Bundesliga UHD",
-		"zosaId": "403:630",
+		"zosaId": "382:630",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17714,7 +17657,7 @@
 			}
 		],
 		"title": "Sky Sport UHD",
-		"zosaId": "387:631",
+		"zosaId": "403:631",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17786,7 +17729,7 @@
 			}
 		],
 		"title": "Sky Sport 1",
-		"zosaId": "54:31",
+		"zosaId": "387:31",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17858,7 +17801,7 @@
 			}
 		],
 		"title": "Sky Sport 2",
-		"zosaId": "392:198",
+		"zosaId": "54:198",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -17930,7 +17873,7 @@
 			}
 		],
 		"title": "Sky Sport 3",
-		"zosaId": "375:192",
+		"zosaId": "392:192",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18002,7 +17945,7 @@
 			}
 		],
 		"title": "Sky Sport 4",
-		"zosaId": "376:212",
+		"zosaId": "375:212",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18074,7 +18017,7 @@
 			}
 		],
 		"title": "Sky Sport 5",
-		"zosaId": "371:189",
+		"zosaId": "376:189",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18146,7 +18089,7 @@
 			}
 		],
 		"title": "Sky Sport 6",
-		"zosaId": "48:111",
+		"zosaId": "371:111",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18218,7 +18161,7 @@
 			}
 		],
 		"title": "Sky Sport 7",
-		"zosaId": "391:114",
+		"zosaId": "48:114",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18290,7 +18233,7 @@
 			}
 		],
 		"title": "Sky Sport 8",
-		"zosaId": "4375:113",
+		"zosaId": "391:113",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18362,7 +18305,7 @@
 			}
 		],
 		"title": "Sky Sport 9",
-		"zosaId": "4358:127",
+		"zosaId": "4375:127",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18434,7 +18377,7 @@
 			}
 		],
 		"title": "Sky Sport 10",
-		"zosaId": "407:261",
+		"zosaId": "4358:261",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18506,7 +18449,7 @@
 			}
 		],
 		"title": "Sky Sport 11",
-		"zosaId": "373:187",
+		"zosaId": "407:187",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18578,7 +18521,7 @@
 			}
 		],
 		"title": "Sky Sport 12",
-		"zosaId": "408:3682",
+		"zosaId": "373:3682",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18650,7 +18593,7 @@
 			}
 		],
 		"title": "Sky Sport 13",
-		"zosaId": "404:3689",
+		"zosaId": "408:3689",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18722,7 +18665,7 @@
 			}
 		],
 		"title": "Sky Sport 14",
-		"zosaId": "381:3684",
+		"zosaId": "404:3684",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18794,7 +18737,7 @@
 			}
 		],
 		"title": "Sky Sport Austria 1",
-		"zosaId": "374:208",
+		"zosaId": "381:208",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18866,7 +18809,7 @@
 			}
 		],
 		"title": "Sky Sport Austria 2",
-		"zosaId": "385:3688",
+		"zosaId": "374:3688",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -18938,7 +18881,7 @@
 			}
 		],
 		"title": "Sky Sport Austria 3",
-		"zosaId": "405:3683",
+		"zosaId": "385:3683",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19010,7 +18953,7 @@
 			}
 		],
 		"title": "Sky Sport Austria 4",
-		"zosaId": "382:3687",
+		"zosaId": "405:3687",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19067,7 +19010,7 @@
 			}
 		],
 		"title": "Eurosport 1 (Sky)",
-		"zosaId": "403:254",
+		"zosaId": "382:254",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19124,7 +19067,7 @@
 			}
 		],
 		"title": "Eurosport 2 (Sky)",
-		"zosaId": "387:253",
+		"zosaId": "403:253",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19175,7 +19118,7 @@
 			}
 		],
 		"title": "Testkanal L01",
-		"zosaId": "54:416",
+		"zosaId": "387:416",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19210,21 +19153,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2641",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -19238,10 +19166,25 @@
 				"videoDefinition": 2,
 				"zosaId": "2645",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2641",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Testkanal L02",
-		"zosaId": "392:243",
+		"zosaId": "54:243",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19307,7 +19250,7 @@
 			}
 		],
 		"title": "Testkanal L03",
-		"zosaId": "375:442",
+		"zosaId": "392:442",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19373,7 +19316,7 @@
 			}
 		],
 		"title": "Testkanal L04",
-		"zosaId": "376:179",
+		"zosaId": "375:179",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19424,7 +19367,7 @@
 			}
 		],
 		"title": "Testkanal L05",
-		"zosaId": "371:532",
+		"zosaId": "376:532",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19460,7 +19403,7 @@
 			}
 		],
 		"title": "Testkanal L06",
-		"zosaId": "48:477",
+		"zosaId": "371:477",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19495,21 +19438,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "5408",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -19523,10 +19451,25 @@
 				"videoDefinition": 1,
 				"zosaId": "5407",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "5408",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Testkanal L07",
-		"zosaId": "391:457",
+		"zosaId": "48:457",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19577,7 +19520,7 @@
 			}
 		],
 		"title": "Testkanal L08",
-		"zosaId": "4375:597",
+		"zosaId": "391:597",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19628,7 +19571,7 @@
 			}
 		],
 		"title": "Testkanal L09",
-		"zosaId": "4358:598",
+		"zosaId": "4375:598",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19670,7 +19613,7 @@
 			}
 		],
 		"title": "Demokanal",
-		"zosaId": "407:116",
+		"zosaId": "4358:116",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19721,7 +19664,7 @@
 			}
 		],
 		"title": "Testkanal I01",
-		"zosaId": "373:530",
+		"zosaId": "407:530",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19772,7 +19715,7 @@
 			}
 		],
 		"title": "Testkanal I03",
-		"zosaId": "408:257",
+		"zosaId": "373:257",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19829,7 +19772,7 @@
 			}
 		],
 		"title": "Instore TV",
-		"zosaId": "404:131",
+		"zosaId": "408:131",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19881,7 +19824,7 @@
 			}
 		],
 		"title": "Megathek",
-		"zosaId": "381:812",
+		"zosaId": "404:812",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19933,7 +19876,7 @@
 			}
 		],
 		"title": "Netflix",
-		"zosaId": "374:613",
+		"zosaId": "381:613",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -19991,7 +19934,7 @@
 			}
 		],
 		"title": "Prime Video",
-		"zosaId": "385:2921",
+		"zosaId": "374:2921",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -20042,7 +19985,7 @@
 			}
 		],
 		"title": "Testkanal H01",
-		"zosaId": "405:443",
+		"zosaId": "385:443",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -20088,7 +20031,7 @@
 			}
 		],
 		"title": "Monitoring DSMS",
-		"zosaId": "382:612",
+		"zosaId": "405:612",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -20124,7 +20067,7 @@
 			}
 		],
 		"title": "MagentaTV Info",
-		"zosaId": "403:115",
+		"zosaId": "382:115",
 		"zosaType": "ChannelItem"
 	}
 ]
