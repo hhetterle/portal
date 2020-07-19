@@ -136,6 +136,12 @@
                     "vodDeleteLicence": [
                         "full"
                     ],
+                    "vodBingeWatchImprovement": [
+                        "full"
+                    ],
+                    "vodUX25": [
+                        "full"
+                    ],
                     "netflixSearchDet": [
                         "none"
                     ],
@@ -262,6 +268,12 @@
                     "vodDeleteLicence": [
                         "full"
                     ],
+                    "vodBingeWatchImprovement": [
+                        "full"
+                    ],
+                    "vodUX25": [
+                        "full"
+                    ],
                     "netflixSearchDet": [
                         "none"
                     ],
@@ -369,6 +381,12 @@
                         "full"
                     ],
                     "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "vodBingeWatchImprovement": [
+                        "full"
+                    ],
+                    "vodUX25": [
                         "full"
                     ],
                     "netflixSearchDet": [

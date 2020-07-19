@@ -41,5 +41,7 @@
   "releaseBandwidthBookingsDelayMs": 1000,
   "startupPageDisplayDurationMs": 30000,
   "timeshiftDelaySeconds": 5,
-  "cleanupJobsPostponeMs": 10000
+  "cleanupJobsPostponeMs": 10000,
+  "bingeWatchMinSequence": 10000,
+  "bingeWatchAutoClose": 6000
 }
