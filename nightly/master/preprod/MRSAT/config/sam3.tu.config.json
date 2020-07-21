@@ -1,31 +1,31 @@
 {
     "clients": {
         "ngtvepg": {
-            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientID": "10TVL0SAM30000004901NGTVAM00000000000000",
             "clientSecret": ""
         },
         "ngtvvod": {
-            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientID": "10TVL0SAM30000004901NGTVAM00000000000000",
             "clientSecret": ""
         },
         "dcp": {
-            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientID": "10TVL0SAM30000004901NGTVAM00000000000000",
             "clientSecret": ""
         },
         "sdpnf": {
-            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientID": "10TVL0SAM30000004901NGTVAM00000000000000",
             "clientSecret": ""
         },
         "smarthub": {
-            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientID": "10TVL0SAM30000004901NGTVAM00000000000000",
             "clientSecret": ""
         },
         "rtl_hd": {
-            "clientID": "10TVL0SAM30000004901NGTV0000000000000000",
+            "clientID": "10TVL0SAM30000004901NGTVAM00000000000000",
             "clientSecret": ""
         },
         "default": {
-            "clientID": "10TVL0SAM30000004901NGTVZENTERIO00000000",
+            "clientID": "10TVL0SAM30000004901NGTVAUTHMANAGER00000",
             "clientSecret": ""
         }
     },
