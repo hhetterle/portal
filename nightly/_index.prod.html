@@ -14,7 +14,7 @@
 		function startPortal() {
 
 			// use property of zacPluginObject to force a connection to WPEPluginProcess
-			var objZacSystem = (document.getElementById("zacPluginObject") || {}).System;
+			const objZacSystem = (document.getElementById("zacPluginObject") || {}).System;
 
 			if (objZacSystem) {
 
@@ -59,7 +59,7 @@
 
 		function startUiPortal(objSysInfo, zacType) {
 
-			var stbType = "MR401";
+			const stbType = "MR401";
 
 			if (objSysInfo.SwProductVariant) {
 
@@ -73,9 +73,9 @@
 				}
 			}
 
-			var devPortal = "https://cto-tvd.github.io/portal/nightly/master/prod/";
+			const devPortal = "https://cto-tvd.github.io/portal/nightly/master/prod/";
 
-			var targetUrl = devPortal + stbType + "/index.html";
+			const targetUrl = devPortal + stbType + "/index.html";
 
 			if (window.location.search) {
 
@@ -86,7 +86,7 @@
 				targetUrl += "?";
 			}
 
-			targetUrl += "logging.loglevel=info&zacType="+zacType;
+			targetUrl += "logging.loglevel=info&zacType=" + zacType;
 
 			console.log("[startUiPortal] targetUrl: " + targetUrl);
 
