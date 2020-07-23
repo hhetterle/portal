@@ -3408,6 +3408,12 @@
 		"cmsId": "br-alpha",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ca7b82627f3ebabc7c3a37b306b621721bbdc91e.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/4f1286373cd3362649d2e4ae1692ab8a360bf773.png",
 				"height": "48",
@@ -6615,6 +6621,12 @@
 		"cmsId": "animal-planet",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/5255ebd8c1bfed40d33eff7bc066c6a61c7adab4.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/cd0ca6f68c634ba2fd4ce665043f3cefdd1c1c9d.png",
 				"height": "48",
@@ -8124,6 +8136,12 @@
 		"cmsId": "bbl-sd1",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e5fcea04af5a680d5520e758c005b7be9ca5d924.png",
 				"height": "48",
@@ -8131,7 +8149,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/54f2e795b1a42005233820c69e05ee8c0bc964df.jpeg",
+				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8181,6 +8199,12 @@
 		"cmsId": "bbl-sd2",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e5fcea04af5a680d5520e758c005b7be9ca5d924.png",
 				"height": "48",
@@ -8188,7 +8212,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/54f2e795b1a42005233820c69e05ee8c0bc964df.jpeg",
+				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8238,6 +8262,12 @@
 		"cmsId": "bbl-sd3",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e5fcea04af5a680d5520e758c005b7be9ca5d924.png",
 				"height": "48",
@@ -8245,7 +8275,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/54f2e795b1a42005233820c69e05ee8c0bc964df.jpeg",
+				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8295,6 +8325,12 @@
 		"cmsId": "KID00765-TelekomBasketball4",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bef4c74101aa68819c60f53b4405f170819e9861.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e5fcea04af5a680d5520e758c005b7be9ca5d924.png",
 				"height": "48",
@@ -8302,7 +8338,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/54f2e795b1a42005233820c69e05ee8c0bc964df.jpeg",
+				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8404,6 +8440,12 @@
 		"cmsId": "KID00754-TelekomEishockey1",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8411,7 +8453,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8461,6 +8503,12 @@
 		"cmsId": "KID00755-TelekomEishockey2",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8468,7 +8516,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8518,6 +8566,12 @@
 		"cmsId": "KID00756-TelekomEishockey3",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8525,7 +8579,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8575,6 +8629,12 @@
 		"cmsId": "KID00761-TelekomEishockey4",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8582,7 +8642,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8632,6 +8692,12 @@
 		"cmsId": "KID00762-TelekomEishockey5",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8639,7 +8705,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8689,6 +8755,12 @@
 		"cmsId": "KID00763-TelekomEishockey6",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8696,7 +8768,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8746,6 +8818,12 @@
 		"cmsId": "KID00764-TelekomEishockey7",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8753,7 +8831,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8803,6 +8881,12 @@
 		"cmsId": "KID00873-MyTeamTV-Eishockey8",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/38d4dd3acdea4d37e08fec8a5b345c2d6327c53c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ee505f5ffc43cac6118bf1efb5d832314e3ff77f.png",
 				"height": "48",
@@ -8810,7 +8894,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/19bd3ab65231179beb7b4df333eec9a8018a1256.jpeg",
+				"url": "http://programm-manager.telekom.de/media/14a6081c08edc7ea238574b413ee30ae32fe50e3.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8860,6 +8944,12 @@
 		"cmsId": "KID00789-FCBAYERNTVLIVE",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d2b5a65cfaa9065d8bc5729804b3b097b24aa3b1.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/55005eca27e8c20bfb41fa842181b50721ac156f.png",
 				"height": "48",
@@ -8867,7 +8957,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/ea2f469e032fbea069ed4f1180d59b6a3373c845.jpeg",
+				"url": "http://programm-manager.telekom.de/media/64852cc14d5de4acf58d70ec1b0edf39bdd913d9.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8924,7 +9014,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/b4c76b8f017493487f8f0d3c3cf7078080eb2c36.jpeg",
+				"url": "http://programm-manager.telekom.de/media/4f106c0f55a8c4b0f73edf168e01933cbc742d81.jpeg",
 				"height": "2160",
 				"width": "3840"
 			}
@@ -8981,7 +9071,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/b4c76b8f017493487f8f0d3c3cf7078080eb2c36.jpeg",
+				"url": "http://programm-manager.telekom.de/media/4f106c0f55a8c4b0f73edf168e01933cbc742d81.jpeg",
 				"height": "2160",
 				"width": "3840"
 			}
@@ -9038,7 +9128,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/b4c76b8f017493487f8f0d3c3cf7078080eb2c36.jpeg",
+				"url": "http://programm-manager.telekom.de/media/4f106c0f55a8c4b0f73edf168e01933cbc742d81.jpeg",
 				"height": "2160",
 				"width": "3840"
 			}
@@ -9095,7 +9185,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/b4c76b8f017493487f8f0d3c3cf7078080eb2c36.jpeg",
+				"url": "http://programm-manager.telekom.de/media/4f106c0f55a8c4b0f73edf168e01933cbc742d81.jpeg",
 				"height": "2160",
 				"width": "3840"
 			}
@@ -9152,7 +9242,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/b4c76b8f017493487f8f0d3c3cf7078080eb2c36.jpeg",
+				"url": "http://programm-manager.telekom.de/media/4f106c0f55a8c4b0f73edf168e01933cbc742d81.jpeg",
 				"height": "2160",
 				"width": "3840"
 			}
@@ -9202,6 +9292,12 @@
 		"cmsId": "KID00806-MyTeamTV-Fuball1",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9209,7 +9305,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -9259,6 +9355,12 @@
 		"cmsId": "KID00807-MyTeamTV-Fuball2",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9266,7 +9368,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -9316,6 +9418,12 @@
 		"cmsId": "KID00808-MyTeamTV-Fuball3",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9323,7 +9431,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -9373,6 +9481,12 @@
 		"cmsId": "KID00809-MyTeamTV-Fuball4",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9380,7 +9494,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -9430,6 +9544,12 @@
 		"cmsId": "KID00811-MyTeamTV-Fuball5",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9437,7 +9557,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -9487,6 +9607,12 @@
 		"cmsId": "KID00812-MyTeamTV-Fuball6",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9494,7 +9620,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -9544,6 +9670,12 @@
 		"cmsId": "KID00813-MyTeamTV-Fuball7",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d33f867b5a84ddbce8d126b7c19f0be6e5d61206.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/93cb603f667c6407d3a1a2be659144b73d3ac763.png",
 				"height": "48",
@@ -9551,7 +9683,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/767d16a46e059778a801af8a16a5a6e331b8d27b.jpeg",
+				"url": "http://programm-manager.telekom.de/media/d5cfb4318d84f4d52b353fc0318fd202f85e247f.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -11207,6 +11339,12 @@
 		"cmsId": "a.tv",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/16525fe96fd5f2ee9dc6c41c972cfaa142038f46.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/b60e89b7e008dfb126a4a26ebb5bda896674b39b.png",
 				"height": "48",
@@ -11257,6 +11395,12 @@
 		"channelType": 0,
 		"cmsId": "tv-allgaeu",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/1d733842aa82ebca90710f51fec8b8f35922ae00.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/d37488ac6d2572b3cda8b5abc35f2ef632f46d8d.png",
@@ -11971,6 +12115,12 @@
 		"channelType": 0,
 		"cmsId": "KID00785-ALEXBerlin",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/873f2045f3de1c6007f89009c8889c0c368fff7a.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/029de89eb87aea2d6ff51b225067bab393112d51.png",
@@ -13814,6 +13964,12 @@
 		"cmsId": "sat.1-rhlpf-hessen",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png",
 				"height": "48",
@@ -14221,6 +14377,12 @@
 		"channelType": 0,
 		"cmsId": "KID00858-altenburgtv",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/a52f9b9168c967dc322a3c5128f4cda364a710c4.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7290ab23481b5667b84d0d172b460aeedc3bf6ff.png",
@@ -20010,13 +20172,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10008.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10008.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
