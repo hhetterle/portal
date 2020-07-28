@@ -343,21 +343,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3649",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -370,6 +355,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3665",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3649",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -415,21 +415,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3647",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -443,6 +428,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3634",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3647",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "VOX",
@@ -454,6 +454,12 @@
 		"channelType": 0,
 		"cmsId": "kabel-1",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/97cabed29d22f5726bc367c02f7f7860e7e95ea4.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e92cc62717350cd0378f1191c21a3512362c65a1.png",
@@ -487,21 +493,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3630",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -514,6 +505,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3624",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3630",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -559,21 +565,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3684",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -586,6 +577,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3687",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3684",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -671,6 +677,12 @@
 		"cmsId": "kika",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/2f0ff7b44c615c4de521878f52a67bc204e90ccc.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7d9a501ddc07382fcfdbb0c0797916ba4e78cacd.png",
 				"height": "48",
@@ -697,21 +709,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "5454",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -725,6 +722,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3636",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "5454",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "KiKA",
@@ -736,6 +748,12 @@
 		"channelType": 0,
 		"cmsId": "nickcc",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/0f1c520c8393ad9cacb3de4b633a98eb12575dfa.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/a7a97522a8f2a86910a25914b2b1814cda4bff84.png",
@@ -769,21 +787,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1221",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -797,6 +800,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1217",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1221",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Nick/MTV+",
@@ -808,6 +826,12 @@
 		"channelType": 0,
 		"cmsId": "3sat",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/cb4ad5071a81df9a8f926ab737dd81934a3f3c43.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f0fc63107fddc5c72d70a64f90f9672710e3a3d9.png",
@@ -835,21 +859,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3474",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -862,6 +871,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3485",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3474",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1045,21 +1069,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3656",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -1072,6 +1081,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3638",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3656",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1117,21 +1141,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1321",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -1144,6 +1153,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "1325",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "1321",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1223,6 +1247,12 @@
 		"cmsId": "KID00888-DABEI",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/87023c2e5eebe050d619778a4625f4fd6f6fc435.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8d357b66f690d33782534c06a9d8fd5bd1ac216b.png",
 				"height": "48",
@@ -1288,6 +1318,12 @@
 		"channelType": 0,
 		"cmsId": "KID00883-DisneySelect",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/0fa360d70e32b80581edff2f0d27dcd503be045a.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e14f9ee2088d8203ccbfa4a186e9e5c385739525.png",
@@ -1407,6 +1443,12 @@
 		"cmsId": "br-sued",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/52752f7b78c9f0d2d89f11b03ddda945b42cd2c9.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/dbcae4e6fd058a2c6ca9ca2ec0a439d85ffe980b.png",
 				"height": "48",
@@ -1433,21 +1475,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3481",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1461,6 +1488,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3487",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3481",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "BR Süd",
@@ -1472,6 +1514,12 @@
 		"channelType": 0,
 		"cmsId": "hr",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/78802a0c3c0f4ea2447fa3ff3ddf58af91fe16b2.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/1f9d5388b2c17b18117e5a739f4b5ec2a1ad907d.png",
@@ -1499,21 +1547,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3490",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1527,6 +1560,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3473",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3490",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "hr",
@@ -1538,6 +1586,12 @@
 		"channelType": 0,
 		"cmsId": "mdr-sachsen",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/190c36c2d73c1f6ad33dbe51420e74bcf25a1b8a.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",
@@ -1565,21 +1619,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3626",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1593,6 +1632,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3631",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3626",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "MDR Sachsen",
@@ -1604,6 +1658,12 @@
 		"channelType": 0,
 		"cmsId": "ndr",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e51cf4bf577954c861c57396359f56fb3f5e7805.png",
@@ -1631,21 +1691,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3632",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1658,6 +1703,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3643",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3632",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1763,21 +1823,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3666",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1790,6 +1835,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3653",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3666",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1829,21 +1889,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "7007",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1856,6 +1901,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3689",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "7007",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -1895,21 +1955,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3705",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -1922,6 +1967,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3691",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3705",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2027,21 +2087,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3633",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2055,6 +2100,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3652",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3633",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "WDR",
@@ -2066,6 +2126,12 @@
 		"channelType": 0,
 		"cmsId": "eurosport",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/78c2b996afeb3ce1579cf2b322ee15216020b0b6.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/18f200745e93b6c9848237acaaa008ea9f520f94.png",
@@ -2099,21 +2165,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "9411",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2126,6 +2177,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3468",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "9411",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2171,21 +2237,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3704",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2198,6 +2249,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3690",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3704",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2276,6 +2342,12 @@
 		"channelType": 0,
 		"cmsId": "arte",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/8421f189118991ab7b5d1bb1a749cf8eca1b0501.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",
@@ -2369,21 +2441,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3493",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2397,6 +2454,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3475",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3493",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "ONE",
@@ -2408,6 +2480,12 @@
 		"channelType": 0,
 		"cmsId": "anixe-sd",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/a39367d3874a697055b11ea159da1e528c79bc69.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7d936048c94ca83281a61951170b5ad0da756584.png",
@@ -2460,6 +2538,12 @@
 		"cmsId": "viva",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d53ac960c377cc6e7fba0946689a7cf881caa608.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/766e5d3738b790d93690b9a6a40e65b99cb73d6b.png",
 				"height": "48",
@@ -2492,21 +2576,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1121",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2519,6 +2588,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1111",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1121",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2604,6 +2688,12 @@
 		"cmsId": "dmax",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ddf2946d5dc4e747b294fadeeb5552643688a6a4.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f47210c8539cdcb85e4c468f83a281f6daa66b58.png",
 				"height": "48",
@@ -2676,6 +2766,12 @@
 		"cmsId": "KID00854-eoTV",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/4e6cae5c4546015a0e24c372384dab6f44d6dd1d.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/fb85aa4ba0f2ef491bbecdfdffd93db2207996cf.png",
 				"height": "48",
@@ -2726,6 +2822,12 @@
 		"channelType": 0,
 		"cmsId": "KID00863-HGTV",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/fc0f32de5bfb782974da67e5fa6fc7c4ffcb2a64.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f1d655994f8af8a636f983c9d3fe1a862501766d.png",
@@ -2810,21 +2912,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3659",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2837,6 +2924,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3645",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3659",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3086,21 +3188,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17791",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3113,6 +3200,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1286",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17791",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3158,21 +3260,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3688",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3185,6 +3272,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3685",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3688",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3230,21 +3332,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3715",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3257,6 +3344,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3699",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3715",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3296,21 +3398,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17513",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3323,6 +3410,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7907",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17513",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3368,21 +3470,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "17509",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3395,6 +3482,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "17510",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "17509",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3440,21 +3542,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "16364",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3468,6 +3555,21 @@
 				"videoDefinition": 1,
 				"zosaId": "5456",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "16364",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "ARD-alpha",
@@ -3479,6 +3581,12 @@
 		"channelType": 0,
 		"cmsId": "bibel-tv",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/fc134f2137d5ab6b589f05da9b4d504ef7ef6510.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/4754ecc68c5e078e80ac2d5435726b2a9b016b90.png",
@@ -3531,6 +3639,12 @@
 		"cmsId": "deutsche-welle",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/e18d03f952a49dd28d494b46f24fce8d49e8f6eb.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/947f1f59cc0a4bf3f9c5439c1b0b32dc06c652a5.png",
 				"height": "48",
@@ -3581,6 +3695,12 @@
 		"channelType": 0,
 		"cmsId": "euron-d",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/17772f35586cde472a7a9a70f8efcd365efd7b10.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/92eae2291650194c14e193ae749a9ad77c61b4a8.png",
@@ -3633,6 +3753,12 @@
 		"cmsId": "k-tv",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/44c0777e773540008bb854a5464e6d0db65f30b9.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/3fc421d0d3dad934561aee97845ca8b01ec0a661.png",
 				"height": "48",
@@ -3684,6 +3810,12 @@
 		"cmsId": "KID00773-kabeleinsDoku",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/6e13a0345c0d40adb0f718755c315dce6269af1d.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ca3279d86270655d49eb50a361e1dcb4564bf39e.png",
 				"height": "48",
@@ -3716,21 +3848,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "7604",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3744,6 +3861,21 @@
 				"videoDefinition": 1,
 				"zosaId": "7414",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "7604",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "kabel eins Doku",
@@ -3755,6 +3887,12 @@
 		"channelType": 0,
 		"cmsId": "KID00772-N24Doku",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/72792fbb249037ecda95dc74746a3b328259584c.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/bf4ce870d460dcdb3b1e573d58a14137a7d002ea.png",
@@ -3782,21 +3920,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "16445",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3809,6 +3932,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7216",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "16445",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3965,21 +4103,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3710",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3993,6 +4116,21 @@
 				"videoDefinition": 1,
 				"zosaId": "3695",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3710",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "ZDFinfo",
@@ -4004,6 +4142,12 @@
 		"channelType": 0,
 		"cmsId": "deluxe-music",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/0c7d8589ef1ecac504e6441bf09db1188f9d9a54.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/d31840e010d6da58d1aeb2009b04f5a9924481c1.png",
@@ -4037,21 +4181,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1117",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4065,6 +4194,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1102",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1117",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Deluxe Music",
@@ -4076,6 +4220,12 @@
 		"channelType": 0,
 		"cmsId": "mtv-hd",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/cf07e07f319004abaee8e95d543262b0cdfd1bf4.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6bbfebf5f02412641e1856056625855930206d43.png",
@@ -4148,6 +4298,12 @@
 		"channelType": 0,
 		"cmsId": "hse-24",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/7ad23b2b2b814706aaaa9dfa830cfee0ffb51ad3.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/1ded3f4362fa9d2331c4288f2f8bcbb687972bdc.png",
@@ -4302,6 +4458,12 @@
 		"cmsId": "bbc-world",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/8762828973e9004a6750aa044130b3f44df1e4fb.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/c3cdcd87464366d4fb19ab7fa24a826a38e667bf.png",
 				"height": "48",
@@ -4352,6 +4514,12 @@
 		"channelType": 0,
 		"cmsId": "cnn-international",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f1647f0e611ec151d06dc31c27989f8f2ecad574.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/16a240e07ff7cb46810fd32733b4c75af957318f.png",
@@ -4716,6 +4884,12 @@
 		"cmsId": "KID00818-Insight",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/0a1195e3883c3ef5dc7a452bb6b29cf63cb6c433.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f0445a750ded4a530dc22e5ba33c1b57b9d18da0.png",
 				"height": "48",
@@ -4772,6 +4946,12 @@
 		"channelType": 0,
 		"cmsId": "13th-street",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/a8e6a82760b56428170e316932f38fabeb0814db.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/668cd4d06f6981b82841f40fad42bc350babb056.png",
@@ -4877,21 +5057,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1620",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4905,6 +5070,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1616",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1620",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "SONY AXN",
@@ -4916,6 +5096,12 @@
 		"channelType": 0,
 		"cmsId": "KID00759-FOX",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/718556718a3e4bdb04f2e39ca531bd83fbf75d88.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/c9a89e0d86462498f98275af01e0aefff143c7ec.png",
@@ -4949,21 +5135,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "7405",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -4977,6 +5148,21 @@
 				"videoDefinition": 1,
 				"zosaId": "7406",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "7405",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "FOX",
@@ -4988,6 +5174,12 @@
 		"channelType": 0,
 		"cmsId": "kabel-1-classics",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/7707c36da2c8135e3e9d90a733f08eb794f6d27b.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ddde6c3032756cfafec74330f95f01e0acb04054.png",
@@ -5021,21 +5213,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1722",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5049,6 +5226,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1720",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1722",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "kabel eins Classics",
@@ -5060,6 +5252,12 @@
 		"channelType": 0,
 		"cmsId": "kinowelt-tv",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ebdbf39814820b3b2fa697c7c5f18c2d2d42bfde.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8f80fdd4f8fe6853800aeec106062fc2ee1d5ab4.png",
@@ -5150,21 +5348,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2910",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5177,6 +5360,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2902",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2910",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5222,21 +5420,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2543",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5249,6 +5432,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2532",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2543",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5294,21 +5492,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1683",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5321,6 +5504,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1681",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1683",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5366,21 +5564,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2657",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5393,6 +5576,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2648",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2657",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5438,21 +5636,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2656",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5465,6 +5648,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2647",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2656",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -5582,21 +5780,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2671",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5610,6 +5793,21 @@
 				"videoDefinition": 1,
 				"zosaId": "2667",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2671",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Universal TV",
@@ -5621,6 +5819,12 @@
 		"channelType": 0,
 		"cmsId": "baby-tv",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/b4541398d4daef82bca028fb931fc9686ef3ba8b.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5ba6b3a95fbbbce05e3b62e45196771dbf2fe33e.png",
@@ -5679,6 +5883,12 @@
 		"cmsId": "boomerang",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/22b97e786ea3418439d704487dcb338f735c51ed.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/a3a2fd1ad65041c5fec95749167405df48193527.png",
 				"height": "48",
@@ -5711,21 +5921,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1651",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5739,6 +5934,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1648",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1651",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Boomerang",
@@ -5750,6 +5960,12 @@
 		"channelType": 0,
 		"cmsId": "cartoon-network",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/62db037b6484ffd2e0c2aa3642c19958eb292c80.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f73ed871486bd026ffc3ff4cf5e5ac2eeaf6f746.png",
@@ -5783,21 +5999,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1657",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -5811,6 +6012,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1655",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1657",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Cartoon Network",
@@ -5822,6 +6038,12 @@
 		"channelType": 0,
 		"cmsId": "disney-junior",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/2114900fe257b49ef0ad6d54558b5cc1b322babb.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/659b8d9c44072c5bd8d46cb4e8d9413e6d28f206.png",
@@ -5895,6 +6117,12 @@
 		"cmsId": "nick-jr.",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/fd4fdfd9465ebbc2a23b6e484de08f530d6415a2.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/cfa3bf59d761bb21a108955f7dd919d04ef20734.png",
 				"height": "48",
@@ -5952,6 +6180,12 @@
 		"cmsId": "bongusto",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/c1b8b637efa554081624dbcee2257dbe813a6ba0.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/65ebe25329d441714dc70fa737e90c68c2a6e129.png",
 				"height": "48",
@@ -5984,21 +6218,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1650",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6012,6 +6231,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1647",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1650",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "BonGusto",
@@ -6023,6 +6257,12 @@
 		"channelType": 0,
 		"cmsId": "e-entertainment",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/26673f6295fbb5fafc3d1559873c0a85422afd69.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/454556e23e412dfb2b0048d0c43355b212e86d8b.png",
@@ -6056,21 +6296,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1182",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6084,6 +6309,21 @@
 				"videoDefinition": 1,
 				"zosaId": "5452",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1182",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "E! Entertainment",
@@ -6095,6 +6335,12 @@
 		"channelType": 0,
 		"cmsId": "fashion-tv",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/b7f2df856b0ce610d4918b61aa5f25ee6cf6c61d.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/211dd5eb89af94c60688cb6fd5f73e080b3e6221.png",
@@ -6152,6 +6398,12 @@
 		"channelType": 0,
 		"cmsId": "KID00841-Heimatkanal",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bde2d6cf0a6444e7c5d69dda485e41a4c7c19d00.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/daabe8d88933d58ca50ef01e692058fe39759627.png",
@@ -6236,21 +6488,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2397",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6263,6 +6500,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2380",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2397",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6308,21 +6560,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2912",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6335,6 +6572,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2907",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2912",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6380,21 +6632,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2547",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6407,6 +6644,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2533",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2547",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6452,21 +6704,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2540",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6479,6 +6716,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2526",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2540",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6524,21 +6776,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2628",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6551,6 +6788,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2620",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2628",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -6659,21 +6911,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1608",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6687,6 +6924,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1607",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1608",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Animal Planet",
@@ -6698,6 +6950,12 @@
 		"channelType": 0,
 		"cmsId": "ae",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/dfd75d6307871c1d4f40d5741b92c3d411835dec.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/98c3430141aaf756c564aedafebb36d0258f34c1.png",
@@ -6771,6 +7029,12 @@
 		"cmsId": "discovery-channel",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ea845e7451e73ccd87dbea800822c4dccbd11345.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6e522d9ae4b2a9a8f686281f7d3adff2d8862ee3.png",
 				"height": "48",
@@ -6803,21 +7067,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1123",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6831,6 +7080,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1115",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1123",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Discovery",
@@ -6842,6 +7106,12 @@
 		"channelType": 0,
 		"cmsId": "geo",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/9dd569bb4c1de835f21d29ac6fa9202c4d692a2e.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/267643eb7bc861bb7e308a303f66e5301e848db7.png",
@@ -6875,21 +7145,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1700",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -6903,6 +7158,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1697",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1700",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "GEO",
@@ -6914,6 +7184,12 @@
 		"channelType": 0,
 		"cmsId": "history-channel",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/82bd5e5df445626dd24fd8d12892b6936bfaf6be.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/90a90534ebf9dccf44ce577b0ffb22f27e729787.png",
@@ -6987,6 +7263,12 @@
 		"cmsId": "national-geographic",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/300ee96526ee22e83abc8cd72778715c6d8be000.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/c9d4a2fb172069fc67d4170738cdbbc225f079f6.png",
 				"height": "48",
@@ -7019,21 +7301,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1220",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7047,6 +7314,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1215",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1220",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "National Geographic",
@@ -7058,6 +7340,12 @@
 		"channelType": 0,
 		"cmsId": "KID00760-NATGEOWILD",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/825ae85bec16d0c4c593df6419d05971fa13017b.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/deec95134d0baec0f4030cb9c96a1f7348419c30.png",
@@ -7091,21 +7379,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "7408",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7118,6 +7391,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "7409",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "7408",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7163,21 +7451,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1236",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7190,6 +7463,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1235",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1236",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7235,21 +7523,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "18402",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7262,6 +7535,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "18404",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "18402",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7307,21 +7595,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2631",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7335,6 +7608,21 @@
 				"videoDefinition": 1,
 				"zosaId": "2623",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2631",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Spiegel TV Wissen",
@@ -7346,6 +7634,12 @@
 		"channelType": 0,
 		"cmsId": "auto-motor-sport",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/eafee48faac5801ba1be0a006b07b1dedbe4cc8b.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8ffbb0a95849b6c7af04aeaea5c2e1680c6cb0ad.png",
@@ -7419,6 +7713,12 @@
 		"cmsId": "eurosport-2",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/2e93193d3564e9ceba2faf1a89427e489b5d981a.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/fbc41d77249de69bb35febcff1bb74dd87a3b031.png",
 				"height": "48",
@@ -7491,6 +7791,12 @@
 		"cmsId": "extreme-sports",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/26020335deb419e99fdcb9d85cafe1473ee1304a.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8a4a89301feb97cab4fb27fad7d48e6e73de9d9f.png",
 				"height": "48",
@@ -7547,6 +7853,12 @@
 		"channelType": 0,
 		"cmsId": "KID00795-MOTORVISIONTV",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/83a652d3768e31ddb78299ee4191f13aeab0b958.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5f8e264060be8ce5ce663198330f10d4b1245def.png",
@@ -7637,21 +7949,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1304",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7665,6 +7962,21 @@
 				"videoDefinition": 1,
 				"zosaId": "1301",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1304",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "SPORT1+",
@@ -7676,6 +7988,12 @@
 		"channelType": 0,
 		"cmsId": "sport1-us-sd",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/c295c992a70344eb7a9ba0b2058f91818902f434.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6e4cee1ab1da1d86af73c1bfb533f11fe7711c5b.png",
@@ -7709,21 +8027,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2633",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7736,6 +8039,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2626",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2633",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7806,6 +8124,12 @@
 		"cmsId": "blue-hustler",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/6f12c57f968312ffd7571a42ed181879fb033220.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f6660e8167e19658dc0831526d326b2b12a0d78b.png",
 				"height": "48",
@@ -7863,6 +8187,12 @@
 		"cmsId": "lust-pur",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/b7ebdc82026f8f0c8c630e31fb9de32df0cabf69.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/35264aa89ecba0a3ceb4b0f6f4e0eae0eefb9fcf.png",
 				"height": "48",
@@ -7895,21 +8225,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "1206",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7922,6 +8237,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "1199",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "1206",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -7967,21 +8297,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2513",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -7994,6 +8309,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2512",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2513",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -9842,6 +10172,12 @@
 		"cmsId": "euron-rus",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/17772f35586cde472a7a9a70f8efcd365efd7b10.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/92eae2291650194c14e193ae749a9ad77c61b4a8.png",
 				"height": "48",
@@ -9898,6 +10234,12 @@
 		"channelType": 0,
 		"cmsId": "nashe-kino",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/33cb6a595f8e2f571835f118aee7a01fa71fefc0.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/098c6714998abd943c85a2842032a879b2ccb87d.png",
@@ -10070,6 +10412,12 @@
 		"cmsId": "itvn",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/b84219e0fcb94575469a758d76f2b2fcea92683b.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/04ff546a173ccadcefa0964ef84b4a639a2cfd07.png",
 				"height": "48",
@@ -10184,6 +10532,12 @@
 		"cmsId": "KID00886-CEMTV",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f3e720cdaf2024ec2d2bebf096ff8bbb36a892e4.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/d54800b43e4504de48c2059dead931035e2e95d8.png",
 				"height": "48",
@@ -10240,6 +10594,12 @@
 		"channelType": 0,
 		"cmsId": "euro-d",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f60e277807a9560767b9ee90ae3f55535d522810.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/cc7af74240e70d176aa544f1bc5138a71da1a079.png",
@@ -10298,6 +10658,12 @@
 		"cmsId": "euro-star",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/828a562a5bdf2609a0533caf33470f3518745c55.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ac7d3b48dcb31fb67fc9da22cad4cf4675aef72f.png",
 				"height": "48",
@@ -10355,6 +10721,12 @@
 		"cmsId": "kanal-7",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/3ad609da92533d461d3e8b05375cdd4bca8554ba.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/d1f86c2f46f1070b4d2c8cbd1ffa1f61d2c62b2d.png",
 				"height": "48",
@@ -10411,6 +10783,12 @@
 		"channelType": 0,
 		"cmsId": "KID00876-beINiZ",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/4a19027d57fcafb5ae500b4b05d74e802215f76e.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/4d487aa6fb685df8fc9e27b38f64d9791735e6b1.png",
@@ -10484,6 +10862,12 @@
 		"cmsId": "moviemax-turk",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/71e8b3190d22d14ef2bb72fc9567cb093e3a7105.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7bc81823f85bb3a7f43dee1444fe4148c9397917.png",
 				"height": "48",
@@ -10555,6 +10939,12 @@
 		"channelType": 0,
 		"cmsId": "KID00885-HaberTrk",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/69e21d2bd5141f9c5036c6ef5ce6a213b299fd47.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e62395d34d225a483eef3d68535f47ac373dc403.png",
@@ -10856,6 +11246,12 @@
 		"cmsId": "euron-i",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/17772f35586cde472a7a9a70f8efcd365efd7b10.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/92eae2291650194c14e193ae749a9ad77c61b4a8.png",
 				"height": "48",
@@ -11084,6 +11480,12 @@
 		"cmsId": "KID00747-BadenTV",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f8e25f69d6dc9870af36dd1126f270c7ce667068.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6b344a2cb60a4ab0c6262c5c8242c830d904971b.png",
 				"height": "48",
@@ -11135,6 +11537,12 @@
 		"cmsId": "KID00862-BadenTVSd",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d9aa405e7e59c218e9cf573a1a4cceefaf42b186.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/35e2e1b57ba6a5f1ef6237c9a5e588e78b937284.png",
 				"height": "48",
@@ -11185,6 +11593,12 @@
 		"channelType": 0,
 		"cmsId": "KID00742-L-TV",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ff1f8f4a51d353bc81d3136a8e1d2e6a2321258f.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5d93b1337647d544546ec58ae65966c782da081f.png",
@@ -11453,6 +11867,12 @@
 		"cmsId": "br-nord",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f2183e8c0fab4256e688044e1f91b32e41e9c786.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/dbcae4e6fd058a2c6ca9ca2ec0a439d85ffe980b.png",
 				"height": "48",
@@ -11554,6 +11974,12 @@
 		"channelType": 0,
 		"cmsId": "franken-fernsehen",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/249a07230d9ffc3599121cc13015d8df893a405d.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/4da0e291ad477a84f868781751e89e3491c1f9b2.png",
@@ -11708,6 +12134,12 @@
 		"cmsId": "muenchen.tv",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/e40a00b13deb139237015d3e9baff4da2a5cc203.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/0c7f41025f6eb921088338aaca24116787652f0c.png",
 				"height": "48",
@@ -11860,6 +12292,12 @@
 		"channelType": 0,
 		"cmsId": "sat.1-bayern",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png",
@@ -12173,6 +12611,12 @@
 		"cmsId": "KID00856-PotsdamTV",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/5105fa2760d63d308dd1407e329c4cf33efec657.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/bec65fd64ffa6cdfa875ab54288d79ca6b1420c8.png",
 				"height": "48",
@@ -12377,6 +12821,12 @@
 		"cmsId": "sat.1-nds-bremen",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png",
 				"height": "48",
@@ -12427,6 +12877,12 @@
 		"channelType": 0,
 		"cmsId": "hamburg-1",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/5847318b1dc2e8988fd51e45b5abdcae3b16ff95.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/254cb8179b6bf0b87bf6e8907d184203dbca13b3.png",
@@ -12631,6 +13087,12 @@
 		"channelType": 0,
 		"cmsId": "sat.1-hh-sh",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png",
@@ -12887,6 +13349,12 @@
 		"cmsId": "KID00882-emsTV",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/61dc6abade29461f9ef6fd24e90e09d99f1fef3e.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/a1dbbdd33a2d5ac1dd165de2adc9b954a06e2bee.png",
 				"height": "48",
@@ -13096,6 +13564,12 @@
 		"channelType": 0,
 		"cmsId": "sat.1-nrw",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d36b5ed6e8b046be225671f62b42f6362c55ee22.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png",
@@ -14123,6 +14597,12 @@
 		"cmsId": "KID00845-ChemnitzFernsehen",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/29f93afa6409e144b1f37de8ab4a215e1a58b736.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5375f324b7ffcb882061a48771888ef0f6c74e73.png",
 				"height": "48",
@@ -14173,6 +14653,12 @@
 		"channelType": 0,
 		"cmsId": "KID00846-DresdenFernsehen",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/62ec2792973f301a74a17a9ee800ca1b7aadb6c2.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5498e02c677ec9cb9896e8cd55d0e6a63fa8910f.png",
@@ -14327,6 +14813,12 @@
 		"cmsId": "mdr-s-anhalt",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/82d99273263acb511044616ab1bdd128fcd942dd.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",
 				"height": "48",
@@ -14434,6 +14926,12 @@
 		"channelType": 0,
 		"cmsId": "mdr-thueringen",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/eeb066fa281db27368f1f4249c7d79e3acf68b7c.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",
@@ -14789,6 +15287,12 @@
 		"cmsId": "fox-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/718556718a3e4bdb04f2e39ca531bd83fbf75d88.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/c9a89e0d86462498f98275af01e0aefff143c7ec.png",
 				"height": "48",
@@ -15062,6 +15566,12 @@
 		"cmsId": "13th-street-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/a8e6a82760b56428170e316932f38fabeb0814db.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/668cd4d06f6981b82841f40fad42bc350babb056.png",
 				"height": "48",
@@ -15190,6 +15700,12 @@
 		"channelType": 0,
 		"cmsId": "e-hd-sky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/26673f6295fbb5fafc3d1559873c0a85422afd69.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/454556e23e412dfb2b0048d0c43355b212e86d8b.png",
@@ -15361,6 +15877,12 @@
 		"channelType": 0,
 		"cmsId": "discovery-sky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ea845e7451e73ccd87dbea800822c4dccbd11345.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6e522d9ae4b2a9a8f686281f7d3adff2d8862ee3.png",
@@ -15707,6 +16229,12 @@
 		"cmsId": "histhd-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/82bd5e5df445626dd24fd8d12892b6936bfaf6be.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/90a90534ebf9dccf44ce577b0ffb22f27e729787.png",
 				"height": "48",
@@ -15821,6 +16349,12 @@
 		"cmsId": "beateu-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/6b2cb297d048f60a2f22c8b42a74daaa2c7fd3e2.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/40e5d10666540db54a54bb2092a47faa39a52ec8.png",
 				"height": "48",
@@ -15892,6 +16426,12 @@
 		"channelType": 0,
 		"cmsId": "heimat-sky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bde2d6cf0a6444e7c5d69dda485e41a4c7c19d00.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/daabe8d88933d58ca50ef01e692058fe39759627.png",
@@ -16007,6 +16547,12 @@
 		"cmsId": "classica-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/74db5cb3bbc89f467d90b5037ded84385fba1e1c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/777dbaa3dd9b8a1c4ae8424f32efb8d8e6631d2f.png",
 				"height": "48",
@@ -16063,6 +16609,12 @@
 		"channelType": 0,
 		"cmsId": "jukebox-sky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/5b2bf4b5995f479d962a0e5154a7976d752b3ec4.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/9735a7ac5cfcf3c56acd644069751c8c5b72bbe8.png",
@@ -16121,6 +16673,12 @@
 		"cmsId": "KID00879-BoomerangSky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/22b97e786ea3418439d704487dcb338f735c51ed.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/a3a2fd1ad65041c5fec95749167405df48193527.png",
 				"height": "48",
@@ -16178,6 +16736,12 @@
 		"cmsId": "junior-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/5c3e22c1a7686ddea14c5d54b55ff26a7c52b1b2.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ff1c1502b0acd9dc106cf1caa65e4ee69032c8a2.png",
 				"height": "48",
@@ -16234,6 +16798,12 @@
 		"channelType": 0,
 		"cmsId": "KID00891-CartoonNetworkSky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/62db037b6484ffd2e0c2aa3642c19958eb292c80.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f73ed871486bd026ffc3ff4cf5e5ac2eeaf6f746.png",
@@ -16951,6 +17521,12 @@
 		"channelType": 0,
 		"cmsId": "KID00740-KinoweltTVSky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ebdbf39814820b3b2fa697c7c5f18c2d2d42bfde.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/8f80fdd4f8fe6853800aeec106062fc2ee1d5ab4.png",
@@ -19139,6 +19715,12 @@
 		"cmsId": "eurosport-hd-sky",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/78c2b996afeb3ce1579cf2b322ee15216020b0b6.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/18f200745e93b6c9848237acaaa008ea9f520f94.png",
 				"height": "48",
@@ -19195,6 +19777,12 @@
 		"channelType": 0,
 		"cmsId": "eurosport-2-hd-sky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/2e93193d3564e9ceba2faf1a89427e489b5d981a.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/fbc41d77249de69bb35febcff1bb74dd87a3b031.png",
@@ -19264,21 +19852,6 @@
 		"parentalRating": "-1",
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "5315",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -19291,6 +19864,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "4006",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "5315",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -19462,21 +20050,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2650",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -19489,6 +20062,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2643",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2650",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -19615,21 +20203,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "5408",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -19642,6 +20215,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "5407",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "5408",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -20172,13 +20760,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk20009.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk20009.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
