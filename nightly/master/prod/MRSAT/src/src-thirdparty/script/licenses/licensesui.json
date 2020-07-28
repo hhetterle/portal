@@ -43,7 +43,7 @@
   {
     "name": "moment",
     "license": "MIT",
-    "version": "2.27.0",
+    "version": "2.26.0",
     "modified": "no",
     "content": [
       "Copyright (c) JS Foundation and other contributors",
@@ -110,7 +110,7 @@
   {
     "name": "react-redux",
     "license": "MIT",
-    "version": "7.2.1",
+    "version": "7.2.0",
     "modified": "no",
     "content": [
       "The MIT License (MIT)",
@@ -164,7 +164,7 @@
   {
     "name": "rxjs",
     "license": "Apache-2.0",
-    "version": "6.6.0",
+    "version": "6.5.5",
     "modified": "no",
     "content": [
       "                               Apache License<br />                         Version 2.0, January 2004<br />                      http://www.apache.org/licenses/",
