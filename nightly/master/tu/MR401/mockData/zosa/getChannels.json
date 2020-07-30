@@ -2021,21 +2021,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3712",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -2048,6 +2033,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3696",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3712",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -3920,21 +3920,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "7216",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3947,6 +3932,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "16445",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "7216",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -11004,13 +11004,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/93eddf66d4f77afdbaceb01d16a7aab393f3b133.png",
+				"url": "http://programm-manager.telekom.de/media/cb5c60203e81ad94daf748b4e3fb2fcf61128378.png",
 				"height": "48",
-				"width": "98"
+				"width": "120"
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/7d9c4ea93196a0574b51e68c386c9c63bb35cc1d.jpeg",
+				"url": "http://programm-manager.telekom.de/media/eece51e7d023df59eaba2d666bd7e7ea93ede81d.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -11038,7 +11038,7 @@
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
+				"hasAlternativeStream": true,
 				"instantRestartAllowed": true,
 				"instantRestartSupported": true,
 				"livePlayAllowed": true,
@@ -11053,7 +11053,7 @@
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
+				"hasAlternativeStream": true,
 				"instantRestartAllowed": true,
 				"instantRestartSupported": true,
 				"livePlayAllowed": true,
@@ -11065,7 +11065,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "Power Türk TV",
+		"title": "ÜLKE TV",
 		"zosaId": "381:236",
 		"zosaType": "ChannelItem"
 	},
@@ -20760,13 +20760,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk20005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk20005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
