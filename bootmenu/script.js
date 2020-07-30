@@ -2,7 +2,7 @@
 const jsonConfigurationName = "entertainBootMenuConfig";
 const demoURL = "./sideload.json";
 let currentView = "maincontainer";
-let runningOnSTB = false;
+let runningOnSTB = true;
 function callAjax(demoURL, callback) {
     const xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange = () => {
@@ -145,7 +145,6 @@ function buildUrl() {
         try {
             url = environment[0].url;
             if (runningOnSTB) {
-                url = url.replace("https://cto-tvd.github.io/portal/nightly/master/tu/", "https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NIGHTLY/");
             }
             url = url + "?";
             showMessage("");

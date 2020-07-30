@@ -2,7 +2,7 @@ const jsonConfigurationName = "entertainBootMenuConfig";
 const demoURL = "./sideload.json";
 
 let currentView = "maincontainer";
-let runningOnSTB = false;
+let runningOnSTB = true;
 
 interface IConfiguration {
 
@@ -213,7 +213,7 @@ function buildUrl() {
 
             if (runningOnSTB) {
 
-                url = url.replace("https://cto-tvd.github.io/portal/nightly/master/tu/", "https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NIGHTLY/");
+                // url = url.replace("https://cto-tvd.github.io/portal/nightly/master/tu/", "https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NIGHTLY/");
             }
 
             url = url + "?";
