@@ -1,6 +1,8 @@
 const jsonConfigurationName = "entertainBootMenuConfig";
 const demoURL = "./sideload.json";
+
 let currentView = "maincontainer";
+let runningOnSTB = false;
 
 interface IConfiguration {
 
@@ -208,6 +210,12 @@ function buildUrl() {
 
         try {
             url = environment[0].url;
+
+            if (runningOnSTB) {
+
+                url = url.replace("https://cto-tvd.github.io/portal/nightly/master/tu/", "https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NIGHTLY/");
+            }
+
             url = url + "?";
             showMessage("");
         }
@@ -486,6 +494,11 @@ function setTmwVersion() {
 
     const elementTmw = document.getElementById("tmw");
     if (elementTmw) elementTmw.innerHTML = objSysInfo.SwProductVariant;
+
+    if (objSysInfo.SwProductVariant !== zacMockSystem.GetSystemInformation().SwProductVariant) {
+
+        runningOnSTB = true;
+    }
 }
 
 function startupPage() {
