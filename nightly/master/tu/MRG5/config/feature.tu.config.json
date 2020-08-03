@@ -96,6 +96,9 @@
                     "moreTvMagentaHaus": [
                         "full"
                     ],
+                    "moreTvUX20": [
+                        "none"
+                    ],
                     "avscontent": [
                         "full"
                     ],
@@ -227,6 +230,9 @@
                     ],
                     "moreTvMagentaHaus": [
                         "full"
+                    ],
+                    "moreTvUX20": [
+                        "none"
                     ],
                     "avscontent": [
                         "full"
