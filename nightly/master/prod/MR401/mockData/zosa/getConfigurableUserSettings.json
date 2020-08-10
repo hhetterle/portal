@@ -166,5 +166,59 @@
         "description": "Allow remote devices to connect",
         "isEditableByEndUser": true,
         "validationRegEx": "^(true|false)$"
+    },
+    {
+        "isEditableByEndUser": true,
+        "key": "permissionProductImprovementHistory",
+        "description": "permissionProductImprovementHistory",
+        "name": "permissionProductImprovementHistory",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+	{
+        "isEditableByEndUser": true,
+        "key": "permissionInfoTo3rdPartyHistory",
+        "description": "permissionInfoTo3rdPartyHistory",
+        "name": "permissionInfoTo3rdPartyHistory",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+	{
+        "isEditableByEndUser": true,
+        "key": "permissionPersonalizedUIHistory",
+        "description": "permissionPersonalizedUIHistory",
+        "name": "permissionPersonalizedUIHistory",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+	{
+        "isEditableByEndUser": true,
+        "key": "permissionPersAdvertisingHistory",
+        "description": "permissionPersAdvertisingHistory",
+        "name": "permissionPersAdvertisingHistory",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+	{
+        "isEditableByEndUser": true,
+        "key": "permissionInfoServiceHistory",
+        "description": "permissionInfoServiceHistory",
+        "name": "permissionInfoServiceHistory",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+	{
+        "isEditableByEndUser": true,
+        "key": "permissionInfoToBroadcastersHistory",
+        "description": "permissionInfoToBroadcastersHistory",
+        "name": "permissionInfoToBroadcastersHistory",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
     }
 ]

@@ -66,5 +66,29 @@
     {
         "key": "RemoteControlAllowed",
         "value": "false"
+    },
+    {
+        "key": "permissionProductImprovementHistory",
+		"value": ""
+    },
+	{
+        "key": "permissionInfoTo3rdPartyHistory",
+		"value": ""
+    },
+	{
+        "key": "permissionPersonalizedUIHistory",
+		"value": ""
+    },
+	{
+        "key": "permissionPersAdvertisingHistory",
+		"value": ""
+    },
+	{
+        "key": "permissionInfoServiceHistory",
+		"value": ""
+    },
+	{
+        "key": "permissionInfoToBroadcastersHistory",
+		"value": ""
     }
 ]
