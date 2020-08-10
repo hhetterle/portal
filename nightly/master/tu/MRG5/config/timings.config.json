@@ -43,5 +43,6 @@
   "timeshiftDelaySeconds": 5,
   "cleanupJobsPostponeMs": 10000,
   "bingeWatchMinSequence": 10000,
-  "bingeWatchAutoClose": 6000
+  "bingeWatchAutoClose": 7000,
+  "bingeWatchNextClose": 5000
 }
