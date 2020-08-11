@@ -106,7 +106,7 @@
                         "full"
                     ],
                     "netflixDet": [
-                        "full"
+                        "none"
                     ],
                     "netflixSearchDet": [
                         "none"
@@ -210,7 +210,7 @@
                         "full"
                     ],
                     "netflixDet": [
-                        "full"
+                        "none"
                     ],
                     "netflixSearchDet": [
                         "none"
@@ -311,7 +311,7 @@
                         "none"
                     ],
                     "netflixDet": [
-                        "full"
+                        "none"
                     ],
                     "netflixSearchDet": [
                         "none"
