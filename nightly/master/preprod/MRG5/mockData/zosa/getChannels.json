@@ -529,7 +529,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "kabel eins",
+		"title": "Kabel Eins",
 		"zosaId": "405:405",
 		"zosaType": "ChannelItem"
 	},
@@ -616,6 +616,12 @@
 		"channelType": 0,
 		"cmsId": "super-rtl",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d424d9dd46e4aadf15c9b290f9566022e1f751e3.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/c7f7ecfb042633c1ac2d37d7d3378fab77c8a419.png",
@@ -1917,6 +1923,12 @@
 		"cmsId": "sr",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/738d1dded8cbbc49fc60c4163d254e395b66e230.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/784cfb3e89c660ecf9f02bae301f40f875996af9.png",
 				"height": "48",
@@ -1983,6 +1995,12 @@
 		"cmsId": "swr-bw",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/495467ab9811c377ee0226fdce0878ed09930b7f.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/033802069c0c3086585d215e0592501669f15f1c.png",
 				"height": "48",
@@ -2048,6 +2066,12 @@
 		"channelType": 0,
 		"cmsId": "swr-rp",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/495467ab9811c377ee0226fdce0878ed09930b7f.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/033802069c0c3086585d215e0592501669f15f1c.png",
@@ -2264,6 +2288,12 @@
 		"channelType": 0,
 		"cmsId": "sport1",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/6461d1813040d490c6eaf8887286ba876e938a17.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/55428ca65d529b1cf67623cb017c53af5de49d89.png",
@@ -3186,6 +3216,12 @@
 		"cmsId": "sat.1-gold",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/50e21d837d6ca501ef59c832f139c269ea173bf5.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/c4df738dfcdc4307911328c1368b717428f234d8.png",
 				"height": "48",
@@ -4004,7 +4040,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "kabel eins Doku",
+		"title": "Kabel Eins Doku",
 		"zosaId": "48:573",
 		"zosaType": "ChannelItem"
 	},
@@ -4024,6 +4060,12 @@
 				"url": "http://programm-manager.telekom.de/media/bf4ce870d460dcdb3b1e573d58a14137a7d002ea.png",
 				"height": "48",
 				"width": "120"
+			},
+			{
+				"serviceProviderImageType": "99",
+				"url": "http://programm-manager.telekom.de/media/eece51e7d023df59eaba2d666bd7e7ea93ede81d.jpeg",
+				"height": "1080",
+				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -5187,6 +5229,12 @@
 		"cmsId": "axn",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/147fecdeee0c425d6a580dd43132d4f859bb23a4.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5e5027475bbdd81226fc98fafcb60ab8d4f8904a.png",
 				"height": "48",
@@ -5405,7 +5453,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "kabel eins Classics",
+		"title": "Kabel Eins CLASSICS",
 		"zosaId": "391:157",
 		"zosaType": "ChannelItem"
 	},
@@ -6613,6 +6661,12 @@
 				"url": "http://programm-manager.telekom.de/media/daabe8d88933d58ca50ef01e692058fe39759627.png",
 				"height": "48",
 				"width": "71"
+			},
+			{
+				"serviceProviderImageType": "99",
+				"url": "http://programm-manager.telekom.de/media/eece51e7d023df59eaba2d666bd7e7ea93ede81d.jpeg",
+				"height": "1080",
+				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -6971,6 +7025,12 @@
 		"channelType": 0,
 		"cmsId": "sony-tv",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/c185e6513c0e9370583854d681fa17b3b545a30c.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/2fef667c15b5e2afc1702a5e3b51388bbc402fca.png",
@@ -8169,6 +8229,12 @@
 		"cmsId": "sport1plus",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/af9a42b6042b440dcbe2d2b0eec4a8ddf5c271af.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/074034f464715db15c5859b60b36558cac35a5e3.png",
 				"height": "48",
@@ -8318,6 +8384,12 @@
 		"channelType": 0,
 		"cmsId": "sportdigital",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/36207a17b0a5760b3977dcf130e53ce30f09c594.png",
@@ -15279,6 +15351,12 @@
 				"url": "http://programm-manager.telekom.de/media/8755b09d6bda3c93b0f2d453cedd0a01372982d3.png",
 				"height": "48",
 				"width": "120"
+			},
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/cde7f7c42829fe07dc3fa09679f8efac35f4dd1d.png",
+				"height": "1080",
+				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -21492,13 +21570,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk20001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk20005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk20001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk20005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
