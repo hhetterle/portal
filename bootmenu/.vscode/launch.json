@@ -13,9 +13,6 @@
 				"--enable-precise-memory-info",
 				"--disable-web-security",
 				"--ignore-certificate-errors",
-				"--window-size=1600,900",
-				"--window-position=-6,0",
-				"--force-device-scale-factor=1",
 				"--mute-audio",
 				/*
 				 * workaround for error disable-web-security is not enough in Chrome v66 => might be fixed within v67

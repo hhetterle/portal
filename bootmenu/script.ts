@@ -495,10 +495,7 @@ function setTmwVersion() {
     const elementTmw = document.getElementById("tmw");
     if (elementTmw) elementTmw.innerHTML = objSysInfo.SwProductVariant;
 
-    if (objSysInfo.SwProductVariant !== zacMockSystem.GetSystemInformation().SwProductVariant) {
-
-        runningOnSTB = true;
-    }
+    runningOnSTB = objSysInfo.SwProductVariant !== zacMockSystem.GetSystemInformation().SwProductVariant;
 }
 
 function startupPage() {
