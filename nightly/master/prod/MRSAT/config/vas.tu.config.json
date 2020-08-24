@@ -20,7 +20,8 @@
         "ZDFMediathek": "ZDFMediathek",
         "TvNow": "tv-now",
         "SevenTV": "7TV",
-        "Arte7": "arte7"
+        "Arte7": "arte7",
+        "WebRadioApp": "app1"
     },
     "continueWatchingLaneAppBlackList": [
         "app10"
