@@ -18087,7 +18087,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/16497bce35a8a7e1b0b30cfa034d9dea2710e1b8.png",
+				"url": "http://programm-manager.telekom.de/media/572797147fee7e917ac44bb4875245aae3ea907c.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -18133,7 +18133,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "Sky Cinema DC Helden",
+		"title": "Sky Cinema Special",
 		"zosaId": "375:3844",
 		"zosaType": "ChannelItem"
 	},
@@ -21165,48 +21165,6 @@
 		"zosaType": "ChannelItem"
 	},
 	{
-		"channelNumber": 927,
-		"channelType": 0,
-		"cmsId": "demokanal",
-		"images": [
-			{
-				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/5907a60bfb29f7bd3d141b1dc36ab3c74d4b6e5b.png",
-				"height": "48",
-				"width": "120"
-			},
-			{
-				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/42d941885249cb287516e3417833f08ae7926cde.jpeg",
-				"height": "1080",
-				"width": "1920"
-			}
-		],
-		"isFavorited": true,
-		"isHidden": false,
-		"parentalRating": "-1",
-		"streams": [
-			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "1660",
-				"zosaType": "StreamItem"
-			}
-		],
-		"title": "Demokanal",
-		"zosaId": "4358:116",
-		"zosaType": "ChannelItem"
-	},
-	{
 		"channelNumber": 951,
 		"channelType": 0,
 		"cmsId": "zdf-ngtv-isims-a",
@@ -21254,7 +21212,7 @@
 			}
 		],
 		"title": "Testkanal I01",
-		"zosaId": "407:530",
+		"zosaId": "4358:530",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21305,7 +21263,7 @@
 			}
 		],
 		"title": "Testkanal I03",
-		"zosaId": "373:257",
+		"zosaId": "407:257",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21362,7 +21320,7 @@
 			}
 		],
 		"title": "Instore TV",
-		"zosaId": "408:131",
+		"zosaId": "373:131",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21414,7 +21372,7 @@
 			}
 		],
 		"title": "Megathek",
-		"zosaId": "404:812",
+		"zosaId": "408:812",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21466,7 +21424,7 @@
 			}
 		],
 		"title": "Netflix",
-		"zosaId": "381:613",
+		"zosaId": "404:613",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21524,7 +21482,7 @@
 			}
 		],
 		"title": "Prime Video",
-		"zosaId": "374:2921",
+		"zosaId": "381:2921",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21575,7 +21533,7 @@
 			}
 		],
 		"title": "Testkanal H01",
-		"zosaId": "385:443",
+		"zosaId": "374:443",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21585,13 +21543,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10002.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10002.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
@@ -21621,7 +21579,7 @@
 			}
 		],
 		"title": "Monitoring DSMS",
-		"zosaId": "405:612",
+		"zosaId": "385:612",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21657,7 +21615,7 @@
 			}
 		],
 		"title": "MagentaTV Info",
-		"zosaId": "382:115",
+		"zosaId": "405:115",
 		"zosaType": "ChannelItem"
 	}
 ]
