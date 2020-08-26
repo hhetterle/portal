@@ -1997,7 +1997,7 @@
 		"minViewingAge": 12,
 		"title": "7TV",
 		"parentalRating": 12,
-		"url": " http://7tv-ngtv-test.p7s1digital.de",
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_7TV",
 		"description": null,
 		"images": [
 			{
