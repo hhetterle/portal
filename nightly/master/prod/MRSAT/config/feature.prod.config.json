@@ -32,7 +32,7 @@
                 "type": "urlSource",
                 "query": "hostname",
                 "rule": {
-                    "expression": "github.io",
+                    "expression": "/EPG/NIGHTLY/",
                     "assignment": "nightly_prod"
                 }
             }
