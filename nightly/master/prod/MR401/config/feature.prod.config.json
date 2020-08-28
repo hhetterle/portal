@@ -30,7 +30,7 @@
             },
             {
                 "type": "urlSource",
-                "query": "hostname",
+                "query": "path",
                 "rule": {
                     "expression": "/EPG/NIGHTLY/",
                     "assignment": "nightly_prod"
