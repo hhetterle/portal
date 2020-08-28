@@ -34,7 +34,7 @@
                 "type": "urlSource",
                 "query": "path",
                 "rule": {
-                    "expression": "/EPG/NIGHTLY/",
+                    "expression": "\/EPG\/NIGHTLY\/",
                     "assignment": "nightly_prod"
                 }
             }
