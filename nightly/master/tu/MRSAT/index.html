@@ -7,12 +7,12 @@
 
     <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
 
-    <script src="src/src-thirdparty/script/@formatjs/intl-pluralrules/dist/umd/polyfill.js"></script>
-    <script src="src/src-thirdparty/script/@formatjs/intl-pluralrules/dist/locale-data/de.js"></script>
-    <script src="src/src-thirdparty/script/@formatjs/intl-pluralrules/dist/locale-data/en.js"></script>
-    <script src="src/src-thirdparty/script/@formatjs/intl-relativetimeformat/dist/umd/polyfill-intl-relativetimeformat.js"></script>
-    <script src="src/src-thirdparty/script/@formatjs/intl-relativetimeformat/dist/locale-data/de.js"></script>
-    <script src="src/src-thirdparty/script/@formatjs/intl-relativetimeformat/dist/locale-data/en.js"></script>
+    <script src="src/src-thirdparty/script/@formatjs/intl-pluralrules/polyfill.umd.min.js"></script>
+    <script src="src/src-thirdparty/script/@formatjs/intl-pluralrules/locale-data/de.js"></script>
+    <script src="src/src-thirdparty/script/@formatjs/intl-pluralrules/locale-data/en.js"></script>
+    <script src="src/src-thirdparty/script/@formatjs/intl-relativetimeformat/polyfill.umd.min.js"></script>
+    <script src="src/src-thirdparty/script/@formatjs/intl-relativetimeformat/locale-data/de.js"></script>
+    <script src="src/src-thirdparty/script/@formatjs/intl-relativetimeformat/locale-data/en.js"></script>
     <script src="src/src-thirdparty/script/requirejs/require.js"></script>
 
     <script>
@@ -81,7 +81,7 @@
                 "mqtt": requireLibsRoot + (devEnv ? "mqtt/mqtt" : "mqtt/mqtt.min"),
                 "react": requireLibsRoot + (devEnv ? "react/umd/react.development" : "react/umd/react.production.min"),
                 "react-dom": requireLibsRoot + (devEnv ? "react-dom/umd/react-dom.development" : "react-dom/umd/react-dom.production.min"),
-                "react-intl": requireLibsRoot + (devEnv ? "react-intl/dist/react-intl" : "react-intl/dist/react-intl.min"),
+                "react-intl": requireLibsRoot + (devEnv ? "react-intl/react-intl.umd" : "react-intl/react-intl.umd.min"),
                 "react-redux": requireLibsRoot + (devEnv ? "react-redux/dist/react-redux" : "react-redux/dist/react-redux.min"),
                 "react-transition-group": requireLibsRoot + (devEnv ? "react-transition-group/dist/react-transition-group" : "react-transition-group/dist/react-transition-group.min"),
                 "redux": requireLibsRoot + (devEnv ? "redux/dist/redux" : "redux/dist/redux.min"),
