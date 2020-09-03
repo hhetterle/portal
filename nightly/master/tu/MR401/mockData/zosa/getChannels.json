@@ -37,21 +37,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3482",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -64,6 +49,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3479",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3482",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -109,21 +109,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3734",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -136,6 +121,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3733",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3734",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -10873,6 +10873,21 @@
 		},
 		"streams": [
 			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "18949",
+				"zosaType": "StreamItem"
+			},
+			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -21543,13 +21558,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk20002.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk20002.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},

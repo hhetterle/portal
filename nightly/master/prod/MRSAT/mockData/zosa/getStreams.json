@@ -30,6 +30,34 @@
 	{
 		"channelStreams": {
 			"uhd": {
+				"id": "e7c4aa6f",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/05/180507_2015_sendung_fdw/6/180507_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 3
+			},
+			"hd": {
+				"id": "8f87a3a8",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/05/180507_2015_sendung_fdw/6/180507_2015_sendung_fdw_a1a2_808k_p11v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 2
+			},
+			"sd": {
+				"id": "5e7caa26",
+				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/05/180507_2015_sendung_fdw/6/180507_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+				"video3dFormat": 0,
+				"videoDefinition": 1
+			}
+		},
+		"pipStream": {
+			"id": "5e7caa26",
+			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/05/180507_2015_sendung_fdw/6/180507_2015_sendung_fdw_a1a2_508k_p9v15.mp4",
+			"video3dFormat": 0,
+			"videoDefinition": 1
+		}
+	},
+	{
+		"channelStreams": {
+			"uhd": {
 				"id": "c2a52b8c",
 				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/08/200811_2015_sendung_fdw/3/200811_2015_sendung_fdw_a1a2_1628k_p13v15.mp4",
 				"video3dFormat": 0,
@@ -135,34 +163,6 @@
 		"pipStream": {
 			"id": "4c776ec9",
 			"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/20/07/200723_2315_sendung_neu_dks/4/200723_2315_sendung_neu_dks_a1a2_508k_p9v15.mp4",
-			"video3dFormat": 0,
-			"videoDefinition": 1
-		}
-	},
-	{
-		"channelStreams": {
-			"uhd": {
-				"id": "74ca9d0c",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/08/200806_2315_sendung_fis/3/200806_2315_sendung_fis_a1a2_1628k_p13v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 3
-			},
-			"hd": {
-				"id": "d5170e0b",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/08/200806_2315_sendung_fis/3/200806_2315_sendung_fis_a1a2_808k_p11v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 2
-			},
-			"sd": {
-				"id": "abab0f65",
-				"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/08/200806_2315_sendung_fis/3/200806_2315_sendung_fis_a1a2_508k_p9v15.mp4",
-				"video3dFormat": 0,
-				"videoDefinition": 1
-			}
-		},
-		"pipStream": {
-			"id": "abab0f65",
-			"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/20/08/200806_2315_sendung_fis/3/200806_2315_sendung_fis_a1a2_508k_p9v15.mp4",
 			"video3dFormat": 0,
 			"videoDefinition": 1
 		}
