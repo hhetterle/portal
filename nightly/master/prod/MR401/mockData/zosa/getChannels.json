@@ -16894,21 +16894,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "2629",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -16921,6 +16906,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "2622",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "2629",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -20371,21 +20371,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "16920",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -20398,6 +20383,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "16924",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "16920",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -21339,6 +21339,58 @@
 		"zosaType": "ChannelItem"
 	},
 	{
+		"channelNumber": 975,
+		"channelType": 2,
+		"cmsId": "APP00281-DAZN",
+		"images": [
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://programm-manager.telekom.de/media/b236118bf424462431b9f0b218bf1b1827aa3cc9.jpeg",
+				"height": "720",
+				"width": "1280"
+			},
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://programm-manager.telekom.de/media/8266bdb6209d47d37e37f1459dbcf07d6818836a.jpeg",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://programm-manager.telekom.de/media/f73b8f47835cf53b22ef3f342f7775b45f257536.png",
+				"height": "264",
+				"width": "264"
+			},
+			{
+				"serviceProviderImageType": "21",
+				"url": "http://programm-manager.telekom.de/media/a02de99cc8109d6dbc28c4e34818cfa3a2bc0a3d.png",
+				"height": "48",
+				"width": "120"
+			}
+		],
+		"isFavorited": true,
+		"isHidden": false,
+		"parentalRating": "0",
+		"streams": [
+			{
+				"clientPvrAllowed": false,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": false,
+				"instantRestartSupported": false,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": null,
+				"zosaType": "StreamItem"
+			}
+		],
+		"title": "DAZN",
+		"zosaId": "408:4584",
+		"zosaType": "ChannelItem"
+	},
+	{
 		"channelNumber": 981,
 		"channelType": 2,
 		"cmsId": "APP00235-EntertainTVSerien-FC",
@@ -21387,7 +21439,7 @@
 			}
 		],
 		"title": "Megathek",
-		"zosaId": "408:812",
+		"zosaId": "404:812",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21439,7 +21491,7 @@
 			}
 		],
 		"title": "Netflix",
-		"zosaId": "404:613",
+		"zosaId": "381:613",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21497,7 +21549,7 @@
 			}
 		],
 		"title": "Prime Video",
-		"zosaId": "381:2921",
+		"zosaId": "374:2921",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21548,7 +21600,7 @@
 			}
 		],
 		"title": "Testkanal H01",
-		"zosaId": "374:443",
+		"zosaId": "385:443",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21558,13 +21610,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk20003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk20003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
@@ -21594,7 +21646,7 @@
 			}
 		],
 		"title": "Monitoring DSMS",
-		"zosaId": "385:612",
+		"zosaId": "405:612",
 		"zosaType": "ChannelItem"
 	},
 	{
@@ -21630,7 +21682,7 @@
 			}
 		],
 		"title": "MagentaTV Info",
-		"zosaId": "405:115",
+		"zosaId": "382:115",
 		"zosaType": "ChannelItem"
 	}
 ]
