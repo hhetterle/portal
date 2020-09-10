@@ -32,6 +32,22 @@
             },
             {
                 "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "GUESTIPTV_DT",
+                    "assignment": "guest"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "IPTV_COAX",
+                    "assignment": "coax"
+                }
+            },
+            {
+                "type": "urlSource",
                 "query": "path",
                 "rule": {
                     "expression": "\/EPG\/NIGHTLY\/",
@@ -63,7 +79,7 @@
                     "moreTvDebugNotification": ["none"],
                     "moreTvShowQrCodes" : ["none"],
                     "moreTvMagentaHaus" : ["none"],
-                    "moreTvUX20" : ["none"],
+                    "moreTvUX20" : ["full"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
@@ -115,6 +131,16 @@
                             "demoarea": [
                                 "full"
                             ]
+                        }
+                    },
+                    "guest": {
+                        "rights": {
+                            "userLogin": ["full"]
+                        }
+                    },
+                    "coax": {
+                        "rights": {
+                            "userLogout": ["full"]
                         }
                     }
                 }
@@ -197,6 +223,7 @@
                     "moreTvDebugNotification": ["none"],
                     "moreTvShowQrCodes" : ["none"],
                     "moreTvMagentaHaus" : ["none"],
+                    "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],

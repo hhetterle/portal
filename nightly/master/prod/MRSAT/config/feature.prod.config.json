@@ -30,6 +30,22 @@
             },
             {
                 "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "GUESTIPTV_DT",
+                    "assignment": "guest"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "IPTV_COAX",
+                    "assignment": "coax"
+                }
+            },
+            {
+                "type": "urlSource",
                 "query": "path",
                 "rule": {
                     "expression": "/EPG/NIGHTLY/",
@@ -81,7 +97,7 @@
                         "none"
                     ],
                     "moreTvUX20": [
-                        "none"
+                        "full"
                     ],
                     "avscontent": [
                         "full"
@@ -176,6 +192,20 @@
                     "nightly_prod": {
                         "rights": {
                             "demoarea": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "guest": {
+                        "rights": {
+                            "userLogin": [
+                                "full"
+                            ]
+                        }
+                    },
+                    "coax": {
+                        "rights": {
+                            "userLogout": [
                                 "full"
                             ]
                         }
@@ -322,6 +352,9 @@
                         "none"
                     ],
                     "moreTvMagentaHaus": [
+                        "none"
+                    ],
+                    "moreTvUX20": [
                         "none"
                     ],
                     "avscontent": [

@@ -32,6 +32,22 @@
             },
             {
                 "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "GUESTIPTV_DT",
+                    "assignment": "guest"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "IPTV_COAX",
+                    "assignment": "coax"
+                }
+            },
+            {
+                "type": "urlSource",
                 "query": "path",
                 "rule": {
                     "expression": "\/EPG\/NIGHTLY\/",
@@ -60,6 +76,7 @@
                     "usb": ["none"],
                     "bluetooth": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
+                    "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
@@ -110,6 +127,16 @@
                                 "full"
                             ]
                         }
+                    },
+                    "guest": {
+                        "rights": {
+                            "userLogin": ["full"]
+                        }
+                    },
+                    "coax": {
+                        "rights": {
+                            "userLogout": ["full"]
+                        }
                     }
                 }
             },
@@ -122,6 +149,7 @@
                     "usb": ["none"],
                     "bluetooth": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
+                    "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["full"],
@@ -181,6 +209,7 @@
                     "app": ["full"],
                     "usb": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
+                    "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
