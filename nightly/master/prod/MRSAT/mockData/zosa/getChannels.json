@@ -187,21 +187,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3679",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -214,6 +199,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3682",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3679",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -265,21 +265,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3683",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -292,6 +277,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3686",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3683",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -421,21 +421,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": true,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3634",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": true,
@@ -448,6 +433,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3647",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": true,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3634",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -2374,7 +2374,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/7596301282ecc50fe4f39bc92913fa8750e5e530.png",
+				"url": "http://programm-manager.telekom.de/media/73b37ddf8cadce6a5c4a1ebdf70a526c2ae93719.png",
 				"height": "48",
 				"width": "120"
 			}
@@ -3026,21 +3026,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "3645",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3053,6 +3038,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "3659",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "3645",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -9679,6 +9679,12 @@
 		"cmsId": "KID00819-SkySportKompakt1",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/50dd32f0f42a79c4b5379b499412f381564764e3.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/0f664836d7993cdfdf274553555e7a4623630bd8.png",
 				"height": "48",
@@ -9735,6 +9741,12 @@
 		"channelType": 0,
 		"cmsId": "KID00820-SkySportKompakt2",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/529602bb0154fdd0e5d4d85d8e775c6840f5b30c.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6fcfde8547d28ba5583ef7b3127b92656dbe983a.png",
@@ -9793,6 +9805,12 @@
 		"cmsId": "KID00821-SkySportKompakt3",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/b4838fd404f3841e13a61572636d2b35275f09ae.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/68b8ecc465c483584b752c6908c2836000f059a3.png",
 				"height": "48",
@@ -9850,6 +9868,12 @@
 		"cmsId": "KID00822-SkySportKompakt4",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/1a57f187e215c2cbdb889ca161019a6b83ef197f.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5ec4043866dd3c40a1bf5d816d5c45034d8bb125.png",
 				"height": "48",
@@ -9906,6 +9930,12 @@
 		"channelType": 0,
 		"cmsId": "KID00823-SkySportKompakt5",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/e3ab8aeeec5898a35c39ae44b4febeb90e1d4245.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e4a4b87531789af9df3cc9c283a6a0451ca79169.png",
@@ -13457,6 +13487,12 @@
 		"cmsId": "ndr-hamburg",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e51cf4bf577954c861c57396359f56fb3f5e7805.png",
 				"height": "48",
@@ -13507,6 +13543,12 @@
 		"channelType": 0,
 		"cmsId": "ndr-schleswig-holste",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e51cf4bf577954c861c57396359f56fb3f5e7805.png",
@@ -13843,6 +13885,12 @@
 		"channelType": 0,
 		"cmsId": "ndr-meckl.-vorpommer",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f96f503dad4f3249a2cce3bc0c02d6c02e4bd6e7.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e51cf4bf577954c861c57396359f56fb3f5e7805.png",
@@ -16894,21 +16942,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "2622",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -16921,6 +16954,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 2,
 				"zosaId": "2629",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "2622",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -18425,6 +18473,12 @@
 		"cmsId": "skybuli-01",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/315f4e1d7ae0ed6a576cc85574c6e195f2820925.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/9bced85015be0cee680b7ffba0a65793415c12f7.png",
 				"height": "48",
@@ -18496,6 +18550,12 @@
 		"channelType": 0,
 		"cmsId": "skybuli-02",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/54fdfb49171a1da7210ccf22d8f8af24934365e1.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/1ee94a854f7ded86a2fcbe3d83426e4817648b0e.png",
@@ -18569,6 +18629,12 @@
 		"cmsId": "skybuli-03",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/b7604a3db1310d4a4fb83fffb15debe55d41dbf7.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/b46145755977bd6bbdeb3d9c7100ea9130a737e5.png",
 				"height": "48",
@@ -18640,6 +18706,12 @@
 		"channelType": 0,
 		"cmsId": "skybuli-04",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ab1f8d87c8f74b510387c81c0a89aa004006ee60.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/f4ab299fb4e4bfb0b4ca6bcc609affd29ccfb1cd.png",
@@ -18713,6 +18785,12 @@
 		"cmsId": "skybuli-05",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/9fbf9f911b60bb7c0bbfceaf6b0506cadf63cc02.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7bc54bc2338190e7ea5224a4d09ed0e89b448c89.png",
 				"height": "48",
@@ -18784,6 +18862,12 @@
 		"channelType": 0,
 		"cmsId": "skybuli-06",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/1f8dc21b9fce64499d61956f407ab5a72cb78ed0.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/d7801b6e63543036b48aed4899911b2bf9faa582.png",
@@ -18857,6 +18941,12 @@
 		"cmsId": "skybuli-07",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ec53727b223a2c6b129c78e2b06c7f45cce4659a.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/78e7e7184fa270c83b2fb28cc22530faf62bbd83.png",
 				"height": "48",
@@ -18928,6 +19018,12 @@
 		"channelType": 0,
 		"cmsId": "skybuli-08",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d997f9be46160f7c3db14cbdc3cf2b48fc6eb274.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/3abebf25641a5a877e910b68f8152077e960b1d5.png",
@@ -19001,6 +19097,12 @@
 		"cmsId": "skybuli-09",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/e48399d331a672785f16f1011054a01cd52413df.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/bb84d237595aff1e97d4e8a7f240e7a6d8952de8.png",
 				"height": "48",
@@ -19072,6 +19174,12 @@
 		"channelType": 0,
 		"cmsId": "skybuli-10",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/d00d089e311ba581066027cff70935778efaf201.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/fdc57be195884eb90c31b1a5cc3eae624253c0b7.png",
@@ -19145,6 +19253,12 @@
 		"cmsId": "KID00814-SkySportBundesligaUHD",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/9ff38653e2f826d5655b3db51f7003efd08845a8.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/ff6375d839677ae8aee74da1f3f01656bdd5bd60.png",
 				"height": "48",
@@ -19202,6 +19316,12 @@
 		"cmsId": "KID00815-SkySportUHD",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/ce75b066c241f6f0499f8a84e492c5f9ac52b935.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/fbfa92e9c2e7aede930451f10a60531b9567fe69.png",
 				"height": "48",
@@ -19258,6 +19378,12 @@
 		"channelType": 0,
 		"cmsId": "skysport-01",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/885d4414701f7c9170094e1ae2631ba9718d2a8c.png",
@@ -19331,6 +19457,12 @@
 		"cmsId": "skysport-02",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/c330c871a2f15660efbf06c917fc6af8606874c7.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/2b9ce39abb588f958a49e642438a7c4aeed098a1.png",
 				"height": "48",
@@ -19402,6 +19534,12 @@
 		"channelType": 0,
 		"cmsId": "skysport-03",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/f3093734389bd620327880348d7974ba38d4c4d3.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5548a5c9e48f9898b708118f32326ba931621fea.png",
@@ -19475,6 +19613,12 @@
 		"cmsId": "skysport-04",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/c6a8dbde2b6d4afa5961586d6317f0cc86ddc6e9.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/6849c0cb0b1ea7cee8c9da98c76ec8fcd7927b91.png",
 				"height": "48",
@@ -19546,6 +19690,12 @@
 		"channelType": 0,
 		"cmsId": "skysport-05",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/cda082d3267802e1bd0721e6a64850b2920ac427.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e718eb5040de287d3f19700da9c6b76343f4a220.png",
@@ -19619,6 +19769,12 @@
 		"cmsId": "skysport-06",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/acc2e098dc86b8c85a1bbfa5f6311b5978603e1c.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/5f5c948789493e564d9d5f95823ba8d7b7815b25.png",
 				"height": "48",
@@ -19690,6 +19846,12 @@
 		"channelType": 0,
 		"cmsId": "skysport-07",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/3957d066cf0f424aabd67e0d677737ff0c2b524c.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/7e30f23eaa7e8b934e1212bbca45ac985f00db7d.png",
@@ -19763,6 +19925,12 @@
 		"cmsId": "skysport-08",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/27bc8c5ac71da92955eb4952145b305d6d1813d5.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/be26b8fa92f78e700dd0658449069e5423111c0c.png",
 				"height": "48",
@@ -19834,6 +20002,12 @@
 		"channelType": 0,
 		"cmsId": "skysport-09",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/2b19683849d2f29ba98a944a4489a09625603b14.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/e7fa68aa56ac79b0e4be7258f96b7761733fb6e3.png",
@@ -19907,6 +20081,12 @@
 		"cmsId": "skysport-10",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/25751836767f9282d88d99e61c38a1529b0616d3.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/4a68bee10efc3f80587f84860ee3be117c986b9e.png",
 				"height": "48",
@@ -19978,6 +20158,12 @@
 		"channelType": 0,
 		"cmsId": "skysport-11",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/93c0f38bf5168bd6ef7bb9514c08efc12c2648c5.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/4d54ba86bbd57a1fbd5ea3b0a36f4378fc9866c4.png",
@@ -20051,6 +20237,12 @@
 		"cmsId": "KID00864-SkySport12",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/9f201272d0036503d5871101eee560795c57b145.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/fe35a88cfc72571e04465621e92be7e642732fcb.png",
 				"height": "48",
@@ -20122,6 +20314,12 @@
 		"channelType": 0,
 		"cmsId": "KID00865-SkySport13",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/93607d0989f65c3f464918ff09b7ae314db3bd89.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/2b4d60d286a274869253e0aa0d56997da19c1c5b.png",
@@ -20195,6 +20393,12 @@
 		"cmsId": "KID00866-SkySport14",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/40e9305537960ac3924637e359720f6bccb16824.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/cc6d57e9375fc3b42a0b112b50c5e81a8e3f60da.png",
 				"height": "48",
@@ -20266,6 +20470,12 @@
 		"channelType": 0,
 		"cmsId": "sportaut-sky",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/0b0816ea455595eeaf0eb3567493cd4eca808227.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/55f750ce5e9a976737efe9f6974aea0b67573dd3.png",
@@ -20339,6 +20549,12 @@
 		"cmsId": "KID00867-SkySportAustria2",
 		"images": [
 			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/2f4200c80f641f132710f008270f8c47332d0e0a.png",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/af873d281bbd004eac7dbc9842a0af6d49014dee.png",
 				"height": "48",
@@ -20371,21 +20587,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "4000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": false,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 1,
-				"zosaId": "16924",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "9000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -20399,6 +20600,21 @@
 				"videoDefinition": 2,
 				"zosaId": "16920",
 				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "4000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": false,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 1,
+				"zosaId": "16924",
+				"zosaType": "StreamItem"
 			}
 		],
 		"title": "Sky Sport Austria 2",
@@ -20410,6 +20626,12 @@
 		"channelType": 0,
 		"cmsId": "KID00868-SkySportAustria3",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/3390c323783d33317814dbc58635fbdcea739163.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/b85898e025b90bb843d03e4491e9592ae5ee21d9.png",
@@ -20482,6 +20704,12 @@
 		"channelType": 0,
 		"cmsId": "KID00869-SkySportAustria4",
 		"images": [
+			{
+				"serviceProviderImageType": "14",
+				"url": "http://programm-manager.telekom.de/media/903db2decde2ca2e830420d64fa6432b93109ccd.png",
+				"height": "1080",
+				"width": "1920"
+			},
 			{
 				"serviceProviderImageType": "15",
 				"url": "http://programm-manager.telekom.de/media/28278469439a16f3d19401fb72910dd2f961611b.png",
@@ -21344,6 +21572,18 @@
 		"cmsId": "APP00281-DAZN",
 		"images": [
 			{
+				"serviceProviderImageType": "4",
+				"url": "http://programm-manager.telekom.de/media/f73b8f47835cf53b22ef3f342f7775b45f257536.png",
+				"height": "264",
+				"width": "264"
+			},
+			{
+				"serviceProviderImageType": "21",
+				"url": "http://programm-manager.telekom.de/media/30180e310e232e59521da44bbff5f823e4061371.png",
+				"height": "48",
+				"width": "42"
+			},
+			{
 				"serviceProviderImageType": "7",
 				"url": "http://programm-manager.telekom.de/media/b236118bf424462431b9f0b218bf1b1827aa3cc9.jpeg",
 				"height": "720",
@@ -21354,18 +21594,6 @@
 				"url": "http://programm-manager.telekom.de/media/8266bdb6209d47d37e37f1459dbcf07d6818836a.jpeg",
 				"height": "1080",
 				"width": "1920"
-			},
-			{
-				"serviceProviderImageType": "4",
-				"url": "http://programm-manager.telekom.de/media/f73b8f47835cf53b22ef3f342f7775b45f257536.png",
-				"height": "264",
-				"width": "264"
-			},
-			{
-				"serviceProviderImageType": "21",
-				"url": "http://programm-manager.telekom.de/media/a02de99cc8109d6dbc28c4e34818cfa3a2bc0a3d.png",
-				"height": "48",
-				"width": "120"
 			}
 		],
 		"isFavorited": true,
@@ -21610,13 +21838,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk20003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk20003.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
