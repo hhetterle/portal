@@ -7,5 +7,5 @@
   "TeleGroteskHeadlineUltra0": "fileblob(src/src-de-telekom-style/font/TeleGroteskHeadline-Ultra_0.ttf)",
   // definitions for images
   "spritemap": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/sprite.png'; })",
-  "defaultBackground": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/background-image.png'; })"
+  "defaultBackground": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/background-default.jpg'; })"
 }
