@@ -3026,21 +3026,6 @@
 		},
 		"streams": [
 			{
-				"bitrate": "9000",
-				"clientPvrAllowed": true,
-				"clientPvrSupported": false,
-				"hasAlternativeStream": true,
-				"instantRestartAllowed": true,
-				"instantRestartSupported": true,
-				"livePlayAllowed": true,
-				"livePlaySupported": true,
-				"transmissionType": 12,
-				"video3dFormat": 0,
-				"videoDefinition": 2,
-				"zosaId": "3659",
-				"zosaType": "StreamItem"
-			},
-			{
 				"bitrate": "4000",
 				"clientPvrAllowed": true,
 				"clientPvrSupported": false,
@@ -3053,6 +3038,21 @@
 				"video3dFormat": 0,
 				"videoDefinition": 1,
 				"zosaId": "3645",
+				"zosaType": "StreamItem"
+			},
+			{
+				"bitrate": "9000",
+				"clientPvrAllowed": true,
+				"clientPvrSupported": false,
+				"hasAlternativeStream": true,
+				"instantRestartAllowed": true,
+				"instantRestartSupported": true,
+				"livePlayAllowed": true,
+				"livePlaySupported": true,
+				"transmissionType": 12,
+				"video3dFormat": 0,
+				"videoDefinition": 2,
+				"zosaId": "3659",
 				"zosaType": "StreamItem"
 			}
 		],
@@ -21728,12 +21728,6 @@
 		"cmsId": "APP00244-PrimeVideoFC",
 		"images": [
 			{
-				"serviceProviderImageType": "21",
-				"url": "http://programm-manager.telekom.de/media/521110200e470fa236d45f707ce9ccc7c299af4d.png",
-				"height": "48",
-				"width": "120"
-			},
-			{
 				"serviceProviderImageType": "0",
 				"url": "http://programm-manager.telekom.de/media/7f0eda6445f47863afece90d15347579b9e3b94c.jpeg",
 				"height": "92",
@@ -21741,7 +21735,7 @@
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://programm-manager.telekom.de/media/aed9adde3b51ee07a9604a39f8d3ae116fc89394.jpeg",
+				"url": "http://programm-manager.telekom.de/media/b783516fcab9b3914f5484274e82f46b5e41cea1.jpeg",
 				"height": "1080",
 				"width": "1920"
 			},
@@ -21753,6 +21747,12 @@
 			},
 			{
 				"serviceProviderImageType": "4",
+				"url": "http://programm-manager.telekom.de/media/521110200e470fa236d45f707ce9ccc7c299af4d.png",
+				"height": "48",
+				"width": "120"
+			},
+			{
+				"serviceProviderImageType": "21",
 				"url": "http://programm-manager.telekom.de/media/521110200e470fa236d45f707ce9ccc7c299af4d.png",
 				"height": "48",
 				"width": "120"
@@ -21838,13 +21838,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk20008.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk20008.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10005.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
