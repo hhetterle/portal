@@ -8,5 +8,5 @@
   
   // definitions for images
   "spritemap": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/sprite.png'; })",
-  "defaultBackground": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/background-default.png'; })"
+  "defaultBackground": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/background-image.png'; })"
 }
