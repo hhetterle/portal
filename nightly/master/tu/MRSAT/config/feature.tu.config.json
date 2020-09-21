@@ -297,6 +297,9 @@
                     ],
                     "voiceKeySupport": [
                         "none"
+                    ],
+                    "remoteMessageGroupSearch": [
+                        "none"
                     ]
                 },
                 "values": {
@@ -415,6 +418,9 @@
                     ],
                     "voiceKeySupport": [
                         "full"
+                    ],
+                    "remoteMessageGroupSearch": [
+                        "none"
                     ]
                 },
                 "values": {
