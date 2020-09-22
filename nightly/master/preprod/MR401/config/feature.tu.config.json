@@ -79,7 +79,7 @@
                     "moreTvDebugNotification": ["full"],
                     "moreTvShowQrCodes" : ["none"],
                     "moreTvMagentaHaus" : ["full"],
-                    "moreTvUX20" : ["full"],
+                    "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
                     "startuppage": ["none"],
                     "satellite": ["none"],
