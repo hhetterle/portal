@@ -5,6 +5,7 @@
   //"TeleGroteskHal": "fileblob(src/src-de-telekom-style/font/TeleGroteskHal.ttf)",
   //"TeleGroteskHeadlineRegular0": "fileblob(src/src-de-telekom-style/font/TeleGroteskHeadline-Regular_0.ttf)",
   //"TeleGroteskHeadlineUltra0": "fileblob(src/src-de-telekom-style/font/TeleGroteskHeadline-Ultra_0.ttf)",
+  
   "TeleNeoRegular": "fileblob(src/src-de-telekom-style/font/TeleNeoWeb-Regular.woff)",
   "TeleNeoMedium": "fileblob(src/src-de-telekom-style/font/TeleNeoWeb-Medium.woff)",
   "TeleNeoBold": "fileblob(src/src-de-telekom-style/font/TeleNeoWeb-Bold.woff)",
