@@ -118,9 +118,6 @@
                     "searchNetflix": [
                         "full"
                     ],
-                    "groupedSearch": [
-                        "full"
-                    ],
                     "pipInLane": [
                         "full"
                     ],
@@ -129,15 +126,6 @@
                     ],
                     "netflixSearchDet": [
                         "none"
-                    ],
-                    "remotekeyPassForApp": [
-                        "full"
-                    ],
-                    "voiceRCSKey": [
-                        "none"
-                    ],
-                    "voiceHistory": [
-                        "full"
                     ],
                     "voiceKeySupport": [
                         "none"
@@ -239,9 +227,6 @@
                     "searchNetflix": [
                         "full"
                     ],
-                    "groupedSearch": [
-                        "full"
-                    ],
                     "pipInLane": [
                         "full"
                     ],
@@ -250,15 +235,6 @@
                     ],
                     "netflixSearchDet": [
                         "none"
-                    ],
-                    "remotekeyPassForApp": [
-                        "full"
-                    ],
-                    "voiceRCSKey": [
-                        "none"
-                    ],
-                    "voiceHistory": [
-                        "full"
                     ],
                     "voiceKeySupport": [
                         "none"
@@ -340,9 +316,6 @@
                     "searchNetflix": [
                         "full"
                     ],
-                    "groupedSearch": [
-                        "full"
-                    ],
                     "pipInLane": [
                         "full"
                     ],
@@ -357,15 +330,6 @@
                     ],
                     "netflixSearchDet": [
                         "none"
-                    ],
-                    "remotekeyPassForApp": [
-                        "full"
-                    ],
-                    "voiceRCSKey": [
-                        "full"
-                    ],
-                    "voiceHistory": [
-                        "full"
                     ],
                     "voiceKeySupport": [
                         "full"
