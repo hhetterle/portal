@@ -14,6 +14,7 @@
   "reportNavigationType": "container",
   "trackingUrl": "https://logs1204.xiti.com", //test  'https://logs1204...' or 'http://logc206....'; 
   "trackingSiteId": "588883", /*NGTV Test Zenterio*/
+  "voicePageHitsEnabled": "yes",
   "queueMaximumBufferSize": 15,
   "pollPrivacyFlagMin": 1,
 
