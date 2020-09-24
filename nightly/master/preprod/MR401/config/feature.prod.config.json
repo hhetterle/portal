@@ -77,7 +77,6 @@
                     "bluetooth": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["none"],
-                    "moreTvShowQrCodes" : ["none"],
                     "moreTvMagentaHaus" : ["none"],
                     "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
@@ -93,7 +92,6 @@
                     "netflixDet": ["full"],
                     "vodDeleteLicence": ["none"],
                     "vodBingeWatchImprovement": ["full"],
-                    "vodUX25": ["none"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
                     "remoteMessageGroupSearch": ["none"]
@@ -150,7 +148,6 @@
                     "bluetooth": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["none"],
-                    "moreTvShowQrCodes" : ["none"],
                     "moreTvMagentaHaus" : ["none"],
                     "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
@@ -166,7 +163,6 @@
                     "netflixDet": ["full"],
                     "vodDeleteLicence": ["none"],
                     "vodBingeWatchImprovement": ["full"],
-                    "vodUX25": ["none"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
                     "remoteMessageGroupSearch": ["none"]
@@ -212,7 +208,6 @@
                     "usb": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
                     "moreTvDebugNotification": ["none"],
-                    "moreTvShowQrCodes" : ["none"],
                     "moreTvMagentaHaus" : ["none"],
                     "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
@@ -229,7 +224,6 @@
                     "netflixDet": ["full"],
                     "vodDeleteLicence": ["none"],
                     "vodBingeWatchImprovement": ["full"],
-                    "vodUX25": ["none"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["full"],
                     "remoteMessageGroupSearch": ["none"]
