@@ -127,9 +127,6 @@
                     "searchNetflix": [
                         "none"
                     ],
-                    "pipInLane": [
-                        "full"
-                    ],
                     "netflixDet": [
                         "full"
                     ],
@@ -254,9 +251,6 @@
                     "searchNetflix": [
                         "none"
                     ],
-                    "pipInLane": [
-                        "full"
-                    ],
                     "netflixDet": [
                         "full"
                     ],
@@ -360,9 +354,6 @@
                     ],
                     "searchNetflix": [
                         "none"
-                    ],
-                    "pipInLane": [
-                        "full"
                     ],
                     "extendedpowermanagement": [
                         "none"
