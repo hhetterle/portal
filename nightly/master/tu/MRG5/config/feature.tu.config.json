@@ -87,9 +87,6 @@
                     "moreTvMySubscriptionsPackages": [
                         "none"
                     ],
-                    "moreTvDebugNotification": [
-                        "full"
-                    ],
                     "moreTvMagentaHaus": [
                         "full"
                     ],
@@ -200,9 +197,6 @@
                     ],
                     "moreTvMySubscriptionsPackages": [
                         "none"
-                    ],
-                    "moreTvDebugNotification": [
-                        "full"
                     ],
                     "moreTvMagentaHaus": [
                         "full"
