@@ -195,7 +195,6 @@
                     "app": ["full"],
                     "usb": ["none"],
                     "moreTvMySubscriptionsPackages": ["none"],
-                    "moreTvDebugNotification": ["full"],
                     "moreTvMagentaHaus" : ["full"],
                     "moreTvUX20" : ["none"],
                     "avscontent": ["full"],
