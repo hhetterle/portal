@@ -87,7 +87,7 @@
                     "useshortcuts": ["full"],
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
-                    "netflixDet": ["full"],
+                    "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
                     "remoteMessageGroupSearch": ["none"]
@@ -155,7 +155,7 @@
                     "useshortcuts": ["full"],
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
-                    "netflixDet": ["full"],
+                    "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
                     "remoteMessageGroupSearch": ["none"]
@@ -212,7 +212,7 @@
                     "searchNetflix": ["full"],
                     "extendedpowermanagement": ["none"],
                     "fullremote": ["none"],
-                    "netflixDet": ["full"],
+                    "netflixDet": ["none"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["full"],
                     "remoteMessageGroupSearch": ["none"]
