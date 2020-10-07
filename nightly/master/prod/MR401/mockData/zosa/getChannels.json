@@ -9629,7 +9629,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/64852cc14d5de4acf58d70ec1b0edf39bdd913d9.jpeg",
+				"url": "http://programm-manager.telekom.de/media/970fba6dcda3eb793b7a9e3721b5126054db4a00.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -17697,7 +17697,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/40bfcaefcaed4d45f38f8860185772914b54898a.png",
+				"url": "http://programm-manager.telekom.de/media/0b253961f1ed86531231b7ebef4856fe2393998c.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -17775,7 +17775,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/679f08ee1a40e9cfa4a731f137d69ad5a3677829.png",
+				"url": "http://programm-manager.telekom.de/media/5371a1404566488319991aef236525c5cdd96fd0.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -17853,7 +17853,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/aff31dd05fc2f16705168e04f43400e6569fc47f.png",
+				"url": "http://programm-manager.telekom.de/media/77d3c919d3c47429cf376c34c510bb1ef2dc1b8d.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -17937,7 +17937,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/b218a57d11ada0f80a3eee7dc5ab8ba282f0727f.png",
+				"url": "http://programm-manager.telekom.de/media/e72acc4e943682e5c0fc1bc320a6fbe2b9675fd0.png",
 				"height": "48",
 				"width": "120"
 			}
@@ -17994,7 +17994,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/5997a24aa3a16399ca07d69a45e8c9d956fae0ed.png",
+				"url": "http://programm-manager.telekom.de/media/62de0add95c271dede017fb50d22f6de51ffa34d.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -18072,7 +18072,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/6c6ec9624211f18e9c9dc136d0536bc0abb1ee25.png",
+				"url": "http://programm-manager.telekom.de/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -18150,7 +18150,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/572797147fee7e917ac44bb4875245aae3ea907c.png",
+				"url": "http://programm-manager.telekom.de/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -18213,7 +18213,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/3cbc280c2b99658a8a1932010102bf63b5a273a7.png",
+				"url": "http://programm-manager.telekom.de/media/b49bd59ff13cb015a5ab9243bf102d6b3d1cc4be.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -18276,7 +18276,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/4fd2bad9f354b43c96ecc4f483e46278149dc51c.png",
+				"url": "http://programm-manager.telekom.de/media/14c205585d3d1c5728d0575c661dc0d12c340ef1.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -21515,6 +21515,12 @@
 		"cmsId": "APP00281-DAZN",
 		"images": [
 			{
+				"serviceProviderImageType": "1",
+				"url": "http://programm-manager.telekom.de/media/8266bdb6209d47d37e37f1459dbcf07d6818836a.jpeg",
+				"height": "1080",
+				"width": "1920"
+			},
+			{
 				"serviceProviderImageType": "4",
 				"url": "http://programm-manager.telekom.de/media/f73b8f47835cf53b22ef3f342f7775b45f257536.png",
 				"height": "264",
@@ -21531,12 +21537,6 @@
 				"url": "http://programm-manager.telekom.de/media/b236118bf424462431b9f0b218bf1b1827aa3cc9.jpeg",
 				"height": "720",
 				"width": "1280"
-			},
-			{
-				"serviceProviderImageType": "1",
-				"url": "http://programm-manager.telekom.de/media/8266bdb6209d47d37e37f1459dbcf07d6818836a.jpeg",
-				"height": "1080",
-				"width": "1920"
 			}
 		],
 		"isFavorited": true,
@@ -21781,13 +21781,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk10006.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10001.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk10006.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
