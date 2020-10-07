@@ -44,5 +44,6 @@
   "cleanupJobsPostponeMs": 10000,
   "bingeWatchMinSequence": 10000,
   "bingeWatchAutoClose": 7000,
-  "bingeWatchNextClose": 5000
+  "bingeWatchNextClose": 5000,
+  "phonotarRadioAutoClose": 120000
 }

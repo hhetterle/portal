@@ -14,7 +14,7 @@
   "reportNavigationType": "container",
   "trackingSiteId": "552223",
   "trackingUrl": "undefined",
-  "voicePageHitsEnabled": "yes",
+  "voicePageHitsEnabled": true,
   "queueMaximumBufferSize": 15,
   "pollPrivacyFlagMin" :1,
   "transformation": "import({ return './config/usagetracker.config.json'; })"
