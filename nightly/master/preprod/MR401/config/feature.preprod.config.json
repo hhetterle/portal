@@ -121,6 +121,12 @@
                     "netflixDet": [
                         "none"
                     ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "vodBingeWatchImprovement": [
+                        "full"
+                    ],
                     "netflixSearchDet": [
                         "none"
                     ],
@@ -227,6 +233,12 @@
                     "netflixDet": [
                         "none"
                     ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "vodBingeWatchImprovement": [
+                        "full"
+                    ],
                     "netflixSearchDet": [
                         "none"
                     ],
@@ -301,6 +313,9 @@
                     "extendedui": [
                         "none"
                     ],
+                    "longpress": [
+                        "full"
+                    ],
                     "useshortcuts": [
                         "full"
                     ],
@@ -318,6 +333,12 @@
                     ],
                     "netflixDet": [
                         "none"
+                    ],
+                    "vodDeleteLicence": [
+                        "full"
+                    ],
+                    "vodBingeWatchImprovement": [
+                        "full"
                     ],
                     "netflixSearchDet": [
                         "none"

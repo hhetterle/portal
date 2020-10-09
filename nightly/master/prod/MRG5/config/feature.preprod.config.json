@@ -88,6 +88,8 @@
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
                     "netflixDet": ["none"],
+                    "vodDeleteLicence": ["full"],
+                    "vodBingeWatchImprovement": ["full"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
                     "remoteMessageGroupSearch": ["none"]
@@ -156,6 +158,8 @@
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
                     "netflixDet": ["none"],
+                    "vodDeleteLicence": ["full"],
+                    "vodBingeWatchImprovement": ["full"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
                     "remoteMessageGroupSearch": ["none"]
@@ -207,12 +211,15 @@
                     "satellitesubscriber": [],
                     "netpvr": ["none"],
                     "extendedui": ["none"],
+                    "longpress": ["full"],
                     "useshortcuts": ["full"],
                     "wholesale": ["none"],
                     "searchNetflix": ["full"],
                     "extendedpowermanagement": ["none"],
                     "fullremote": ["none"],
                     "netflixDet": ["none"],
+                    "vodDeleteLicence": ["full"],
+                    "vodBingeWatchImprovement": ["full"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["full"],
                     "remoteMessageGroupSearch": ["none"]

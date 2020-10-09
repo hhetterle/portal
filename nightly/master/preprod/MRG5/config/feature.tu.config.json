@@ -202,6 +202,7 @@
                     "netpvr": ["none"],
                     "extendedui": ["full"],
                     "wholesale": ["none"],
+                    "longpress": ["full"],
                     "useshortcuts": ["full"],
                     "searchNetflix": ["full"],
                     "extendedpowermanagement": ["none"],

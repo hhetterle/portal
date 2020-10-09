@@ -125,7 +125,7 @@
                         "none"
                     ],
                     "vodDeleteLicence": [
-                        "none"
+                        "full"
                     ],
                     "vodBingeWatchImprovement": [
                         "full"
@@ -240,7 +240,7 @@
                         "none"
                     ],
                     "vodDeleteLicence": [
-                        "none"
+                        "full"
                     ],
                     "vodBingeWatchImprovement": [
                         "full"
@@ -322,6 +322,9 @@
                     "extendedui": [
                         "none"
                     ],
+                    "longpress": [
+                        "full"
+                    ],
                     "useshortcuts": [
                         "full"
                     ],
@@ -341,7 +344,7 @@
                         "none"
                     ],
                     "vodDeleteLicence": [
-                        "none"
+                        "full"
                     ],
                     "vodBingeWatchImprovement": [
                         "full"
