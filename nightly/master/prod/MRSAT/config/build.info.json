@@ -1,10 +1,10 @@
 {
     "buildAgent": "githubActions",
-    "buildDate": "2020-10-13T04:05:39.191Z",
-    "buildVersion": "9777",
+    "buildDate": "2020-10-13T09:27:10.807Z",
+    "buildVersion": "9778",
     "buildIsNightly": true,
     "branch": "master",
-    "commit": "eaba887b74e5c5ee482b8fb54b6c0d7e477c4acb",
+    "commit": "56577891d17b6681ae89d94f598548777d24863a",
     "majorVersion": "2.84",
     "packageDate": "1970-01-01T00:00:00.000Z"
 }
