@@ -92,7 +92,7 @@
                     "vodBingeWatchImprovement": ["full"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
-                    "remoteMessageGroupSearch": ["none"]
+                    "remoteMessageGroupSearch": ["full"]
 
                 },
 
@@ -162,7 +162,7 @@
                     "vodBingeWatchImprovement": ["full"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["none"],
-                    "remoteMessageGroupSearch": ["none"]
+                    "remoteMessageGroupSearch": ["full"]
                 },
 
                 "values": {
@@ -222,7 +222,7 @@
                     "vodBingeWatchImprovement": ["full"],
                     "netflixSearchDet": ["none"],
                     "voiceKeySupport": ["full"],
-                    "remoteMessageGroupSearch": ["none"]
+                    "remoteMessageGroupSearch": ["full"]
                 },
 
               	"values": {

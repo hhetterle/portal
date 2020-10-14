@@ -137,7 +137,7 @@
                         "none"
                     ],
                     "remoteMessageGroupSearch": [
-                        "none"
+                        "full"
                     ]
                 },
                 "values": {
@@ -252,7 +252,7 @@
                         "none"
                     ],
                     "remoteMessageGroupSearch": [
-                        "none"
+                        "full"
                     ]
                 },
                 "values": {
@@ -356,7 +356,7 @@
                         "full"
                     ],
                     "remoteMessageGroupSearch": [
-                        "none"
+                        "full"
                     ]
                 },
                 "values": {
