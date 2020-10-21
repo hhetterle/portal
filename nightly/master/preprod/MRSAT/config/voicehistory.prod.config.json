@@ -1,6 +1,7 @@
 {
     "apiBaseUrl": "https://api.voiceui.telekom.net/history/app/api/v2/conversations/",
     "loginUrl": "https://api.voiceui.telekom.net/user/api/v1/login/",
+    "privacyUrl": "https://api.voiceui.telekom.net/user/api/v1/tnc/agreement/",
     "apiKey": "",
     "maxConversationAgeDays": 90
 }
