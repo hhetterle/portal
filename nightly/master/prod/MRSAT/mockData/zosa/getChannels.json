@@ -8764,7 +8764,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
+				"url": "http://programm-manager.telekom.de/media/717d6a35b85b0583efd14fee840645f3edcef323.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8827,7 +8827,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
+				"url": "http://programm-manager.telekom.de/media/717d6a35b85b0583efd14fee840645f3edcef323.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8890,7 +8890,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
+				"url": "http://programm-manager.telekom.de/media/717d6a35b85b0583efd14fee840645f3edcef323.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -8953,7 +8953,7 @@
 			},
 			{
 				"serviceProviderImageType": "99",
-				"url": "http://programm-manager.telekom.de/media/373d4c164640533b8475d00200794690d92a97c3.jpeg",
+				"url": "http://programm-manager.telekom.de/media/717d6a35b85b0583efd14fee840645f3edcef323.jpeg",
 				"height": "1080",
 				"width": "1920"
 			}
@@ -18093,7 +18093,7 @@
 			},
 			{
 				"serviceProviderImageType": "15",
-				"url": "http://programm-manager.telekom.de/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png",
+				"url": "http://programm-manager.telekom.de/media/b7944bde2a93a3d56a9b44392b8d8596065f718e.png",
 				"height": "48",
 				"width": "120"
 			},
@@ -18139,7 +18139,7 @@
 				"zosaType": "StreamItem"
 			}
 		],
-		"title": "Sky Cinema Special",
+		"title": "Sky Cinema Halloween",
 		"zosaId": "392:3844",
 		"zosaType": "ChannelItem"
 	},
@@ -21724,13 +21724,13 @@
 		"images": [
 			{
 				"serviceProviderImageType": "1",
-				"url": "http://appepmfk10007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
+				"url": "http://appepmfk20007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170423/000101/0001010050264924/443004ec-df07-4a02-b849-e90b0987b0e6.png",
 				"height": "0",
 				"width": "0"
 			},
 			{
 				"serviceProviderImageType": "7",
-				"url": "http://appepmfk10007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
+				"url": "http://appepmfk20007.prod.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170424/000101/0001010050264924/e16babf4-d595-4775-a183-1ed0486a5b02.jpg",
 				"height": "0",
 				"width": "0"
 			},
