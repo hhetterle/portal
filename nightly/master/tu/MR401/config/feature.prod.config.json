@@ -32,22 +32,6 @@
             },
             {
                 "type": "urlSource",
-                "query": "subscriber_type",
-                "rule": {
-                    "expression": "GUESTIPTV_DT",
-                    "assignment": "guest"
-                }
-            },
-            {
-                "type": "urlSource",
-                "query": "subscriber_type",
-                "rule": {
-                    "expression": "IPTV_COAX",
-                    "assignment": "coax"
-                }
-            },
-            {
-                "type": "urlSource",
                 "query": "path",
                 "rule": {
                     "expression": "\/EPG\/NIGHTLY\/",
@@ -122,16 +106,6 @@
                             "demoarea": [
                                 "full"
                             ]
-                        }
-                    },
-                    "guest": {
-                        "rights": {
-                            "userLogin": ["full"]
-                        }
-                    },
-                    "coax": {
-                        "rights": {
-                            "userLogout": ["full"]
                         }
                     }
                 }
