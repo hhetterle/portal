@@ -109,9 +109,6 @@
                     "extendedui": [
                         "full"
                     ],
-                    "wholesale": [
-                        "none"
-                    ],
                     "longpress": [
                         "none"
                     ],
@@ -220,9 +217,6 @@
                     "extendedui": [
                         "full"
                     ],
-                    "wholesale": [
-                        "none"
-                    ],
                     "longpress": [
                         "none"
                     ],
@@ -313,9 +307,6 @@
                     ],
                     "extendedui": [
                         "full"
-                    ],
-                    "wholesale": [
-                        "none"
                     ],
                     "longpress": [
                         "full"
