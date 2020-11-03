@@ -12,6 +12,5 @@
   //"TeleNeoExtraBold": "fileblob(src/src-de-telekom-style/font/TeleNeoWeb-ExtraBold.woff)",
   
   // definitions for images
-  "spritemap": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/sprite.png'; })",
-  "defaultBackground": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/background-image.png'; })"
+  "spritemap": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/sprite.png'; })"
 }
